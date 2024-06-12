@@ -67,21 +67,3 @@ nav {
 	border-radius: 2px;
 	box-shadow: 0 1px 2px #00000054;
 }
-
-button a {
-	text-decoration: none;
-	border: none;
-}
-
-button {
-	border: none;
-	border-radius: 2px;
-	padding: 0.25rem 0.5rem;
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	white-space: nowrap;
-	min-width: 60px;
-	cursor: pointer;
-	outline: 1px solid;
-}
