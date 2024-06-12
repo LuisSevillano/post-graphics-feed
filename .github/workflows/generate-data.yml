@@ -2,7 +2,7 @@ name: Generate API Data
 
 on:
   schedule:
-    - cron: '0 6,18 * * *'
+    - cron: '0 * * * *'
   push:
     branches:
       - main
