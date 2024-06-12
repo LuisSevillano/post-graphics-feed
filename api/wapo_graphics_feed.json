@@ -1446,8 +1446,8 @@
   },
   {
     "id": "IIPNVT7JORELZFBXLM5W2IJ3VQ",
-    "headline": "Inside the massive three-step cleanup of Baltimore’s Key Bridge",
-    "description": "There’s a three-step plan set by officials at Baltimore’s Key bridge site to clear the river of debris and reopen the shipping channel to the port.",
+    "headline": "Inside the massive cleanup effort to reopen Baltimore’s shipping channel",
+    "description": "Officials used a three-step plan at Baltimore’s Key Bridge site to clear the river of debris and fully reopen the shipping channel to the port.",
     "url": "https://www.washingtonpost.com/dc-md-va/interactive/2024/baltimore-bridge-cleanup-steps/",
     "credits": [
       {
@@ -1465,6 +1465,10 @@
       {
         "name": "Leslie Shapiro",
         "slug": "leslie-shapiro"
+      },
+      {
+        "name": "Michael Laris",
+        "slug": "michael-laris"
       }
     ],
     "date": "2024-04-05T21:00:02.665Z",
@@ -3453,7 +3457,7 @@
       }
     ],
     "date": "2023-06-22T11:45:58.334Z",
-    "img": "https://www.washingtonpost.com/resizer/QjS3hCOxWWtQ1xgDfBwH6mi2IKs=/300x0/arc-anglerfish-washpost-prod-washpost/public/L77I3SSRJ5HTTHJH3YSGICTKEY.jpg",
+    "img": "https://www.washingtonpost.com/resizer/SYXowcyk3cbspaRHizK0qegw6Z8=/300x0/arc-anglerfish-washpost-prod-washpost/public/QMI4NFHJSFCVZKOJCYUPXYMLYI.jpg",
     "label": {
       "url": "https://www.washingtonpost.com/weather/"
     }
