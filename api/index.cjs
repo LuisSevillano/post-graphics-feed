@@ -2,7 +2,7 @@ const fs = require('fs');
 const authors = require('./authors.json');
 
 const currentDate = new Date().toISOString();
-const limit = 5; // number of articles per author
+const limit = 10; // number of articles per author
 
 // build and encode urls
 const urls = authors.map(({ slug }) =>
