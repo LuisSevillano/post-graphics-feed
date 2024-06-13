@@ -34,19 +34,33 @@ async function getAuthorData(url) {
 			};
 		});
 	} catch (error) {
-		console.error(`Error fetching author data from ${url}:`, error);
-		return null;
+		console.error(`\n* Error fetching author data from ${url}. Error:\n\n`, error);
+		return [];
 	}
+}
+
+// Function to read existing JSON file if it exists
+function readExistingJson(filePath) {
+	try {
+		if (fs.existsSync(filePath)) {
+			const data = fs.readFileSync(filePath, 'utf8');
+			return JSON.parse(data);
+		}
+	} catch (error) {
+		console.error(`Error reading existing JSON file: ${error}`);
+	}
+	return [];
 }
 
 // Main function to get data from all authors, merge and sort articles by publication date, and write the resulting JSON to a file
 async function main() {
-	let allArticles = [];
+	const existingArticles = readExistingJson('api/wapo_graphics_feed.json');
+	let allArticles = [...existingArticles];
 
 	for (const url of urls) {
 		const authorData = await getAuthorData(url);
 
-		if (authorData) {
+		if (authorData.length > 0) {
 			allArticles = allArticles.concat(authorData);
 		}
 	}
@@ -62,15 +76,19 @@ async function main() {
 	// Compose the final JSON
 	const finalJson = JSON.stringify(uniqueArticles, null, 2);
 
-	// Write the JSON to a file
-	const outputFile = 'wapo_graphics_feed.json';
-	fs.writeFile(`api/${outputFile}`, finalJson, 'utf8', (err) => {
-		if (err) {
-			console.error('Error writing file:', err);
-		} else {
-			console.log(`File ${outputFile} created successfully.`);
-		}
-	});
+	// Write the JSON to a file only if new articles were added
+	if (uniqueArticles.length > existingArticles.length) {
+		const outputFile = 'api/wapo_graphics_feed.json';
+		fs.writeFile(outputFile, finalJson, 'utf8', (err) => {
+			if (err) {
+				console.error('Error writing file:', err);
+			} else {
+				console.log(`File ${outputFile} created successfully.`);
+			}
+		});
+	} else {
+		console.log('No new articles to update.');
+	}
 }
 
 // Execute the main function
