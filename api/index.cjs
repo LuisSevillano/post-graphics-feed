@@ -7,7 +7,7 @@ const limit = 5; // number of articles per author
 // build and encode urls
 const urls = authors.map(({ slug }) =>
 	encodeURI(
-		`https://www.washingtonpost.com/prism/api/author-feed?_website=washpost&query={"slug":"${slug}","from":"2023","to":"${currentDate}","limit":${limit}}`
+		`https://www.washingtonpost.com/prism/api/author-feed?_website=washpost&query={"slug":"${slug}","from":"2014","to":"${currentDate}","limit":${limit}}`
 	)
 );
 
