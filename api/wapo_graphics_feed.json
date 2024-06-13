@@ -1,5 +1,26 @@
 [
   {
+    "id": "4GXR2WL76BF3HFLW3GDJ4TARUE",
+    "headline": "How every senator voted on the Right to IVF Act",
+    "description": "See how your senator voted on the Right to IVF Act.",
+    "url": "https://www.washingtonpost.com/politics/interactive/2024/06/13/senate-vote-right-to-ivf-bill/",
+    "credits": [
+      {
+        "name": "Szu Yu  Chen",
+        "slug": "szuyu-chen"
+      },
+      {
+        "name": "Adrián Blanco",
+        "slug": "adrian-blanco"
+      }
+    ],
+    "date": "2024-06-13T19:26:00.013Z",
+    "img": "https://www.washingtonpost.com/resizer/gKTuCi5hkE3PYI7WXlJZ5r1i_8U=/300x0/arc-anglerfish-washpost-prod-washpost/public/YT7HKDPWVNAMXN6ZMWXHQ7GBPU.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/politics/"
+    }
+  },
+  {
     "id": "2DDWUEZHGVH6JH5HTYUC7WZUPE",
     "headline": "Anatomy of a flood",
     "description": "The Post installed cameras to capture how sea level rise worsens high-tide flooding in this N.C. town.",
