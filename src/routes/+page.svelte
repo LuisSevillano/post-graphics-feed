@@ -15,7 +15,7 @@
 
 <style>
 	header {
-		padding: 1rem 0;
+		padding: 3rem 0 1rem;
 		display: flex;
 		flex-wrap: wrap;
 		justify-content: space-between;
@@ -24,6 +24,8 @@
 	}
 	@media (min-width: 830px) {
 		header {
+			padding: 1rem 0;
+
 			width: auto;
 		}
 	}
