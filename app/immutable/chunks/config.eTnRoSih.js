@@ -1,0 +1,1 @@
+const s="Washington Post Graphics Feed",t="A list of the latest articles published by the graphics team",e="https://luissevillano.net/post-graphics-feed/index.html",i="https://luissevillano.net",a="https://luissevillano.net/post-graphics-feed/cover.jpg";export{t as a,e as b,a as c,i as h,s};
