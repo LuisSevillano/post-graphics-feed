@@ -1,5 +1,26 @@
 [
   {
+    "id": "IZWZOKGPCZE33F2FLE4AGLYAZM",
+    "headline": "How every House member voted on the National Defense Authorization Act",
+    "description": "See how your lawmaker voted on the House’s version of the National Defense Authorization Act.",
+    "url": "https://www.washingtonpost.com/politics/interactive/2024/06/14/defense-bill-house-vote/",
+    "credits": [
+      {
+        "name": "Nick Mourtoupalas",
+        "slug": "nick-mourtoupalas"
+      },
+      {
+        "name": "Kevin Uhrmacher",
+        "slug": "kevin-uhrmacher"
+      }
+    ],
+    "date": "2024-06-14T16:30:27.417Z",
+    "img": "https://www.washingtonpost.com/resizer/wLYExxK2rAAIs7t9dG83y2Q0Gjg=/300x0/arc-anglerfish-washpost-prod-washpost/public/PXZEGRNYPNDAHIAYKHAPPQ46SA.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/politics/"
+    }
+  },
+  {
     "id": "4GXR2WL76BF3HFLW3GDJ4TARUE",
     "headline": "How every senator voted on the Right to IVF Act",
     "description": "See how your senator voted on the Right to IVF Act.",
