@@ -1,5 +1,30 @@
 [
   {
+    "id": "MXBIDGFGXVAENGTNTFAIZOQLJA",
+    "headline": "Maps of the Post Fire in L.A. County",
+    "description": "Maps show the advance of the Post wildfire in Los Angeles County, California, burning around 25 miles north of Santa Clarita.",
+    "url": "https://www.washingtonpost.com/weather/2024/06/16/maps-post-fire-la-county/",
+    "credits": [
+      {
+        "name": "Chiqui Esteban",
+        "slug": "chiqui-esteban"
+      },
+      {
+        "name": "Dylan Moriarty",
+        "slug": "dylan-moriarty"
+      },
+      {
+        "name": "Aditya Jain",
+        "slug": "aditya-jain"
+      }
+    ],
+    "date": "2024-06-16T18:02:55.366Z",
+    "img": "https://www.washingtonpost.com/resizer/UbfO5kqyvmBo4raDurPDpxQB08w=/300x0/arc-anglerfish-washpost-prod-washpost/public/AK2NHLIUYJBKJBQIF6WDZ5JHEQ.png",
+    "label": {
+      "url": "https://www.washingtonpost.com/weather/"
+    }
+  },
+  {
     "id": "IZWZOKGPCZE33F2FLE4AGLYAZM",
     "headline": "How every House member voted on the National Defense Authorization Act",
     "description": "See how your lawmaker voted on the House’s version of the National Defense Authorization Act.",
