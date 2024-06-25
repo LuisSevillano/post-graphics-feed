@@ -1,5 +1,26 @@
 [
   {
+    "id": "52GKQRFSQ5A6RCDCKZINPGETTQ",
+    "headline": "See how your spending habits differ from previous generations",
+    "description": "Technological advances, globalization and housing shortages have radically reshaped how Americans spend their money over the last 50 years. ",
+    "url": "https://www.washingtonpost.com/business/interactive/2024/us-spending-housing-healthcare-costs/",
+    "credits": [
+      {
+        "name": "Alyssa Fowers",
+        "slug": "alyssa-fowers"
+      },
+      {
+        "name": "Kevin Schaul",
+        "slug": "kevin-schaul"
+      }
+    ],
+    "date": "2024-06-25T12:05:51.733Z",
+    "img": "https://www.washingtonpost.com/resizer/UlXCCteJOx2KvKH1bnFAT4RV7gA=/300x0/arc-anglerfish-washpost-prod-washpost/public/YCKSETQNPBFGDDFIYGOHQWPEMM.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/business/"
+    }
+  },
+  {
     "id": "XHGZA4LYBBF6PDYAGKU3MUSYRQ",
     "headline": "Even among world leaders, Biden and Trump are old",
     "description": "The next U.S. president, whether it’s Biden or Trump, will be at least 15 years older than the median for global leaders. Here’s how the ages of world leaders compare.",
