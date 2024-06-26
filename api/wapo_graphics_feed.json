@@ -1,5 +1,34 @@
 [
   {
+    "id": "HGW47X6FUFEQFJMGQQIZDPNMF4",
+    "headline": "Who is ahead in 2024 presidential polls right now?",
+    "description": "Check out The Washington Post’s presidential polling averages of the seven battleground states most likely to determine the outcome of the election.",
+    "url": "https://www.washingtonpost.com/elections/interactive/2024/presidential-polling-averages/",
+    "credits": [
+      {
+        "name": "Lenny Bronner",
+        "slug": "lenny-bronner"
+      },
+      {
+        "name": "Diane Napolitano",
+        "slug": "diane-napolitano"
+      },
+      {
+        "name": "Kati Perry",
+        "slug": "kati-perry"
+      },
+      {
+        "name": "Luis Melgar",
+        "slug": "luis-melgar"
+      }
+    ],
+    "date": "2024-06-26T17:00:35.459Z",
+    "img": "https://www.washingtonpost.com/resizer/U0MFGP4F0I6E4wsXRxjT9SWP9jI=/300x0/arc-anglerfish-washpost-prod-washpost/public/MY6S7KGJ2VHZJJIEXGOT7Y3AT4.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/elections/"
+    }
+  },
+  {
     "id": "TBPYRNVYW5ESXLJLPRONPLTW4E",
     "headline": "4.1 million migrants: Where they’re from, where they live in the U.S.",
     "description": "We analyzed more than 4.1 million U.S. immigration court records amid debates about the U.S.-Mexico border, which often omit what happens to migrants who stay.",
