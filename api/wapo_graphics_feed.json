@@ -1,5 +1,30 @@
 [
   {
+    "id": "G4FVKYYEYZG4ROMLPW46HLSG3A",
+    "headline": "The most religious, and religiously diverse, places in America",
+    "description": "This week, we mine the U.S. Religious Census, a decennial count of America’s faithful, for insights into the geography of religious devotion. We also compare people’s claims on church attendance to their actual behavior.",
+    "url": "https://www.washingtonpost.com/business/2024/06/28/religious-census-map-diversity-catholics/",
+    "credits": [
+      {
+        "name": "Adrián Blanco",
+        "slug": "adrian-blanco"
+      },
+      {
+        "name": "Lenny Bronner",
+        "slug": "lenny-bronner"
+      },
+      {
+        "name": "Andrew Van Dam",
+        "slug": "andrew-van-dam"
+      }
+    ],
+    "date": "2024-06-28T10:00:35.721Z",
+    "img": "https://www.washingtonpost.com/resizer/kuJVAkn1GaNIKJLuIs2LRxjveH4=/300x0/arc-anglerfish-washpost-prod-washpost/public/O5YEUZQZNFCTLNMLLQSXJIRC5U.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/business/2022/06/29/dept-of-data/"
+    }
+  },
+  {
     "id": "I2LSY4EY3JDTTH7K7PA5JNHADY",
     "headline": "How to recover from a torn Achilles’? These Olympians have done it.",
     "description": "Triple jumpers Christian Taylor, a two-time Olympic gold medalist, and Will Claye, a double silver medalist, will try to make the U.S. team on repaired Achilles’ tendons.",
