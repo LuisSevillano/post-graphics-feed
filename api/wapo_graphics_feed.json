@@ -6793,6 +6793,39 @@
     }
   },
   {
+    "id": "7NC274QGLRBFHEAIDJBD2Z6BKU",
+    "headline": "The number of students who have experienced gun violence at school since Columbine",
+    "description": "The Washington Post for years has tracked the number of students affected by school shootings. Since 1999, over 300,000 children have experienced gun violence during school hours.",
+    "url": "https://www.washingtonpost.com/education/interactive/school-shootings-database/",
+    "credits": [
+      {
+        "name": "John Woodrow Cox",
+        "slug": "john-woodrow-cox"
+      },
+      {
+        "name": "Steven Rich",
+        "slug": "steven-rich"
+      },
+      {
+        "name": "Lucas Trevor",
+        "slug": "lucas-trevor"
+      },
+      {
+        "name": "John Muyskens",
+        "slug": "john-muyskens"
+      },
+      {
+        "name": "Monica Ulmanu",
+        "slug": "monica-ulmanu"
+      }
+    ],
+    "date": "2023-02-13T18:10:36.541Z",
+    "img": "https://www.washingtonpost.com/resizer/Ixb0g9gAm6hMzMiGaqy4usUHtwU=/300x0/arc-anglerfish-washpost-prod-washpost/public/V3F7MRHCCRHIPBYON5MIOOMK2Y.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/education/"
+    }
+  },
+  {
     "id": "EXTZ3Y7ESJFZPFIR6FN2ZAEPZI",
     "headline": "Videos show evidence of escalating crackdown on Iranian protests",
     "description": "A Post analysis reveals with new clarity how security forces are operating in a protest epicenter — carrying out arrests, beatings and, in some cases, opening fire on civilians.",
