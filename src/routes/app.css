@@ -24,12 +24,6 @@ footer {
 	margin: 0rem auto 2rem auto;
 	max-width: 50rem;
 }
-footer {
-}
-main {
-	padding: 1rem;
-	position: relative;
-}
 
 @media (min-width: 380px) {
 	header h1 {

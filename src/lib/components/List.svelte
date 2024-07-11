@@ -75,8 +75,8 @@
 
 	@media (min-width: 600px) {
 		.grid {
-			grid-template-columns: repeat(auto-fill, 320px);
-			row-gap: 35px;
+			grid-template-columns: repeat(auto-fill, 280px);
+			grid-gap: 1em;
 		}
 	}
 </style>

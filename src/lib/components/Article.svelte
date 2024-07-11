@@ -17,9 +17,11 @@
 
 <div class="content">
 	<a href={data.url}>
-		{#if data.img}
-			<img loading="lazy" decoding="auto" src={data.img} alt={data.description} />
-		{/if}
+		<div class="img">
+			{#if data.img}
+				<img loading="lazy" decoding="auto" src={data.img} alt={data.description} />
+			{/if}
+		</div>
 	</a>
 	<div class="article-data">
 		<h1>{data.headline}</h1>
@@ -66,6 +68,11 @@
 </div>
 
 <style>
+	.img {
+		aspect-ratio: 16 / 9;
+		position: relative;
+		overflow: hidden;
+	}
 	.content {
 		padding-top: 2rem;
 		border-top: 1px solid rgb(233, 233, 233);

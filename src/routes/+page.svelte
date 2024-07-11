@@ -14,6 +14,10 @@
 </main>
 
 <style>
+	main {
+		max-width: 1200px;
+		margin: 0 auto;
+	}
 	header {
 		padding: 3rem 0 1rem;
 		display: flex;
