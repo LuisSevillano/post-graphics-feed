@@ -1,4 +1,6 @@
 <script>
+	import Img from './Img.svelte';
+	import ArticleData from './ArticleData.svelte';
 	export let data;
 	const authorBaselineURL = 'https://www.washingtonpost.com/people/';
 	// const defIMG = './YX6JDD2TTJF4XPVHIZPHF4SVD4.jpeg';
@@ -16,6 +18,14 @@
 </script>
 
 <div class="content">
+	<a href={data.url} aria-label="Link to article" target="_blank" rel="noopener noreferrer">
+		<Img src={data?.img} alt={data?.description} />
+	</a>
+
+	<ArticleData {data} />
+</div>
+
+<!-- <div class="content">
 	<a href={data.url}>
 		<div class="img">
 			{#if data.img}
@@ -65,104 +75,10 @@
 			{/if}
 		</p>
 	</div>
-</div>
+</div> -->
 
 <style>
-	.img {
-		aspect-ratio: 16 / 9;
-		position: relative;
-		overflow: hidden;
-	}
 	.content {
-		padding-top: 2rem;
-		border-top: 1px solid rgb(233, 233, 233);
-	}
-
-	.author-item {
-		display: flex;
-	}
-	a span {
-		border-bottom: 1px solid black;
-	}
-	.description {
-		color: rgb(89, 89, 89);
-		margin: 0;
-	}
-	.authors,
-	.date {
-		margin: 0;
-	}
-	.authors {
-		display: flex;
-		flex-wrap: wrap;
-		min-height: 40px;
-		margin-top: 0.25rem;
-	}
-	a:hover + div h1 {
-		color: rgb(80, 80, 80);
-	}
-	a:hover img {
-		transform: scale(1.01);
-	}
-
-	.flexible {
-		flex-grow: 0;
-	}
-
-	.article-data {
-		display: flex;
-		flex-direction: column;
-		justify-content: flex-end;
-	}
-	h1 {
-		font-size: 1.5rem;
-		height: auto;
-		margin-top: 2.5rem;
-		margin-bottom: 0.5rem;
-	}
-	.description,
-	.date {
-		font-size: 1rem;
-	}
-
-	.date {
-		margin-top: 0.75rem;
-		font-size: 1rem;
-		font-weight: 100;
-	}
-	img {
-		transition: all 250ms;
-		width: 100%;
-	}
-	a {
-		text-decoration: none;
-		display: block;
-	}
-	.content > a {
-		display: flex;
-		background: rgb(235 235 235);
-		align-items: center;
-	}
-	@media (min-width: 600px) {
-		.content {
-			padding-top: 0;
-			border: none;
-		}
-		.flexible {
-			flex-grow: 1;
-		}
-		h1 {
-			height: 85px;
-			margin: 0.5rem 0;
-			font-size: 1.25rem;
-		}
-		.article-data {
-			height: 245px;
-		}
-		.content > a {
-			height: 210px;
-			max-height: 210px;
-			overflow: hidden;
-		}
+		margin: 0 0 2em 0;
 	}
 </style>

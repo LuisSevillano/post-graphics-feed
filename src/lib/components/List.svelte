@@ -1,82 +1,53 @@
 <script>
-	import Article from '$lib/Article.svelte';
-	import Skeleton from '$lib/Skeleton.svelte';
+	import Article from '$lib/components/Article.svelte';
+	import Skeleton from '$lib/components/Skeleton.svelte';
+	import ShowMore from './ShowMore.svelte';
 	import { onMount } from 'svelte';
 
-	let articles = [];
-	let articlesSliced = [];
-	let nArticles = 35;
-	let indexes = [0, nArticles];
+	import { indexes, articlesSliced, articles, nArticles } from '$lib/stores/stores.js';
+
 	let isLoading = true;
-	$: hasMoreArticles = articlesSliced.length < articles.length;
 
 	onMount(async () => {
 		try {
 			const response = await fetch(
 				'https://raw.githubusercontent.com/LuisSevillano/post-graphics-feed/main/api/wapo_graphics_feed.json'
 			);
-			articles = await response.json();
-			articlesSliced = articles.slice(indexes[0], indexes[1]);
+			$articles = await response.json();
+			$articlesSliced = $articles.slice(0, nArticles);
 			isLoading = false;
 		} catch (error) {
 			console.error('Error loading articles:', error);
 			isLoading = false;
 		}
 	});
-
-	function updateIndexes() {
-		indexes = [indexes[0] + nArticles, indexes[1] + nArticles];
-		articlesSliced = articlesSliced.concat(articles.slice(indexes[0], indexes[1]));
-	}
 </script>
 
 <section>
-	<div class="grid">
-		{#if isLoading}
-			<Skeleton />
-		{:else}
-			{#each articlesSliced as article}
-				<Article data={article} />
-			{/each}
-		{/if}
-	</div>
-</section>
-<section>
-	{#if hasMoreArticles}
-		<div class="loading-button">
-			<button on:click={updateIndexes}>Show more</button>
-		</div>
+	<!-- <div class="grid"> -->
+	{#if isLoading}
+		<Skeleton />
+	{:else}
+		{#each $articlesSliced as article}
+			<Article data={article} />
+		{/each}
 	{/if}
+	<!-- </div> -->
+	<ShowMore />
 </section>
+<section></section>
 
 <style>
-	.loading-button {
-		display: flex;
-		align-items: center;
-		justify-content: center;
-		margin-top: 1.5rem;
-	}
-	button {
-		margin: 1rem;
-		width: 120px;
-		height: 30px;
-		cursor: pointer;
-	}
-
-	.grid {
-		position: relative;
+	section {
 		display: grid;
-		grid-template-columns: auto;
-		grid-gap: 40px;
+		grid-template-columns: 1fr;
+		grid-gap: 1em;
 		justify-content: center;
 		grid-auto-flow: dense;
-		row-gap: 25px;
 	}
-
 	@media (min-width: 600px) {
-		.grid {
-			grid-template-columns: repeat(auto-fill, 280px);
-			grid-gap: 1em;
+		section {
+			grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
 		}
 	}
 </style>

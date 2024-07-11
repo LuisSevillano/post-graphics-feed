@@ -5,5 +5,4 @@
 </script>
 
 <Meta />
-<Logo />
 <slot />
