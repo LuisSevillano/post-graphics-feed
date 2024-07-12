@@ -1,6 +1,9 @@
 <script>
-	import { siteTitle, siteDescription, siteURL, siteImage } from '$lib/config';
-	const modified = import.meta.env.VITE_DATA_MODIFIED;
+	export let siteTitle;
+	export let siteDescription;
+	export let siteURL;
+	export let siteImage;
+	export let modified;
 </script>
 
 <svelte:head>
@@ -9,7 +12,7 @@
 	<meta name="title" content={siteTitle} />
 	<meta name="description" content={siteDescription} />
 
-	<meta property="article:published_time" content="2024-06-20T17:41:11.215Z" />
+	<meta property="article:published_time" content="2024-06-11T17:37:11.215Z" />
 	<meta property="article:modified_time" content={modified} />
 
 	<!-- Open Graph / Facebook -->

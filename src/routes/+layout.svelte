@@ -1,8 +1,10 @@
 <script>
 	import './app.css';
 	import Meta from '$lib/components/Meta.svelte';
-	import Logo from '$lib/components/Logo.svelte';
+	export let data;
+	const { siteTitle, siteDescription, siteURL, siteImage, modified } = data;
 </script>
 
-<Meta />
+<Meta {siteTitle} {siteDescription} {siteURL} {siteImage} {modified} />
+
 <slot />
