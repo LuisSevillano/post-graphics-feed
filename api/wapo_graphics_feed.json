@@ -1,5 +1,34 @@
 [
   {
+    "id": "B73IWI72RRH6NHXD2JTFEZFIGU",
+    "headline": "Trump remade the GOP in his image — and its platform in his words",
+    "description": "The 2024 document contains numerous passages that paraphrase or lift directly from things Trump has said in speeches or in Truth Social posts.",
+    "url": "https://www.washingtonpost.com/elections/interactive/2024/republican-platform-changes-trump/",
+    "credits": [
+      {
+        "name": "Derek Hawkins",
+        "slug": "derek-hawkins"
+      },
+      {
+        "name": "Clara Ence Morse",
+        "slug": "clara-ence-morse"
+      },
+      {
+        "name": "Adrián Blanco",
+        "slug": "adrian-blanco"
+      },
+      {
+        "name": "Aadit Tambe",
+        "slug": "aadit-tambe"
+      }
+    ],
+    "date": "2024-07-15T09:00:08.332Z",
+    "img": "https://www.washingtonpost.com/resizer/-S5zfgikyVIQ35fI6_os3fdJ2Cs=/300x0/arc-anglerfish-washpost-prod-washpost/public/ZPSIXPL7CZGNVAM6OJ7NVSUZTQ.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/elections/"
+    }
+  },
+  {
     "id": "QNKRGRXFE5FO7AJ7YNYXHH4B4U",
     "headline": "Mapping the Republican National Convention in Milwaukee",
     "description": "Republicans are hosting their national convention at Fiserv Forum in Milwaukee. Here are the security zones and where protests are allowed.",
