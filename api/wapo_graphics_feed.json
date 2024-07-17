@@ -1,5 +1,46 @@
 [
   {
+    "id": "GHGDLTDRW5F5BI3QTZ4KU5FLIU",
+    "headline": "Obstructed view may have delayed sniper response at Trump rally",
+    "description": "A 3D analysis by The Washington Post found two countersniper teams likely had difficulty seeing the gunman before he fired.",
+    "url": "https://www.washingtonpost.com/investigations/interactive/2024/trump-rally-shooting-maps-secret-service-analysis/",
+    "credits": [
+      {
+        "name": "Samuel Oakford",
+        "slug": "samuel-oakford"
+      },
+      {
+        "name": "Aaron Steckelberg",
+        "slug": "aaron-steckelberg"
+      },
+      {
+        "name": "Evan Hill",
+        "slug": "evan-hill"
+      },
+      {
+        "name": "Jarrett Ley",
+        "slug": "jarrett-ley"
+      },
+      {
+        "name": "Jonathan Baran",
+        "slug": "jonathan-baran"
+      },
+      {
+        "name": "Alex Horton",
+        "slug": "alex-horton"
+      },
+      {
+        "name": "Samuel Granados",
+        "slug": "samuel-granados"
+      }
+    ],
+    "date": "2024-07-16T23:50:38.609Z",
+    "img": "https://www.washingtonpost.com/resizer/-Un3p-CpqGehdOjmTywbbobKRIY=/300x0/arc-anglerfish-washpost-prod-washpost/public/WP7DKZOORBHANK6H4FVVK5JVHE.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/national/"
+    }
+  },
+  {
     "id": "TTF6XHBV7NDRRMZSBESASNY6UI",
     "headline": "Who is — and isn’t — speaking at the Republican National Convention",
     "description": "More than half the speakers at the Republican convention in Milwaukee have spread election falsehoods or cast doubt on 2024. Here’s who they are.",
