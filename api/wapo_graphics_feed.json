@@ -1,5 +1,34 @@
 [
   {
+    "id": "VMSJPDTEHRFL3BQYZWZH3FMTOQ",
+    "headline": "What happens if Biden drops out of the presidential race?",
+    "description": "Six questions answered on how the process could unfold.",
+    "url": "https://www.washingtonpost.com/elections/2024/07/18/what-happens-biden-drops-out/",
+    "credits": [
+      {
+        "name": "Colby Itkowitz",
+        "slug": "colby-itkowitz"
+      },
+      {
+        "name": "Maeve Reston",
+        "slug": "maeve-reston"
+      },
+      {
+        "name": "Emily Guskin",
+        "slug": "emily-guskin"
+      },
+      {
+        "name": "Derek Hawkins",
+        "slug": "derek-hawkins"
+      }
+    ],
+    "date": "2024-07-18T21:39:46.473Z",
+    "img": "https://www.washingtonpost.com/resizer/R0O5hJk-tnTDL42ItBeFQqbkkdk=/300x0/arc-anglerfish-washpost-prod-washpost/public/FLQVPPSAGKPHPXNWAWALBZXK2A.JPG",
+    "label": {
+      "url": "https://www.washingtonpost.com/elections/"
+    }
+  },
+  {
     "id": "2S6AAV6GCRH5DEUGGKBCJPTMZU",
     "headline": "How fracking could unlock a clean energy future",
     "description": "Fracking supporters have long touted it as a green technology. Enhanced geothermal energy is finally making that a reality.",
