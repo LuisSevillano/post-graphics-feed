@@ -1,5 +1,26 @@
 [
   {
+    "id": "M3MEXCNPGZGJLMHCCOPYUV4XZI",
+    "headline": "The hospitals, airlines and banks impacted by the global IT outage",
+    "description": "A global IT issue on Friday caused widespread issues for airports, banks and hospitals.",
+    "url": "https://www.washingtonpost.com/business/2024/07/19/crowdstrike-outage-companies-impacted/",
+    "credits": [
+      {
+        "name": "Rachel Lerman",
+        "slug": "rachel-lerman"
+      },
+      {
+        "name": "Alyssa Fowers",
+        "slug": "alyssa-fowers"
+      }
+    ],
+    "date": "2024-07-19T18:10:05.431Z",
+    "img": "https://www.washingtonpost.com/resizer/UDdFWVLfAAGGluwnO5Fklp9UphY=/300x0/arc-anglerfish-washpost-prod-washpost/public/3NMUV4NRRZGUTG6O5VDXX5QHXI.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/business/"
+    }
+  },
+  {
     "id": "JNQNBT7YJNCDNNINFT2TC6IX7M",
     "headline": "From big applause to ‘Wrap it up, Don!’ at Trump’s convention speech",
     "description": "Listen to four key moments from the speech.",
