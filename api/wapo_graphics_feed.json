@@ -1,5 +1,26 @@
 [
   {
+    "id": "QPTRCSP7VRBDPIB7ZZFSW2ASAA",
+    "headline": "Tracking how many Democratic delegates are backing Kamala Harris",
+    "description": "Harris needs 1,976 votes to secure the nomination and seems to be well on her way, according to an updating tally of Democratic delegate support.",
+    "url": "https://www.washingtonpost.com/elections/2024/07/22/democratic-delegates-kamala-harris/",
+    "credits": [
+      {
+        "name": "Chris Alcantara",
+        "slug": "chris-alcantara"
+      },
+      {
+        "name": "Colby Itkowitz",
+        "slug": "colby-itkowitz"
+      }
+    ],
+    "date": "2024-07-22T18:03:18.003Z",
+    "img": "https://www.washingtonpost.com/resizer/fOsmFI_PtpHlU73DQ9bFCgVp3KM=/300x0/arc-anglerfish-washpost-prod-washpost/public/PXC6KBHIPBOINNPFUOHUY7R3PU.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/politics/"
+    }
+  },
+  {
     "id": "LCATLXUCMZC7DLN7LGJZMPZ2YM",
     "headline": "The Democrats who have endorsed Kamala Harris to replace Biden as nominee",
     "description": "We’re also tracking the Democrats who are not endorsing Harris and calling for an open primary instead.",
