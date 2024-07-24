@@ -1,5 +1,29 @@
 [
   {
+    "id": "4PI2SAX7JVDBTNUOXQS3OUDJHU",
+    "headline": "How ‘carbon cowboys’ are cashing in on protected Amazon forest      ",
+    "description": "A six-month investigation reveals that many carbon credit ventures reap profits from public lands they have no right to and fail to share revenue with those protecting the forest.",
+    "url": "https://www.washingtonpost.com/world/interactive/2024/brazil-amazon-carbon-credit-offsets/",
+    "credits": [
+      {
+        "name": "Terrence McCoy",
+        "slug": "terrence-mccoy"
+      },
+      {
+        "name": "Júlia Ledur",
+        "slug": "julia-ledur"
+      },
+      {
+        "name": "Marina Dias"
+      }
+    ],
+    "date": "2024-07-24T10:00:42.555Z",
+    "img": "https://www.washingtonpost.com/resizer/ADg9SmqWWUpHDnS_4O21X0PLcp0=/300x0/arc-anglerfish-washpost-prod-washpost/public/IJGX4AMWKSODE6OUZPHUBTTKCE.JPG",
+    "label": {
+      "url": ""
+    }
+  },
+  {
     "id": "QPTRCSP7VRBDPIB7ZZFSW2ASAA",
     "headline": "Tracking how many Democratic delegates are backing Kamala Harris",
     "description": "Harris needs 1,976 votes to secure the nomination and seems to be well on her way, according to an updating tally of Democratic delegate support.",
