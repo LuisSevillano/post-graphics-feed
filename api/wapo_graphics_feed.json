@@ -1,5 +1,26 @@
 [
   {
+    "id": "ZRDX652G4FDBJGRID5JBH6N3CA",
+    "headline": "What you can learn about salmon from its packaging",
+    "description": "What do all those labels mean? We examined more than a dozen salmon packages and talked to experts to find out. ",
+    "url": "https://www.washingtonpost.com/climate-solutions/interactive/2024/salmon-labeling-wild-farm-species-explained/",
+    "credits": [
+      {
+        "name": "Naema Ahmed",
+        "slug": "naema-ahmed"
+      },
+      {
+        "name": "Allyson Chiu",
+        "slug": "allyson-chiu"
+      }
+    ],
+    "date": "2024-07-24T12:05:22.839Z",
+    "img": "https://www.washingtonpost.com/resizer/ftVvCTcWrhxiWxxeMBIyVbgcD0g=/300x0/arc-anglerfish-washpost-prod-washpost/public/F4MOJPBT2NC5VFEAVM7EY3ZPF4.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/climate-solutions/"
+    }
+  },
+  {
     "id": "4PI2SAX7JVDBTNUOXQS3OUDJHU",
     "headline": "How ‘carbon cowboys’ are cashing in on protected Amazon forest      ",
     "description": "A six-month investigation reveals that many carbon credit ventures reap profits from public lands they have no right to and fail to share revenue with those protecting the forest.",
