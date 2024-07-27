@@ -1,5 +1,30 @@
 [
   {
+    "id": "H6UEVGVNQVB7PETQJZTI55QLLA",
+    "headline": "A bullet — or bullet fragment — hit Trump during assassination attempt, FBI says",
+    "description": "“What struck former President Trump in the ear was a bullet, whether whole or fragmented into smaller pieces, fired from the deceased subject’s rifle,” the FBI said in a statement Friday.",
+    "url": "https://www.washingtonpost.com/nation/2024/07/26/trump-bullet-shot-assassination-attempt/",
+    "credits": [
+      {
+        "name": "Jonathan Edwards",
+        "slug": "jonathan-edwards"
+      },
+      {
+        "name": "Nick Kirkpatrick",
+        "slug": "nick-kirkpatrick"
+      },
+      {
+        "name": "Perry Stein",
+        "slug": "perry-stein"
+      }
+    ],
+    "date": "2024-07-27T00:30:43.848Z",
+    "img": "https://www.washingtonpost.com/resizer/icLBJslpZ7mVr_hqNzbpVFegt0U=/300x0/arc-anglerfish-washpost-prod-washpost/public/6DOSCVIQWRB23COWNUYUNOOYTQ.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/national/"
+    }
+  },
+  {
     "id": "XZXI7H5HYZE3TMH74WWGOL65FU",
     "headline": "Paris Olympics medal count: Tracking medals by country in 2024",
     "description": "Track the Paris Olympic medal counts country by country and see who won gold, silver or bronze in each event.",
