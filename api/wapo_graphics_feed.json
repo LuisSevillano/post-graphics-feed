@@ -1,5 +1,26 @@
 [
   {
+    "id": "WAAB3RLSX5GHRNUXXXOZAN4QBQ",
+    "headline": "A surprising byproduct of wildfires: Contaminated drinking water",
+    "description": "While a wildfire might directly impact a few hundred residents, its secondary impacts to the clean water supply could affect thousands.",
+    "url": "https://www.washingtonpost.com/climate-environment/interactive/2024/wildfire-drinking-water-supply-danger/",
+    "credits": [
+      {
+        "name": "Daniel Wolfe",
+        "slug": "daniel-wolfe"
+      },
+      {
+        "name": "Aaron Steckelberg",
+        "slug": "aaron-steckelberg"
+      }
+    ],
+    "date": "2024-07-29T16:00:23.636Z",
+    "img": "https://www.washingtonpost.com/resizer/zx3nDXKyGBw1vIJtwVt7ept34gM=/300x0/arc-anglerfish-washpost-prod-washpost/public/ASJKLI6KV5DJPMZPYU5D7CWJTM.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/climate-environment/"
+    }
+  },
+  {
     "id": "UKB2GRFXYFFC5HGV2V2CGYY44U",
     "headline": "A view from Paris: Looks a lot like parity — finally",
     "description": "A daily visual guide through the lens of an Olympics newbie sent to Paris by The Washington Post. Today, a look at the first Olympic Games near total gender parity.",
