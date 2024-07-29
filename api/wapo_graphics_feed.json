@@ -1,5 +1,30 @@
 [
   {
+    "id": "LCMYZJXKX5BWXNFN743UCF3N44",
+    "headline": "9,800 miles from Paris, Olympic surfers take on Tahiti’s ‘wall of skulls’",
+    "description": "The glorious and notorious Teahupo’o, off the coast of Tahiti in French Polynesia, is hosting Olympic surfers half a world away from Paris.",
+    "url": "https://www.washingtonpost.com/sports/olympics/2024/07/29/olympic-surfing-tahiti-paris-teahupoo/",
+    "credits": [
+      {
+        "name": "Laris Karklis",
+        "slug": "laris-karklis"
+      },
+      {
+        "name": "Bonnie Berkowitz",
+        "slug": "bonnie-berkowitz"
+      },
+      {
+        "name": "Júlia Ledur",
+        "slug": "julia-ledur"
+      }
+    ],
+    "date": "2024-07-29T20:01:30.721Z",
+    "img": "https://www.washingtonpost.com/resizer/WHD2PF-1gwBkVyCK9QLTT9EVGqs=/300x0/arc-anglerfish-washpost-prod-washpost/public/K27NBPKCBBBJPLJ63TOZEVOOVQ.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/sports/olympics/"
+    }
+  },
+  {
     "id": "WAAB3RLSX5GHRNUXXXOZAN4QBQ",
     "headline": "A surprising byproduct of wildfires: Contaminated drinking water",
     "description": "While a wildfire might directly impact a few hundred residents, its secondary impacts to the clean water supply could affect thousands.",
