@@ -1,5 +1,30 @@
 [
   {
+    "id": "LCWJLOKCDRABVGYQDHW2G6R5WA",
+    "headline": "The view from Paris: Troubled waters for surfers in Tahiti",
+    "description": "A daily visual guide through the lens of an Olympics newbie sent to Paris by The Washington Post. Today, dreaming about Tahiti.",
+    "url": "https://www.washingtonpost.com/sports/olympics/2024/07/31/tahiti-surfing-olympics-injuries/",
+    "credits": [
+      {
+        "name": "Bonnie Berkowitz",
+        "slug": "bonnie-berkowitz"
+      },
+      {
+        "name": "Artur Galocha",
+        "slug": "artur-galocha"
+      },
+      {
+        "name": "Álvaro Valiño",
+        "slug": "álvaro-valiño"
+      }
+    ],
+    "date": "2024-07-31T10:35:36.980Z",
+    "img": "https://www.washingtonpost.com/resizer/npTE5F_6pyl-4PTSU9NHlRhTu0c=/300x0/arc-anglerfish-washpost-prod-washpost/public/7EXFOV57FFDZHGJ25UCEOMTDTM.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/sports/olympics/paris-summer-games-2024/"
+    }
+  },
+  {
     "id": "6XG4QUCQH5EQHEZUHBOXYIZEUQ",
     "headline": "Maps of the Alexander Mountain Fire in Colorado",
     "description": "We’re tracking the the Alexander Mountain Creek Fire. See maps of recently burned areas and key locations in the vicinity of the fire.",
