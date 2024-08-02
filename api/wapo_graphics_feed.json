@@ -1,5 +1,37 @@
 [
   {
+    "id": "OS4D25AT5RBOTET5QSJL3C56JU",
+    "headline": "What makes Mondo fly?",
+    "description": "A look at the unique jumping style of the world’s best pole vaulter, Armand “Mondo” Duplantis, who is favored to win his second Olympic gold medal in Paris.",
+    "url": "https://www.washingtonpost.com/sports/olympics/interactive/2024/mondo-duplantis-paris-olympics-pole-vault-record-technique/",
+    "credits": [
+      {
+        "name": "Bonnie Berkowitz",
+        "slug": "bonnie-berkowitz"
+      },
+      {
+        "name": "Leslie Shapiro",
+        "slug": "leslie-shapiro"
+      },
+      {
+        "name": "William Neff",
+        "slug": "william-neff"
+      },
+      {
+        "name": "CJ Riculan"
+      },
+      {
+        "name": "Álvaro Valiño",
+        "slug": "álvaro-valiño"
+      }
+    ],
+    "date": "2024-08-02T09:00:25.521Z",
+    "img": "https://www.washingtonpost.com/resizer/ALFxcZr4eXGkn9LEwYMFoVGcHIo=/300x0/arc-anglerfish-washpost-prod-washpost/public/FWPRXRW4LJE2PKEEJ3WYXM7N5U.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/sports/olympics/"
+    }
+  },
+  {
     "id": "FITZD7ZJNVAZNIXQDAYQPVICUE",
     "headline": "How much are rents going up? See how prices have changed in your area.",
     "description": "Rent increases are cooling off. Prices are even falling in some parts of the country. See how rent has changed near you.",
