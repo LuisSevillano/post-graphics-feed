@@ -1,5 +1,34 @@
 [
   {
+    "id": "NXSBDRERCJGAFOZSOKXNEZRX2A",
+    "headline": "Trump’s presidential bid has the support of only half of his Cabinet",
+    "description": "We contacted all 42 members of Trump’s Cabinet, asking each of them whether they supported his presidential bid. They are deeply divided.",
+    "url": "https://www.washingtonpost.com/elections/interactive/2024/trump-cabinet-endorsements/",
+    "credits": [
+      {
+        "name": "Azi Paybarah",
+        "slug": "azi-paybarah"
+      },
+      {
+        "name": "Szu Yu  Chen",
+        "slug": "szuyu-chen"
+      },
+      {
+        "name": "Hayden Godfrey",
+        "slug": "hayden-godfrey"
+      },
+      {
+        "name": "Michael Scherer",
+        "slug": "michael-scherer"
+      }
+    ],
+    "date": "2024-08-03T09:00:11.742Z",
+    "img": "https://www.washingtonpost.com/resizer/OOdvYH61FN2-d7wF_awByhQ5EVQ=/300x0/arc-anglerfish-washpost-prod-washpost/public/KSGUSEPDUBFGLAWYBXREXMBMBU.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/elections/"
+    }
+  },
+  {
     "id": "H6T4IFPWABH3BARUXBKGINLOP4",
     "headline": "A fast history of trash talking in track",
     "description": "Like Noah Lyles, plenty of Olympic sprinters have excelled at the fine art of trash talk. Some couldn’t back up their yak on the track.",
