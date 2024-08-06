@@ -1,5 +1,28 @@
 [
   {
+    "id": "ZCFZTFRAMNBWVFQ2XWMDDV3QBI",
+    "headline": "The view from Paris: How a pro takes the perfect Olympic photo",
+    "description": "A daily visual guide through the lens of an Olympics newbie sent to Paris by The Washington Post. Today’s topic: Behind the scenes with a photographer.",
+    "url": "https://www.washingtonpost.com/sports/olympics/2024/08/06/daily-olympics-visual-guide-paris-photography/",
+    "credits": [
+      {
+        "name": "Artur Galocha",
+        "slug": "artur-galocha"
+      },
+      {
+        "name": "Bonnie Berkowitz",
+        "slug": "bonnie-berkowitz"
+      },
+      {
+        "name": "Álvaro Valiño",
+        "slug": "álvaro-valiño"
+      }
+    ],
+    "date": "2024-08-06T12:01:48.366Z",
+    "img": "https://www.washingtonpost.com/resizer/4k_Bqt1iOXc58Uks3mU5T7JVJEg=/300x0/arc-anglerfish-washpost-prod-washpost/public/ISCB6VM4JFCRFF3NS4L5DVIUWE.jpg",
+    "label": {}
+  },
+  {
     "id": "JDTDSPRJ5ZFWDJHWNUWQZM7UFE",
     "headline": "Where are Harris and her running mate traveling this week?",
     "description": "Vice President Kamala Harris and her running mate will campaign in seven battleground states over five days.",
