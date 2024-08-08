@@ -1,5 +1,22 @@
 [
   {
+    "id": "5RXQVL4O7RH3DGP2EBWRLXQCCA",
+    "headline": "Summer or winter: Which season is warming faster in your town?",
+    "description": "Seasonal temperature trends show how, decade after decade, global warming is unfolding across the planet — from New York to Shanghai to your own backyard.",
+    "url": "https://www.washingtonpost.com/climate-environment/interactive/2024/summer-winter-seasonal-warming-global-trends/",
+    "credits": [
+      {
+        "name": "Harry Stevens",
+        "slug": "harry-stevens"
+      }
+    ],
+    "date": "2024-08-08T12:10:52.133Z",
+    "img": "https://www.washingtonpost.com/resizer/emu7KK7krkIdYy_imIPNy0rWllI=/300x0/arc-anglerfish-washpost-prod-washpost/public/U6663GUPSVCJRPC6GNP6735UHQ.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/climate-environment/climate-lab/"
+    }
+  },
+  {
     "id": "4TCTUTJDMNEI5O5IWCDCUSTVCQ",
     "headline": "The view from Paris: Watching hoops and dreaming of the ‘Dream Team’",
     "description": "A daily visual guide through the eyes of an Olympics newbie sent to Paris by The Washington Post. Today’s topic: Dreaming of the ‘Dream Team’",
