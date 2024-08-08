@@ -1,5 +1,28 @@
 [
   {
+    "id": "4TCTUTJDMNEI5O5IWCDCUSTVCQ",
+    "headline": "The view from Paris: Watching hoops and dreaming of the ‘Dream Team’",
+    "description": "A daily visual guide through the eyes of an Olympics newbie sent to Paris by The Washington Post. Today’s topic: Dreaming of the ‘Dream Team’",
+    "url": "https://www.washingtonpost.com/sports/olympics/2024/08/08/olympics-visual-guide-basketball-dream-team/",
+    "credits": [
+      {
+        "name": "Artur Galocha",
+        "slug": "artur-galocha"
+      },
+      {
+        "name": "Bonnie Berkowitz",
+        "slug": "bonnie-berkowitz"
+      },
+      {
+        "name": "Álvaro Valiño",
+        "slug": "álvaro-valiño"
+      }
+    ],
+    "date": "2024-08-08T11:15:25.373Z",
+    "img": "https://www.washingtonpost.com/resizer/FVAw8YJ7bp8MICxYuyMxjXjWrXM=/300x0/arc-anglerfish-washpost-prod-washpost/public/44NS6NSURBCCLH4POZA2UEPPZM.jpg",
+    "label": {}
+  },
+  {
     "id": "OY6L2WIWK5D3PKTMYKMGP6Y7FE",
     "headline": "The view from Paris: All hail the turquoise-shirted volunteers!",
     "description": "A daily visual guide through the eyes of an Olympics newbie sent to Paris by The Washington Post. Today’s topic: Olympic volunteers.",
