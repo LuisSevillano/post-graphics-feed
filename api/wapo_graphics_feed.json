@@ -1,5 +1,30 @@
 [
   {
+    "id": "5RBDY73B7JFVHNUNIS6Q3HD4VE",
+    "headline": "See why AI detection tools can fail to catch election deepfakes",
+    "description": "As deepfakes flood the web, deepfake detector tools have been marketed as a silver bullet for identifying what’s real. But they can be easily duped.",
+    "url": "https://www.washingtonpost.com/technology/interactive/2024/ai-detection-tools-accuracy-deepfakes-election-2024/",
+    "credits": [
+      {
+        "name": "Kevin Schaul",
+        "slug": "kevin-schaul"
+      },
+      {
+        "name": "Pranshu Verma",
+        "slug": "pranshu-verma"
+      },
+      {
+        "name": "Cat Zakrzewski",
+        "slug": "cat-zakrzewski"
+      }
+    ],
+    "date": "2024-08-15T10:05:12.023Z",
+    "img": "https://www.washingtonpost.com/resizer/vkxZPnyl6w_ZtTGr3aBn7W0xEJ8=/300x0/arc-anglerfish-washpost-prod-washpost/public/JJIH2CR7HVFNBFWDYTW3FSOIMI.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/business/technology/"
+    }
+  },
+  {
     "id": "7WTH7QPQEVG6TCHOVVUYW5AABE",
     "headline": "How an Israeli hostage rescue that left scores of Palestinians dead unfolded",
     "description": "A review of videos of the June 8 raid in Nuseirat shows the Israeli military employed heavy airstrikes on a dense residential area for nearly four hours",
