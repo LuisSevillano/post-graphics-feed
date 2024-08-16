@@ -1,5 +1,22 @@
 [
   {
+    "id": "A7Y4JI3F5BFQDOIVAC7KKJULTM",
+    "headline": "Which Premier League team should you support?",
+    "description": "The Premier League, the most important soccer league in the workld, kicks off soon, and this quiz will help you find which team to support based on personalized questions.",
+    "url": "https://www.washingtonpost.com/sports/interactive/2024/which-premier-league-team-should-you-support/",
+    "credits": [
+      {
+        "name": "Chiqui Esteban",
+        "slug": "chiqui-esteban"
+      }
+    ],
+    "date": "2024-08-16T13:15:14.680Z",
+    "img": "https://www.washingtonpost.com/resizer/fnuoJ_tM0ItNcSK4eEHdKl5foDc=/300x0/arc-anglerfish-washpost-prod-washpost/public/TAXTQZDJGBHVNCZDOXVFQTRYUE.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/sports/"
+    }
+  },
+  {
     "id": "5RBDY73B7JFVHNUNIS6Q3HD4VE",
     "headline": "See why AI detection tools can fail to catch election deepfakes",
     "description": "As deepfakes flood the web, deepfake detector tools have been marketed as a silver bullet for identifying what’s real. But they can be easily duped.",
