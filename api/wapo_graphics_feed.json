@@ -1,5 +1,26 @@
 [
   {
+    "id": "EWZQWT2QMRH3LGYWQPMOPY3HDQ",
+    "headline": "Scenes from eight road stops between the two political conventions",
+    "description": "A journey from Milwaukee to Chicago offers a sense of the national mood, with encounters with voters who feel energized — or quite the opposite.   ",
+    "url": "https://www.washingtonpost.com/politics/2024/08/16/election-voter-mood-milwaukee-chicago-dnc/",
+    "credits": [
+      {
+        "name": "Joshua Lott",
+        "slug": "joshua-lott"
+      },
+      {
+        "name": "Kati Perry",
+        "slug": "kati-perry"
+      }
+    ],
+    "date": "2024-08-17T12:00:00.083Z",
+    "img": "https://www.washingtonpost.com/resizer/5hEH2aJLdsFYLkBzmIuQO0s3Q18=/300x0/arc-anglerfish-washpost-prod-washpost/public/NOJL6WQJPLIH3YV5PQ5QKSS2Z4.JPG",
+    "label": {
+      "url": "https://www.washingtonpost.com/elections/"
+    }
+  },
+  {
     "id": "AJGLSKAJPRDLHLMRT3QTYAOTYE",
     "headline": "Pro-Harris groups embrace identity to fundraise via Zoom",
     "description": "Grassroots Zoom calls have quickly become a tool for the groups to support Kamala Harris, with at least 40 calls raising tens of millions so far.",
