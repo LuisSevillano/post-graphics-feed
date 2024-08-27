@@ -1,5 +1,44 @@
 [
   {
+    "id": "XSRA2UCYN5DEZMTABJAG7S5MJY",
+    "headline": "Why your avocado oil may be fake and contain other cheap oils",
+    "description": "Scientists say adulteration is rampant in the avocado oil industry, and many people are being misled by some of the nation’s largest retail chains.",
+    "url": "https://www.washingtonpost.com/wellness/2024/08/27/avocado-oil-adulteration-tests/",
+    "credits": [
+      {
+        "name": "Anahad O’Connor",
+        "slug": "anahad-oconnor"
+      },
+      {
+        "name": "Aaron Steckelberg",
+        "slug": "aaron-steckelberg"
+      }
+    ],
+    "date": "2024-08-27T11:00:00.137Z",
+    "img": "https://www.washingtonpost.com/resizer/VjAM6qW3isxhX-AnuSSiElPrrBk=/300x0/arc-anglerfish-washpost-prod-washpost/public/5WEKMLGMEJAFNCZ6H2XGZGBTFQ.png",
+    "label": {
+      "url": "https://www.washingtonpost.com/wellbeing/"
+    }
+  },
+  {
+    "id": "JW6OHONKQFBHRGSTL3V3TNPCYY",
+    "headline": "Why musicians are smart to embrace AI",
+    "description": "Today’s experimenters are finding it can be more an inspiration than a threat.",
+    "url": "https://www.washingtonpost.com/opinions/interactive/2024/music-ai-creativity/",
+    "credits": [
+      {
+        "name": "Yan Wu",
+        "slug": "yan-wu"
+      }
+    ],
+    "date": "2024-08-27T10:15:00.897Z",
+    "img": "https://www.washingtonpost.com/resizer/UQWkrsRFzAetvwvk4iw3SZOPT2I=/300x0/arc-anglerfish-washpost-prod-washpost/public/KOOTJZRTE5GNHAM7BYFFU7NXKY.gif",
+    "label": {
+      "text": "Opinion",
+      "url": "https://www.washingtonpost.com/opinions/"
+    }
+  },
+  {
     "id": "NKIZF5BTXJARLBAY2SYOSMSTPI",
     "headline": "Meet the megadonors pumping millions into the 2024 election",
     "description": "The 50 biggest donors this cycle have collectively pumped $1.5 billion into political committees and other groups competing in the 2024 election.",
