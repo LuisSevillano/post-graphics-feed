@@ -1,5 +1,33 @@
 [
   {
+    "id": "7S3MTA6HOFBIZLTJKRN57EZSMA",
+    "headline": "Israeli evacuation orders force displaced Gazans into ever-smaller spaces ",
+    "description": "Israeli evacuation orders in August have shrunk Gaza’s only humanitarian zone by nearly a third and deepened the plight of displaced Palestinians. ",
+    "url": "https://www.washingtonpost.com/world/2024/08/30/israel-gaza-palestinians-displaced-civilians/",
+    "credits": [
+      {
+        "name": "Miriam Berger",
+        "slug": "miriam-berger"
+      },
+      {
+        "name": "Samuel Granados",
+        "slug": "samuel-granados"
+      },
+      {
+        "name": "Hajar Harb"
+      },
+      {
+        "name": "Cate Brown",
+        "slug": "cate-brown"
+      }
+    ],
+    "date": "2024-08-30T13:05:38.579Z",
+    "img": "https://www.washingtonpost.com/resizer/2wCBDK2kegke_OvSLOUJa8EH6Sw=/300x0/arc-anglerfish-washpost-prod-washpost/public/ORF6TT2NYNWKLGIIY4SYZXXSRM.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/israel-hamas-war/"
+    }
+  },
+  {
     "id": "HZU4B5B74BHVHAXQO56JGLBU4Q",
     "headline": "Do you spend money more like a millennial or a boomer? Take this quiz to find out.",
     "description": "Economic conditions and individual priorities play a big role in spending. Find out if you spend money more like an 18-year-old or a 78-year-old with this quiz.",
