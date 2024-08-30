@@ -1,5 +1,30 @@
 [
   {
+    "id": "HZU4B5B74BHVHAXQO56JGLBU4Q",
+    "headline": "Do you spend money more like a millennial or a boomer? Take this quiz to find out.",
+    "description": "Economic conditions and individual priorities play a big role in spending. Find out if you spend money more like an 18-year-old or a 78-year-old with this quiz.",
+    "url": "https://www.washingtonpost.com/business/interactive/2024/spending-habits-quiz-generation-z-boomer-millennial/",
+    "credits": [
+      {
+        "name": "Rachel Lerman",
+        "slug": "rachel-lerman"
+      },
+      {
+        "name": "Abha Bhattarai",
+        "slug": "abha-bhattarai"
+      },
+      {
+        "name": "Luis Melgar",
+        "slug": "luis-melgar"
+      }
+    ],
+    "date": "2024-08-30T10:05:56.749Z",
+    "img": "https://www.washingtonpost.com/resizer/pGb3_rNmelmGtOl3UPuQ7J82crc=/300x0/arc-anglerfish-washpost-prod-washpost/public/CHGUEDVQGVCCZAMGJFKARSHL3Y.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/business/"
+    }
+  },
+  {
     "id": "EZS75Y6QRFGNPC3PG3XECYZMFY",
     "headline": "Why some U.S. disabled workers are making less than a dollar an hour",
     "description": "A federal statute of the Fair Labor Standards Act has allowed companies to pay workers with disabilities less than minimum wage since 1938.",
