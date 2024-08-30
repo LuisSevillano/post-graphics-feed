@@ -1,5 +1,80 @@
 [
   {
+    "id": "EZS75Y6QRFGNPC3PG3XECYZMFY",
+    "headline": "Why some U.S. disabled workers are making less than a dollar an hour",
+    "description": "A federal statute of the Fair Labor Standards Act has allowed companies to pay workers with disabilities less than minimum wage since 1938.",
+    "url": "https://www.washingtonpost.com/wellness/interactive/2024/disability-subminimum-wages-contract-labor/",
+    "credits": [
+      {
+        "name": "Caitlin Gilbert",
+        "slug": "caitlin-gilbert"
+      },
+      {
+        "name": "Amanda Morris",
+        "slug": "amanda-morris"
+      },
+      {
+        "name": "Jacqueline Alemany",
+        "slug": "jacqueline-alemany"
+      }
+    ],
+    "date": "2024-08-30T10:00:57.168Z",
+    "img": "https://www.washingtonpost.com/resizer/jiurxRgycmm8WA8X8WB71wv844U=/300x0/arc-anglerfish-washpost-prod-washpost/public/4SJUQBNHIAI5M2LA4XOBBEAIGI.JPG",
+    "label": {
+      "url": "https://www.washingtonpost.com/wellbeing/"
+    }
+  },
+  {
+    "id": "F7ZGF7SYUNAU5G6UZODYWIENWA",
+    "headline": "Fight over pay for people with disabilities may erupt next month",
+    "description": "A rule the Biden administration is considering could ignite a war over the future of the decades-old 14(c) subminimum wage law, which allows certain employers to pay disabled workers far less than minimum wage.",
+    "url": "https://www.washingtonpost.com/politics/2024/08/30/subminimum-wage-labor-department-politics-disabled-workers/",
+    "credits": [
+      {
+        "name": "Jacqueline Alemany",
+        "slug": "jacqueline-alemany"
+      },
+      {
+        "name": "Caitlin Gilbert",
+        "slug": "caitlin-gilbert"
+      },
+      {
+        "name": "Amanda Morris",
+        "slug": "amanda-morris"
+      }
+    ],
+    "date": "2024-08-30T10:00:20.099Z",
+    "img": "https://www.washingtonpost.com/resizer/qCFuAk9X0rtDJG7N8j0E1KCs308=/300x0/arc-anglerfish-washpost-prod-washpost/public/UZQBI2PZV5UG5RSGPJNF5O3NMY.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/politics/"
+    }
+  },
+  {
+    "id": "64M4BNNQQNAVFH7MB5SEOI4XNI",
+    "headline": "Some disabled workers in the U.S. make pennies per hour. It’s legal.",
+    "description": "Under Section 14(c) of the Fair Labor Standards Act, employers can legally pay disabled workers subminimum wages. Many workers never move to higher-paying jobs.",
+    "url": "https://www.washingtonpost.com/wellness/2024/08/30/subminimum-wage-disabled-workers/",
+    "credits": [
+      {
+        "name": "Amanda Morris",
+        "slug": "amanda-morris"
+      },
+      {
+        "name": "Caitlin Gilbert",
+        "slug": "caitlin-gilbert"
+      },
+      {
+        "name": "Jacqueline Alemany",
+        "slug": "jacqueline-alemany"
+      }
+    ],
+    "date": "2024-08-30T10:00:01.508Z",
+    "img": "https://www.washingtonpost.com/resizer/7v6O4khuBPht41LB0Tw85KsT9dg=/300x0/arc-anglerfish-washpost-prod-washpost/public/Z7S3ECSOF43CPUHJEGTJECKICI.JPG",
+    "label": {
+      "url": "https://www.washingtonpost.com/wellbeing/"
+    }
+  },
+  {
     "id": "O7KEGIZVQNADNK2F2SZ3OSDAR4",
     "headline": "Rust Belt swing states saw the most candidate visits this summer",
     "description": "Vice President Kamala Harris, former president Donald Trump and their running mates have blanketed swing states since the race was upended in mid-July.",
