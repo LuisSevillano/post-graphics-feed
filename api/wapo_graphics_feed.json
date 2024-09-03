@@ -1,5 +1,30 @@
 [
   {
+    "id": "C6HKNIJDBNDO5OWSOUWUBJK2D4",
+    "headline": "In a first, Phoenix hits 100 straight days of 100-degree heat",
+    "description": "The relentless and record heat is testing the will of Phoenix residents. ",
+    "url": "https://www.washingtonpost.com/weather/2024/09/03/phoenix-100-degree-temperatures-record/",
+    "credits": [
+      {
+        "name": "Ian Livingston",
+        "slug": "ian-livingston"
+      },
+      {
+        "name": "Erin Patrick  O'Connor",
+        "slug": "erin-patrick-oconnor"
+      },
+      {
+        "name": "Naema Ahmed",
+        "slug": "naema-ahmed"
+      }
+    ],
+    "date": "2024-09-03T18:09:23.313Z",
+    "img": "https://www.washingtonpost.com/resizer/jAAcEv_VZOFHnppM1gH9SVkv1aM=/300x0/arc-anglerfish-washpost-prod-washpost/public/S3Y2BOBTOZHALCPO5H5AE4DYTI.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/weather/extreme-weather/"
+    }
+  },
+  {
     "id": "SISU4MWCCNH3JDAKRRFS543NCQ",
     "headline": "Why are songs getting shorter?",
     "description": "You’re not imagining it: From Taylor Swift’s “Midnight Rain” to Lil Yachty’s “Poland,” songs are getting shorter. Today on “Post Reports,” join our audio engineer on a sonic journey through music history to understand the shift.",
