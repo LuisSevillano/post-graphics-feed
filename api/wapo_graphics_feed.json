@@ -1,5 +1,26 @@
 [
   {
+    "id": "NMX4GE7GZJA6VDPEK6WBR7G2OY",
+    "headline": "The world is burning an alarming amount of plastic, scientists say ",
+    "description": "Around 12 percent of all plastic waste produced in cities is burned in the open air, creating air pollution and health risks.",
+    "url": "https://www.washingtonpost.com/climate-environment/2024/09/04/plastic-waste-burned-study/",
+    "credits": [
+      {
+        "name": "Simon Ducroquet",
+        "slug": "simon-ducroquet"
+      },
+      {
+        "name": "Shannon Osaka",
+        "slug": "shannon-osaka"
+      }
+    ],
+    "date": "2024-09-04T15:00:00.094Z",
+    "img": "https://www.washingtonpost.com/resizer/Ccq9oY9MYKNE_0gPXhFDGppxYpk=/300x0/arc-anglerfish-washpost-prod-washpost/public/TW54SQQI3BBHZOHHXJNU5X5VKI.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/climate-environment/climate-lab/"
+    }
+  },
+  {
     "id": "OWI4I2WYQFETBFVK7X3TPQQPEM",
     "headline": "Why some disabled workers make $1 an hour",
     "description": "Across the country thousands of disabled workers are making less than a dollar an hour. Today, an investigation into the federal program that allows workers to earn subminimum wages, its lack of oversight and why so many families still support it.",
