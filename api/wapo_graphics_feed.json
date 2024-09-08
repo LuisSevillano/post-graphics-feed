@@ -1,5 +1,26 @@
 [
   {
+    "id": "ADPTWHXOPNAFFDXZOL5U65JPUY",
+    "headline": "Tracking the Line Fire in San Bernardino County",
+    "description": "The Post is tracking the Line Fire burning near San Bernardino, California. See recently burned areas and landmarks in the area.",
+    "url": "https://www.washingtonpost.com/weather/2024/09/08/maps-line-fire-san-bernardino-county/",
+    "credits": [
+      {
+        "name": "Kati Perry",
+        "slug": "kati-perry"
+      },
+      {
+        "name": "Dylan Moriarty",
+        "slug": "dylan-moriarty"
+      }
+    ],
+    "date": "2024-09-08T18:07:25.696Z",
+    "img": "https://www.washingtonpost.com/resizer/I5IbMlxEimOrXHB0D4OqDNQEACI=/300x0/arc-anglerfish-washpost-prod-washpost/public/L7MPAQX7A5FB5JSITLLDHNRRSU.png",
+    "label": {
+      "url": "https://www.washingtonpost.com/local/weather/"
+    }
+  },
+  {
     "id": "JHIQ4N2QOREDXNP6R7MXGYNCZE",
     "headline": "Inflation has been higher in metros with greater 2020 Trump support",
     "description": "Metros that had more votes for Trump in 2020 have experienced higher inflation since then. Here’s why and what that means for this election. ",
