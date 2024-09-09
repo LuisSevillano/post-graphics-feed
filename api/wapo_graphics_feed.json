@@ -1,5 +1,34 @@
 [
   {
+    "id": "PSI62U6QXVACRAM74TZ6N5PGYE",
+    "headline": "Can you spot the famous presidential debate one-liner? Take this quiz.",
+    "description": "Test your knowledge of famous presidential debate one-liners in this quiz.",
+    "url": "https://www.washingtonpost.com/politics/interactive/2024/quiz-presidential-debates/",
+    "credits": [
+      {
+        "name": "Bonnie Berkowitz",
+        "slug": "bonnie-berkowitz"
+      },
+      {
+        "name": "Dan Keating",
+        "slug": "dan-keating"
+      },
+      {
+        "name": "Tyler Remmel",
+        "slug": "tyler-remmel"
+      },
+      {
+        "name": "Emily Sabens",
+        "slug": "emily-sabens"
+      }
+    ],
+    "date": "2024-09-09T09:00:27.118Z",
+    "img": "https://www.washingtonpost.com/resizer/NoVHUmxYIa6E-dDbHVwc-7u299U=/300x0/arc-anglerfish-washpost-prod-washpost/public/EU44MHKM2NE73CVDUTBF767Z3M.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/elections/"
+    }
+  },
+  {
     "id": "ADPTWHXOPNAFFDXZOL5U65JPUY",
     "headline": "Tracking the Line Fire in San Bernardino County",
     "description": "The Post is tracking the Line Fire burning near San Bernardino, California. See recently burned areas and landmarks in the area.",
