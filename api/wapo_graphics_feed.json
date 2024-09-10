@@ -1,5 +1,38 @@
 [
   {
+    "id": "KHHWGU4NRZBH3JPV4HXDXLZNBM",
+    "headline": "What swing-state voters are saying about the Harris-Trump debate",
+    "description": "Uncommitted voters in battleground states share their thoughts on the Harris-Trump debate with The Post.",
+    "url": "https://www.washingtonpost.com/elections/interactive/2024/presidential-debate-voter-poll/",
+    "credits": [
+      {
+        "name": "Adrián Blanco",
+        "slug": "adrian-blanco"
+      },
+      {
+        "name": "Eric Lau",
+        "slug": "eric-lau"
+      },
+      {
+        "name": "Scott Clement",
+        "slug": "scott-clement"
+      },
+      {
+        "name": "Emily Guskin",
+        "slug": "emily-guskin"
+      },
+      {
+        "name": "Dan Keating",
+        "slug": "dan-keating"
+      }
+    ],
+    "date": "2024-09-10T20:20:34.216Z",
+    "img": "https://www.washingtonpost.com/resizer/K17rlsx6SSBos1uEXoi3GHoo5Ck=/300x0/arc-anglerfish-washpost-prod-washpost/public/GCEPDN7UBJCHFK225L3AIG6G6Q.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/elections/"
+    }
+  },
+  {
     "id": "Q66HMPUKKRARBNTNJLNVQKIGF4",
     "headline": "Harris vs. Trump stances on the 2020 election results, Jan. 6 prosecutions",
     "description": "Here’s how Kamala Harris’s and Donald Trump’s stances on the 2020 election results and the prosecution of people connected with the Jan. 6 attack on the U.S. Capitol compare.",
