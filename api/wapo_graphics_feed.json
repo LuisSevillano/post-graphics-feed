@@ -1,5 +1,30 @@
 [
   {
+    "id": "4STYRLEFK5EL3O3WTHRR2QWFUE",
+    "headline": "The disaster our cities are not prepared for",
+    "description": "Experts warn this type of catastrophe — a combined power outage with a heat wave — could devastate major U.S. cities.",
+    "url": "https://www.washingtonpost.com/climate-environment/interactive/2024/hurricanes-power-outages-heat-wave-risk/",
+    "credits": [
+      {
+        "name": "Niko Kommenda",
+        "slug": "niko-kommenda"
+      },
+      {
+        "name": "Shannon Osaka",
+        "slug": "shannon-osaka"
+      },
+      {
+        "name": "Simon Ducroquet",
+        "slug": "simon-ducroquet"
+      }
+    ],
+    "date": "2024-09-13T09:00:03.286Z",
+    "img": "https://www.washingtonpost.com/resizer/by2K69Qq2k17jsEKIuNlOBXPeRs=/300x0/arc-anglerfish-washpost-prod-washpost/public/JZMJNAFCYBHGNGKKXY6UTRHQHI.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/climate-environment/climate-lab/"
+    }
+  },
+  {
     "id": "KHHWGU4NRZBH3JPV4HXDXLZNBM",
     "headline": "What swing-state voters are saying about the Harris-Trump debate",
     "description": "Uncommitted voters in battleground states share their thoughts on the Harris-Trump debate with The Post.",
