@@ -1,5 +1,24 @@
 [
   {
+    "id": "WTOEA6N2YZCIPDABWBUBDJQJC4",
+    "headline": "A bottle of water per email: the hidden environmental costs of using AI chatbots",
+    "description": "AI needs a lot of electricity and water to stay cool in data centers. We break down the toll prompt-by-prompt to show the scale of AI’s environmental needs.",
+    "url": "https://www.washingtonpost.com/technology/2024/09/18/energy-ai-use-electricity-water-data-centers/",
+    "credits": [
+      {
+        "name": "Pranshu Verma",
+        "slug": "pranshu-verma"
+      },
+      {
+        "name": "Shelly Tan",
+        "slug": "shelly-tan"
+      }
+    ],
+    "date": "2024-09-18T09:00:00.130Z",
+    "img": "https://www.washingtonpost.com/resizer/UDMDNx4iYAWP7D8j2LZk7vcP21c=/300x0/arc-anglerfish-washpost-prod-washpost/public/BCLG326ZQBERNJ2AH7UHOKNWCY.jpg",
+    "label": {}
+  },
+  {
     "id": "56TMFI6455FN7GSAZL4NQGJ5WY",
     "headline": "Jayden Daniels tracker: Still no touchdown passes or picks, but a win",
     "description": "We’re tracking Washington Commanders quarterback Jayden Daniels through stats, stories and quotes during his anticipated rookie season.",
