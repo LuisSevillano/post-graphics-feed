@@ -1,5 +1,24 @@
 [
   {
+    "id": "SK5QSF3LDJDNZEI3KQH3NGX4TU",
+    "headline": "Scientists have captured Earth’s climate over the last 485 million years. Here’s the surprising place we stand now.",
+    "description": "An effort to understand Earth’s past climates uncovered a history of wild temperature shifts and offered a warning on the consequences of human-caused warming.",
+    "url": "https://www.washingtonpost.com/climate-environment/2024/09/19/earth-temperature-global-warming-planet/",
+    "credits": [
+      {
+        "name": "Sarah Kaplan",
+        "slug": "sarah-kaplan"
+      },
+      {
+        "name": "Simon Ducroquet",
+        "slug": "simon-ducroquet"
+      }
+    ],
+    "date": "2024-09-19T18:01:58.145Z",
+    "img": "https://www.washingtonpost.com/resizer/s8V7jEYZcmF5WdkWSB-mSwt7TRs=/300x0/arc-anglerfish-washpost-prod-washpost/public/HBUHN6FZTEI6XPCKMKCJZ5WMVE.jpg",
+    "label": {}
+  },
+  {
     "id": "WTOEA6N2YZCIPDABWBUBDJQJC4",
     "headline": "A bottle of water per email: the hidden environmental costs of using AI chatbots",
     "description": "AI needs a lot of electricity and water to stay cool in data centers. We break down the toll prompt-by-prompt to show the scale of AI’s environmental needs.",
