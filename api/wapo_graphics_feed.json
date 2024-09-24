@@ -1,5 +1,26 @@
 [
   {
+    "id": "2OKZRJDUARB6TMD47VUXNTNPFM",
+    "headline": "Grocery chains are bigger than ever. See who runs the stores near you.",
+    "description": "The traditional supermarket industry has shrunk as big-name grocers acquired their smaller local and regional rivals. See the companies behind stores near you.",
+    "url": "https://www.washingtonpost.com/business/interactive/2024/grocery-store-owners-map-kroger-albertsons-merger/",
+    "credits": [
+      {
+        "name": "Kevin Schaul",
+        "slug": "kevin-schaul"
+      },
+      {
+        "name": "Jaclyn Peiser",
+        "slug": "jaclyn-peiser"
+      }
+    ],
+    "date": "2024-09-24T10:05:33.156Z",
+    "img": "https://www.washingtonpost.com/resizer/sTtQ8bvwJHGvAqm6GWHSL36Tte4=/300x0/arc-anglerfish-washpost-prod-washpost/public/MGJGQ4UCMVCKFKFOLK3IW6DLAQ.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/business/"
+    }
+  },
+  {
     "id": "F5SZGN5EQBF2JJR3GUVK75CPWU",
     "headline": "Why you should give up control of your thermostat",
     "description": "Utilities are tapping into customers’ solar panels, home batteries and smart thermostats to avoid blackouts in a program establishing “virtual power plants.”",
