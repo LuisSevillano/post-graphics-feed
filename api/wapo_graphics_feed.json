@@ -1,5 +1,26 @@
 [
   {
+    "id": "F5SZGN5EQBF2JJR3GUVK75CPWU",
+    "headline": "Why you should give up control of your thermostat",
+    "description": "Utilities are tapping into customers’ solar panels, home batteries and smart thermostats to avoid blackouts in a program establishing “virtual power plants.”",
+    "url": "https://www.washingtonpost.com/climate-solutions/interactive/2024/virtual-power-plants-clean-energy-electricity-demand/",
+    "credits": [
+      {
+        "name": "Nicolás Rivero",
+        "slug": "nicolás-rivero"
+      },
+      {
+        "name": "Niko Kommenda",
+        "slug": "niko-kommenda"
+      }
+    ],
+    "date": "2024-09-24T10:00:00.119Z",
+    "img": "https://www.washingtonpost.com/resizer/ne6FJmoVxS7NhpMEjm9eHOLbp9Q=/300x0/arc-anglerfish-washpost-prod-washpost/public/TPQE5OIEJH7YWWD5YTCZG64C4I.JPG",
+    "label": {
+      "url": "https://www.washingtonpost.com/climate-solutions/"
+    }
+  },
+  {
     "id": "RW66JMQWKNF2FK6QIKGT4OQD4A",
     "headline": "Hurricane John tracker: Map and projected storm path",
     "description": "John is the 10th named storm of the Eastern North Pacific hurricane season. ",
