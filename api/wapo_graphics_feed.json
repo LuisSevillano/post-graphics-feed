@@ -8670,6 +8670,31 @@
     }
   },
   {
+    "id": "XS633MXYJFDVJMNIT6T4ZEARUY",
+    "headline": "The 5 hurricane categories, explained",
+    "description": "See the potential damage associated with each category part of the Saffir-Simpson Hurricane Wind Scale.",
+    "url": "https://www.washingtonpost.com/weather/interactive/2023/hurricane-categories-scale-explained/",
+    "credits": [
+      {
+        "name": "Amudalat Ajasa",
+        "slug": "amudalat-ajasa"
+      },
+      {
+        "name": "Aaron Steckelberg",
+        "slug": "aaron-steckelberg"
+      },
+      {
+        "name": "Julie Hoban",
+        "slug": "julie-vitkovskaya"
+      }
+    ],
+    "date": "2023-09-13T22:00:13.389Z",
+    "img": "https://www.washingtonpost.com/resizer/Ur_kBaB4hG54hEqVSiA8ffM90BY=/300x0/arc-anglerfish-washpost-prod-washpost/public/QGSVP5P565HOTGIKQULYJY32PM.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/weather/"
+    }
+  },
+  {
     "id": "7FRGPUGCPRHJFIAYWT2FTYGNZQ",
     "headline": "The food industry pays ‘influencer’ dietitians to shape your eating habits",
     "description": "Registered dietitians are being paid by to post videos that promote diet soda, sugar and supplements on Instagram and TikTok",
