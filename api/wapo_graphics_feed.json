@@ -1,5 +1,26 @@
 [
   {
+    "id": "U7MOTZ6JRNCQZIGRBIKXW3UJFE",
+    "headline": "How every House member voted on a bill to avert a government shutdown",
+    "description": "The bill, which required two-thirds support, passed 341 to 82. See how your lawmaker voted.",
+    "url": "https://www.washingtonpost.com/politics/interactive/2024/09/25/house-vote-results-government-shutdown-bill-cr/",
+    "credits": [
+      {
+        "name": "Adrián Blanco",
+        "slug": "adrian-blanco"
+      },
+      {
+        "name": "Chris Alcantara",
+        "slug": "chris-alcantara"
+      }
+    ],
+    "date": "2024-09-25T22:00:03.676Z",
+    "img": "https://www.washingtonpost.com/resizer/je8s6nqjnz7c1rHIxdEvexhDH4w=/300x0/arc-anglerfish-washpost-prod-washpost/public/5PPJQE5N3RGF5PEJQIDIVL5RCA.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/politics/"
+    }
+  },
+  {
     "id": "ZA5RXLQOVJDYNCQDLPDIK5PRNE",
     "headline": "NFL playoff projections: Updated win totals, Super Bowl odds for every team",
     "description": "Our power ratings predict each team’s chance of making the playoffs, winning the division and becoming Super Bowl champions.",
