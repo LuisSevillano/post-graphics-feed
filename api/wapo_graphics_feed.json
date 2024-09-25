@@ -1,5 +1,26 @@
 [
   {
+    "id": "TSPY2HRFEREVLO3EJCD4S6YEYE",
+    "headline": "How every senator voted on the stopgap bill to avert a government shutdown",
+    "description": "The Senate approved the funding measure on Wednesday 78 to 18. See how your senators voted.",
+    "url": "https://www.washingtonpost.com/politics/interactive/2024/09/25/senate-vote-results-government-shutdown-bill-cr/",
+    "credits": [
+      {
+        "name": "Adrián Blanco",
+        "slug": "adrian-blanco"
+      },
+      {
+        "name": "Chris Alcantara",
+        "slug": "chris-alcantara"
+      }
+    ],
+    "date": "2024-09-25T22:45:54.212Z",
+    "img": "https://www.washingtonpost.com/resizer/JuQ5B9fWMhVQQOa0EwvSNIPYgpY=/300x0/arc-anglerfish-washpost-prod-washpost/public/EU4LQCYM7VBA7LTNJQQQ4NJZCA.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/politics/"
+    }
+  },
+  {
     "id": "U7MOTZ6JRNCQZIGRBIKXW3UJFE",
     "headline": "How every House member voted on a bill to avert a government shutdown",
     "description": "The bill, which required two-thirds support, passed 341 to 82. See how your lawmaker voted.",
