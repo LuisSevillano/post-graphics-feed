@@ -1,5 +1,26 @@
 [
   {
+    "id": "ZA5RXLQOVJDYNCQDLPDIK5PRNE",
+    "headline": "NFL playoff projections: Updated win totals, Super Bowl odds for every team",
+    "description": "Our power ratings predict each team’s chance of making the playoffs, winning the division and becoming Super Bowl champions.",
+    "url": "https://www.washingtonpost.com/sports/interactive/2024/nfl-playoff-odds-standings-predictions-2024-25/",
+    "credits": [
+      {
+        "name": "Neil Greenberg",
+        "slug": "neil-greenberg"
+      },
+      {
+        "name": "Chris Alcantara",
+        "slug": "chris-alcantara"
+      }
+    ],
+    "date": "2024-09-25T14:00:25.108Z",
+    "img": "https://www.washingtonpost.com/resizer/Izps56kx9kEB85Hn771ThV9lEuw=/300x0/arc-anglerfish-washpost-prod-washpost/public/S4KV5HR3UFCWNBWHWKSTEWGNVQ.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/sports/nfl/"
+    }
+  },
+  {
     "id": "NHBN6XMFRJCMRMCMUJ55ELFZKE",
     "headline": "Tropical Storm Helene tracker: Map and projected storm path",
     "description": "Tropical Storm Helene is the 8th named storm of the Atlantic hurricane season.",
