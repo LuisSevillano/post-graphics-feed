@@ -1,5 +1,30 @@
 [
   {
+    "id": "ICH5NWMSBNCBLPG7DEIUWUHETE",
+    "headline": "Where floods from Hurricane Helene are ravaging the North Carolina mountains",
+    "description": "Hurricane Helene caused catastrophic flooding in North Carolina, impacting Asheville and Buncombe County.",
+    "url": "https://www.washingtonpost.com/weather/2024/09/29/hurricane-helene-north-carolina-floods/",
+    "credits": [
+      {
+        "name": "Janice Kai Chen",
+        "slug": "janice-kai-chen"
+      },
+      {
+        "name": "Tim Meko",
+        "slug": "tim-meko"
+      },
+      {
+        "name": "Laris Karklis",
+        "slug": "laris-karklis"
+      }
+    ],
+    "date": "2024-09-29T21:45:13.173Z",
+    "img": "https://www.washingtonpost.com/resizer/Va5kpboM8V-KY1D27KECD-cA7jc=/300x0/arc-anglerfish-washpost-prod-washpost/public/YZQULNRHZVEALPP5JZ2E3DIIKU.png",
+    "label": {
+      "url": "https://www.washingtonpost.com/weather/extreme-weather/"
+    }
+  },
+  {
     "id": "7ORPRG6PENATZMNQLVNEFZLO3I",
     "headline": "Israel likely used U.S.-made 2,000-pound bombs in Nasrallah strike, visuals show",
     "description": "Videos shared by the IDF show fighter jets they say were involved in the Nasrallah operation carrying BLU-109s, an American-made 2,000-pound munition.",
