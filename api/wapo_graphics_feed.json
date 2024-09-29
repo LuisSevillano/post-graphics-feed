@@ -1,5 +1,26 @@
 [
   {
+    "id": "J237UFL4PNGEPPB265DL6KAYIQ",
+    "headline": "How Philadelphia election workers will race to count votes this fall",
+    "description": "An up-close look at how election officials count Philadelphia’s mail vote and why the results probably won’t be known on election night.",
+    "url": "https://www.washingtonpost.com/elections/interactive/2024/philadelphia-mail-ballots-election/",
+    "credits": [
+      {
+        "name": "Derek Hawkins",
+        "slug": "derek-hawkins"
+      },
+      {
+        "name": "Adriana Usero",
+        "slug": "adriana-usero"
+      }
+    ],
+    "date": "2024-09-29T10:00:00.201Z",
+    "img": "https://www.washingtonpost.com/resizer/ZkaggQ_HiMVfOGm1uqKmBGFbogA=/300x0/arc-anglerfish-washpost-prod-washpost/public/YQX6M7I7W5H7NK5D443A56YL4A.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/elections/"
+    }
+  },
+  {
     "id": "RUVU3EHHJBHZVGNDLT6PIVUKNM",
     "headline": "These six places saw their worst storm surge ever during Helene",
     "description": "Six coastal towns and cities on Florida’s Gulf Coast — which is especially vulnerable to storm-driven flooding — broke storm surge records during Hurricane Helene, according to data analyzed by The Post.",
