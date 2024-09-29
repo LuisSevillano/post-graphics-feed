@@ -1,5 +1,30 @@
 [
   {
+    "id": "7ORPRG6PENATZMNQLVNEFZLO3I",
+    "headline": "Israel likely used U.S.-made 2,000-pound bombs in Nasrallah strike, visuals show",
+    "description": "Videos shared by the IDF show fighter jets they say were involved in the Nasrallah operation carrying BLU-109s, an American-made 2,000-pound munition.",
+    "url": "https://www.washingtonpost.com/world/2024/09/29/israel-bomb-beirut-nasrallah-death/",
+    "credits": [
+      {
+        "name": "Abbie Cheeseman",
+        "slug": "abbie-cheeseman"
+      },
+      {
+        "name": "Meg Kelly",
+        "slug": "meg-kelly"
+      },
+      {
+        "name": "Imogen Piper",
+        "slug": "imogen-piper"
+      }
+    ],
+    "date": "2024-09-29T14:40:22.028Z",
+    "img": "https://d1i4t8bqe7zgj6.cloudfront.net/09-28-2024/t_317993cd4e794e2586fdafeda037aad3_name_TB_IsraelWeapons_1.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/israel-hamas-war/"
+    }
+  },
+  {
     "id": "J237UFL4PNGEPPB265DL6KAYIQ",
     "headline": "How Philadelphia election workers will race to count votes this fall",
     "description": "An up-close look at how election officials count Philadelphia’s mail vote and why the results probably won’t be known on election night.",
