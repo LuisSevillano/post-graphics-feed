@@ -1,5 +1,38 @@
 [
   {
+    "id": "E5BMEPHQFZGE7BNDXYYJ2RADI4",
+    "headline": "Videos show how Helene turned the South into a land of devastation",
+    "description": "Follow along the storm’s path as it leaves entire communities flooded",
+    "url": "https://www.washingtonpost.com/weather/interactive/2024/hurricane-helene-destruction-north-carolina/",
+    "credits": [
+      {
+        "name": "John Muyskens",
+        "slug": "john-muyskens"
+      },
+      {
+        "name": "John Farrell",
+        "slug": "john-farrell"
+      },
+      {
+        "name": "Naema Ahmed",
+        "slug": "naema-ahmed"
+      },
+      {
+        "name": "Simon Ducroquet",
+        "slug": "simon-ducroquet"
+      },
+      {
+        "name": "Jason Samenow",
+        "slug": "jason-samenow"
+      }
+    ],
+    "date": "2024-09-29T23:02:20.237Z",
+    "img": "https://www.washingtonpost.com/resizer/995hC9aDmvsaZ88IZ_gHngUH5MQ=/300x0/arc-anglerfish-washpost-prod-washpost/public/K5EJYLHMNNBYDLKTCQTX2GHXVY.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/weather/extreme-weather/"
+    }
+  },
+  {
     "id": "ICH5NWMSBNCBLPG7DEIUWUHETE",
     "headline": "Where floods from Hurricane Helene are ravaging the North Carolina mountains",
     "description": "Hurricane Helene caused catastrophic flooding in North Carolina, impacting Asheville and Buncombe County.",
