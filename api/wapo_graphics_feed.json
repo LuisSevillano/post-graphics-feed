@@ -1,5 +1,42 @@
 [
   {
+    "id": "AMSWS75DTRCYVBOF463JYFPLZA",
+    "headline": "What swing-state voters are saying about the Vance-Walz VP debate",
+    "description": "Uncommitted voters in battleground states share their thoughts on the Vance-Walz debate with The Post.",
+    "url": "https://www.washingtonpost.com/elections/interactive/2024/vice-presidential-debate-voter-poll/",
+    "credits": [
+      {
+        "name": "Eric Lau",
+        "slug": "eric-lau"
+      },
+      {
+        "name": "Adrián Blanco",
+        "slug": "adrian-blanco"
+      },
+      {
+        "name": "Scott Clement",
+        "slug": "scott-clement"
+      },
+      {
+        "name": "Emily Guskin",
+        "slug": "emily-guskin"
+      },
+      {
+        "name": "Dan Keating",
+        "slug": "dan-keating"
+      },
+      {
+        "name": "Aadit Tambe",
+        "slug": "aadit-tambe"
+      }
+    ],
+    "date": "2024-10-01T19:15:07.335Z",
+    "img": "https://www.washingtonpost.com/resizer/sa9cPvtqroU8SL5rRCfSRAs-G1Q=/300x0/arc-anglerfish-washpost-prod-washpost/public/M5FWL3SXFJBBPA4JKZD5UHLR3I.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/elections/"
+    }
+  },
+  {
     "id": "ANWVRE3YPZAY7BP53RLBTZJCLU",
     "headline": "How water damages a flooded house — and which parts can be saved",
     "description": "Floods can leave thousands of homes beyond repair, but many can be saved.",
