@@ -1,5 +1,26 @@
 [
   {
+    "id": "V5BEX7IBGJE5NGQOJLRQVU5SY4",
+    "headline": "See how the port strike will snarl shipments of bananas, beer, cars and more",
+    "description": "The port closures will lead to delays and backlog for the global shipping industry. See which products could see shortages if the strike continues.",
+    "url": "https://www.washingtonpost.com/business/2024/10/02/port-strike-shortages-food-cars-alcohol/",
+    "credits": [
+      {
+        "name": "Luis Melgar",
+        "slug": "luis-melgar"
+      },
+      {
+        "name": "Rachel Lerman",
+        "slug": "rachel-lerman"
+      }
+    ],
+    "date": "2024-10-02T10:15:04.173Z",
+    "img": "https://www.washingtonpost.com/resizer/iqHn40gH_JuN_Len0k968FP6P94=/300x0/arc-anglerfish-washpost-prod-washpost/public/MUPSKU6KLU7DNG3XZL2RFED6NE.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/business/"
+    }
+  },
+  {
     "id": "AMSWS75DTRCYVBOF463JYFPLZA",
     "headline": "What swing-state voters are saying about the Vance-Walz VP debate",
     "description": "Uncommitted voters in battleground states share their thoughts on the Vance-Walz debate with The Post.",
