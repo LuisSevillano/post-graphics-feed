@@ -1,5 +1,26 @@
 [
   {
+    "id": "QVZ7DGPJWRDANOZBILPJPXUTFI",
+    "headline": "This country ditched coal. Here’s what the world can learn from it.",
+    "description": "It is one of the first countries, and the largest, to phase out coal by relying heavily on wind and solar. ",
+    "url": "https://www.washingtonpost.com/climate-environment/interactive/2024/uk-coal-power-exit/",
+    "credits": [
+      {
+        "name": "Niko Kommenda",
+        "slug": "niko-kommenda"
+      },
+      {
+        "name": "Harry Stevens",
+        "slug": "harry-stevens"
+      }
+    ],
+    "date": "2024-10-04T11:05:12.478Z",
+    "img": "https://www.washingtonpost.com/resizer/CWm4KF2im2-5jNJS-CxcZ8SVkZk=/300x0/arc-anglerfish-washpost-prod-washpost/public/Q76JLJIODRBJJH44ATK22P57O4.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/climate-environment/climate-lab/"
+    }
+  },
+  {
     "id": "WMVNOGP5QNDCDEO26IDRR5MKXE",
     "headline": "Iranian missiles hit Israeli military sites, visuals show",
     "description": "Some Iranian missiles broke through Israeli and allied air defenses to strike or land near at least three military and intelligence installations.",
