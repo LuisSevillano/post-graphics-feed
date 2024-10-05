@@ -1,5 +1,38 @@
 [
   {
+    "id": "LOSSRRSNOBBKTIYRLLTYRFSCAA",
+    "headline": "How Helene became a ‘worst case scenario’",
+    "description": "What fueled Helene and caused so much devastation in North Carolina ",
+    "url": "https://www.washingtonpost.com/climate-environment/interactive/2024/helene-flooding-damage-north-carolina-chimney-rock/",
+    "credits": [
+      {
+        "name": "Simon Ducroquet",
+        "slug": "simon-ducroquet"
+      },
+      {
+        "name": "John Muyskens",
+        "slug": "john-muyskens"
+      },
+      {
+        "name": "Naema Ahmed",
+        "slug": "naema-ahmed"
+      },
+      {
+        "name": "Nicolás Rivero",
+        "slug": "nicolás-rivero"
+      },
+      {
+        "name": "Niko Kommenda",
+        "slug": "niko-kommenda"
+      }
+    ],
+    "date": "2024-10-05T11:00:47.155Z",
+    "img": "https://www.washingtonpost.com/resizer/9lunmKsd8Ow5qujTQ3wsYmafX2M=/300x0/arc-anglerfish-washpost-prod-washpost/public/4HFXH66ZTNHITLX7JEI466T7YE.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/climate-environment/climate-lab/"
+    }
+  },
+  {
     "id": "QVZ7DGPJWRDANOZBILPJPXUTFI",
     "headline": "This country ditched coal. Here’s what the world can learn from it.",
     "description": "It is one of the first countries, and the largest, to phase out coal by relying heavily on wind and solar. ",
