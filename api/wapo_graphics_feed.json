@@ -1,5 +1,30 @@
 [
   {
+    "id": "PBTJ7EJMWND4DLYZC54R3D3YQ4",
+    "headline": "What is making Hurricane Milton so ferocious",
+    "description": "See how a heat wave in the Gulf of Mexico contributed to Hurricane Milton’s rapid intensification.",
+    "url": "https://www.washingtonpost.com/climate-environment/interactive/2024/hurricane-milton-helene-marine-heat-wave-storms/",
+    "credits": [
+      {
+        "name": "Kasha Patel",
+        "slug": "kasha-patel"
+      },
+      {
+        "name": "Harry Stevens",
+        "slug": "harry-stevens"
+      },
+      {
+        "name": "Niko Kommenda",
+        "slug": "niko-kommenda"
+      }
+    ],
+    "date": "2024-10-08T21:06:35.874Z",
+    "img": "https://www.washingtonpost.com/resizer/9FgI8i941JNX5T3s3QIz7iXMUS0=/300x0/arc-anglerfish-washpost-prod-washpost/public/NXNXYPMYWZHNVGLD464V5R7WYY.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/climate-environment/environment/"
+    }
+  },
+  {
     "id": "BLY7VIRESVCAJD4HXETSCB6RDE",
     "headline": "Hurricane Milton tracker: Map and projected storm path",
     "description": "Forecasts suggest Hurricane Milton is likely to make landfall in the western part of the Florida peninsula, bringing rain, ocean surge and damaging winds.",
