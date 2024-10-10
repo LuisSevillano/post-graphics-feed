@@ -1,5 +1,30 @@
 [
   {
+    "id": "MXMXWFAIXJEEVMA2JPPH4BCKHM",
+    "headline": "The damage caused by Hurricane Milton in maps, photos and videos",
+    "description": "Hurricane Milton caused widespread damage across Florida with deadly tornadoes and storm surge.",
+    "url": "https://www.washingtonpost.com/weather/2024/10/10/hurricane-milton-damage-florida/",
+    "credits": [
+      {
+        "name": "Laris Karklis",
+        "slug": "laris-karklis"
+      },
+      {
+        "name": "Bonnie Berkowitz",
+        "slug": "bonnie-berkowitz"
+      },
+      {
+        "name": "Dylan Moriarty",
+        "slug": "dylan-moriarty"
+      }
+    ],
+    "date": "2024-10-10T16:45:08.251Z",
+    "img": "https://www.washingtonpost.com/resizer/dnkRqwuFtIE8QuVLJjgVJ84WTMs=/300x0/arc-anglerfish-washpost-prod-washpost/public/JVAYIOG4SJH3LE5A4ZRXY4LOXM.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/weather/extreme-weather/"
+    }
+  },
+  {
     "id": "BAJ2IMBGGNCGXEVWGELZHC7XAM",
     "headline": "Are abortion pills legal in my state? Here’s what you need to know. ",
     "description": "Even where medication abortion is legal, state restrictions make it difficult to access care.",
