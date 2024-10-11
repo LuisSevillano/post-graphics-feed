@@ -1,5 +1,30 @@
 [
   {
+    "id": "IKSFLEPKYRE5NOOAN7VO2LE73Y",
+    "headline": "The most Republican and Democratic cuisines, according to campaign funds",
+    "description": "This week, we scour campaign finance reports to reveal strikingly partisan preferences for various restaurants, with few more polarizing than McDonald’s.",
+    "url": "https://www.washingtonpost.com/business/interactive/2024/campaign-spending-fast-food-mcdonalds/",
+    "credits": [
+      {
+        "name": "Kati Perry",
+        "slug": "kati-perry"
+      },
+      {
+        "name": "Adrián Blanco",
+        "slug": "adrian-blanco"
+      },
+      {
+        "name": "Andrew Van Dam",
+        "slug": "andrew-van-dam"
+      }
+    ],
+    "date": "2024-10-11T10:00:31.757Z",
+    "img": "https://www.washingtonpost.com/resizer/nWfEtQ4sNicwnQ5skdlj0SbBHus=/300x0/arc-anglerfish-washpost-prod-washpost/public/TEW3XTHD5II6VAWYLZK5I7UQZI.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/business/2022/06/29/dept-of-data/"
+    }
+  },
+  {
     "id": "MXMXWFAIXJEEVMA2JPPH4BCKHM",
     "headline": "The damage caused by Hurricane Milton in maps, photos and videos",
     "description": "Hurricane Milton caused widespread damage across Florida with deadly tornadoes and storm surge.",
