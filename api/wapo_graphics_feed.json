@@ -1,5 +1,26 @@
 [
   {
+    "id": "OHKATNP2VVBBPN33IH2K36H6YU",
+    "headline": "When was the last time a presidential campaign fought to win your state?",
+    "description": "How the number of battleground states targeted by both campaigns declined over the most recent election cycles",
+    "url": "https://www.washingtonpost.com/elections/2024/10/12/swing-states-presidential-campaigns/",
+    "credits": [
+      {
+        "name": "Hannah Dormido",
+        "slug": "hannah-dormido"
+      },
+      {
+        "name": "Adrián Blanco",
+        "slug": "adrian-blanco"
+      }
+    ],
+    "date": "2024-10-12T19:08:58.159Z",
+    "img": "https://www.washingtonpost.com/resizer/0vMNWP0Baoaqfismc0snP0Nq9LE=/300x0/arc-anglerfish-washpost-prod-washpost/public/IMFPK23MW5DMVAJJ7EYB5DY424.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/politics/"
+    }
+  },
+  {
     "id": "RCNCE66O4FFB3HFPPEALVHN6UE",
     "headline": "Can an icy Jupiter moon sustain life? NASA’s biggest space probe will investigate.",
     "description": "NASA is set to launch a jumbo spacecraft, Europa Clipper, to see if an icy moon of Jupiter has the characteristics of a habitable world.",
