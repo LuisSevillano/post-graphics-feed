@@ -1,5 +1,30 @@
 [
   {
+    "id": "HE6NOMACC5EJ3KLQYMN5S27IMA",
+    "headline": "Federal flood maps underestimated risk in areas hit hardest by Hurricane Helene",
+    "description": "A Washington Post analysis shows how federal flood maps underestimated the risk homeowners faced in the parts of North Carolina devastated by Hurricane Helene.",
+    "url": "https://www.washingtonpost.com/weather/2024/10/13/fema-flood-maps-hurricane-helene/",
+    "credits": [
+      {
+        "name": "Kevin Crowe",
+        "slug": "kevin-crowe"
+      },
+      {
+        "name": "Shannon Osaka",
+        "slug": "shannon-osaka"
+      },
+      {
+        "name": "John Muyskens",
+        "slug": "john-muyskens"
+      }
+    ],
+    "date": "2024-10-13T10:00:00.080Z",
+    "img": "https://www.washingtonpost.com/resizer/1nRTyawsrHwPGl3R55o6gD2EXq8=/300x0/arc-anglerfish-washpost-prod-washpost/public/QITRDDRUXFAZXI5CZZOFDH4H2U.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/climate-environment/environment/"
+    }
+  },
+  {
     "id": "OHKATNP2VVBBPN33IH2K36H6YU",
     "headline": "When was the last time a presidential campaign fought to win your state?",
     "description": "How the number of battleground states targeted by both campaigns declined over the most recent election cycles",
