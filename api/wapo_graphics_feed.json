@@ -1,5 +1,30 @@
 [
   {
+    "id": "HYTBM6X52VEYPJQR6LL36EY7VI",
+    "headline": "Where climate change poses the most and least risk to American homeowners",
+    "description": "Millions of Americans could face a slow and almost imperceptible re-pricing of their biggest asset.",
+    "url": "https://www.washingtonpost.com/climate-environment/interactive/2024/home-insurance-climate-change-housing-market/",
+    "credits": [
+      {
+        "name": "Michael J. Coren",
+        "slug": "michael-coren"
+      },
+      {
+        "name": "Naema Ahmed",
+        "slug": "naema-ahmed"
+      },
+      {
+        "name": "Kevin Crowe",
+        "slug": "kevin-crowe"
+      }
+    ],
+    "date": "2024-10-15T09:00:14.598Z",
+    "img": "https://www.washingtonpost.com/resizer/nRVrU_JYBxz1wbQVvFDH1-dp9Ro=/300x0/arc-anglerfish-washpost-prod-washpost/public/HHQWB6OTJ5AHRARXO6M35MC5QM.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/climate-environment/green-living/"
+    }
+  },
+  {
     "id": "HE6NOMACC5EJ3KLQYMN5S27IMA",
     "headline": "Federal flood maps underestimated risk in areas hit hardest by Hurricane Helene",
     "description": "A Washington Post analysis shows how federal flood maps underestimated the risk homeowners faced in the parts of North Carolina devastated by Hurricane Helene.",
