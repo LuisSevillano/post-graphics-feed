@@ -1,5 +1,22 @@
 [
   {
+    "id": "UZWVIP3AGNFS3CHJSFBBMPJYRE",
+    "headline": "How people cast their vote in each state, and how it’s changing",
+    "description": "States have adopted policies that allow for ballots to be cast by mail, at early voting sites or that maintain a preference for voting in person on Election Day.",
+    "url": "https://www.washingtonpost.com/elections/2024/10/16/vote-by-mail-early-election-day/",
+    "credits": [
+      {
+        "name": "Nick Mourtoupalas",
+        "slug": "nick-mourtoupalas"
+      }
+    ],
+    "date": "2024-10-16T16:40:30.167Z",
+    "img": "https://www.washingtonpost.com/resizer/x6TfH6BX2-BLFAcMTyNyyY_cysI=/300x0/arc-anglerfish-washpost-prod-washpost/public/5UV2WBXDBNBCJKSXH42WWD24WI.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/elections/"
+    }
+  },
+  {
     "id": "HYTBM6X52VEYPJQR6LL36EY7VI",
     "headline": "Where climate change poses the most and least risk to American homeowners",
     "description": "Millions of Americans could face a slow and almost imperceptible re-pricing of their biggest asset.",
