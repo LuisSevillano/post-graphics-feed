@@ -1,5 +1,26 @@
 [
   {
+    "id": "7TSNWEQNHZEYJMZOOKUDD33GGM",
+    "headline": "How the election winner becomes president and where it could go awry",
+    "description": "A look at how the post-election process works from canvassing and certification to Inauguration Day.",
+    "url": "https://www.washingtonpost.com/politics/interactive/2024/election-certification-presidential-results-challenges/",
+    "credits": [
+      {
+        "name": "Derek Hawkins",
+        "slug": "derek-hawkins"
+      },
+      {
+        "name": "Artur Galocha",
+        "slug": "artur-galocha"
+      }
+    ],
+    "date": "2024-10-19T10:00:52.012Z",
+    "img": "https://www.washingtonpost.com/resizer/sVP1Yf26RGmLhGL11Fqkof6DOpM=/300x0/arc-anglerfish-washpost-prod-washpost/public/TPJBBPSDDZA25COPZDWWFAX2GE.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/politics/democracy-in-america/"
+    }
+  },
+  {
     "id": "2NSYSQEB2RELLEE3UEHEFHOG5E",
     "headline": "Crypto cash is flooding the 2024 election. Here’s who’s benefiting.",
     "description": "Super PACs funded by the cryptocurrency industry have spent more than $130 million in one of the largest — and least obvious — efforts to influence the 2024 race.",
