@@ -1,5 +1,27 @@
 [
   {
+    "id": "XGYOWCEYAZFOFHSKZ6NLQUWSME",
+    "headline": "Voters prefer Harris’s agenda to Trump’s — they just don’t realize it. Take our quiz.",
+    "description": "Rate these eight policy proposals to find out which candidate best reflects your views.",
+    "url": "https://www.washingtonpost.com/opinions/interactive/2024/trump-harris-policy-quiz/",
+    "credits": [
+      {
+        "name": "Catherine Rampell",
+        "slug": "catherine-rampell"
+      },
+      {
+        "name": "Youyou Zhou",
+        "slug": "youyou-zhou"
+      }
+    ],
+    "date": "2024-10-22T11:30:01.788Z",
+    "img": "https://www.washingtonpost.com/resizer/PIADY1tzNZ3wTjiei0BS0Y_hHG0=/300x0/arc-anglerfish-washpost-prod-washpost/public/BS2656CRRNGYXOVOFNQMPGE3VU.jpg",
+    "label": {
+      "text": "Opinion",
+      "url": "https://www.washingtonpost.com/opinions/"
+    }
+  },
+  {
     "id": "7FTWCYRYMNEC5IA7SXMLZBCOII",
     "headline": "Misinformation is everywhere this election. Can you tell what’s real?",
     "description": "How good are your defenses against election misinformation? Test your instincts to see how you compare to other Post readers.",
