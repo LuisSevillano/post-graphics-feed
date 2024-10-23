@@ -1,5 +1,30 @@
 [
   {
+    "id": "DJKCFZPRLFEKZOL5OTVVNGKCHI",
+    "headline": "Harris leads Trump in donors. Who’s winning the money race near you?",
+    "description": "In every state across the country, more people donated to Vice President Kamala Harris than to former president Donald Trump. See the donor breakdown near you.",
+    "url": "https://www.washingtonpost.com/elections/interactive/2024/trump-harris-donors-zip-code-map/",
+    "credits": [
+      {
+        "name": "Clara Ence Morse",
+        "slug": "clara-ence-morse"
+      },
+      {
+        "name": "Kevin Schaul",
+        "slug": "kevin-schaul"
+      },
+      {
+        "name": "Azi Paybarah",
+        "slug": "azi-paybarah"
+      }
+    ],
+    "date": "2024-10-23T18:05:56.387Z",
+    "img": "https://www.washingtonpost.com/resizer/66CvxAyTQ5a9ilYoSCKPfNFBdTg=/300x0/arc-anglerfish-washpost-prod-washpost/public/GMEOI4HPGJDX5GBJQ3KG35LNQ4.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/elections/"
+    }
+  },
+  {
     "id": "ZXQNZRTFBBGI7FIQWCYDYITN4U",
     "headline": "Over 230 Republican candidates have cast doubt on the 2024 election",
     "description": "A look at the four main ways in which Republican candidates have tried to cast doubt on the 2024 election.",
