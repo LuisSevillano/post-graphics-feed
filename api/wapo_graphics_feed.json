@@ -1,5 +1,30 @@
 [
   {
+    "id": "ZXQNZRTFBBGI7FIQWCYDYITN4U",
+    "headline": "Over 230 Republican candidates have cast doubt on the 2024 election",
+    "description": "A look at the four main ways in which Republican candidates have tried to cast doubt on the 2024 election.",
+    "url": "https://www.washingtonpost.com/elections/interactive/2024/elections-doubts-2024-republicans/",
+    "credits": [
+      {
+        "name": "Clara Ence Morse",
+        "slug": "clara-ence-morse"
+      },
+      {
+        "name": "Derek Hawkins",
+        "slug": "derek-hawkins"
+      },
+      {
+        "name": "Carson TerBush",
+        "slug": "carson-terbush"
+      }
+    ],
+    "date": "2024-10-23T11:00:02.994Z",
+    "img": "https://www.washingtonpost.com/resizer/Ed9JIr8mZSERMrQH31cusC1k--4=/300x0/arc-anglerfish-washpost-prod-washpost/public/QI6MSDX37VGGPBZUV5YH76ZRYY.png",
+    "label": {
+      "url": "https://www.washingtonpost.com/politics/democracy-in-america/"
+    }
+  },
+  {
     "id": "XGYOWCEYAZFOFHSKZ6NLQUWSME",
     "headline": "Voters prefer Harris’s agenda to Trump’s — they just don’t realize it. Take our quiz.",
     "description": "Rate these eight policy proposals to find out which candidate best reflects your views.",
