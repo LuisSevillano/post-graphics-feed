@@ -1,5 +1,26 @@
 [
   {
+    "id": "6VCPSPSX3ZA45ODHRTNQNO3OCI",
+    "headline": "Where millions of Americans have cast ballots during early voting",
+    "description": "Here are the latest numbers from early voting in person and vote by mail in each state, according to the Associated Press.",
+    "url": "https://www.washingtonpost.com/elections/2024/10/24/early-voting-turnout/",
+    "credits": [
+      {
+        "name": "Alyssa Fowers",
+        "slug": "alyssa-fowers"
+      },
+      {
+        "name": "Hannah Recht",
+        "slug": "hannah-recht"
+      }
+    ],
+    "date": "2024-10-24T14:06:19.072Z",
+    "img": "https://www.washingtonpost.com/resizer/imDqhFbmXdNJi1XOjJRZPf7eWJc=/300x0/arc-anglerfish-washpost-prod-washpost/public/XPKKBY2IE7MFDDWYFQCEVQA3EI.JPG",
+    "label": {
+      "url": "https://www.washingtonpost.com/elections/"
+    }
+  },
+  {
     "id": "F6GP3MKPRFEQDMW73PR6YVSV6M",
     "headline": "The real reason billion-dollar disasters like Hurricane Helene are growing more common",
     "description": "As billion-dollar disasters like hurricanes Helene and Milton grow more common, many blame global warming. Others say disasters are more expensive because there is more to destroy.",
