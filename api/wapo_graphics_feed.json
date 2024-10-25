@@ -1,5 +1,30 @@
 [
   {
+    "id": "VG44VXECL5GYNETOOWYXHHNGLI",
+    "headline": "See how people like you vote and how that’s changed over time",
+    "description": "Tell us about yourself to reveal how voters like you have shifted since 1976.",
+    "url": "https://www.washingtonpost.com/elections/interactive/2024/voting-patterns-presidential-elections/",
+    "credits": [
+      {
+        "name": "Luis Melgar",
+        "slug": "luis-melgar"
+      },
+      {
+        "name": "Eric Lau",
+        "slug": "eric-lau"
+      },
+      {
+        "name": "Lenny Bronner",
+        "slug": "lenny-bronner"
+      }
+    ],
+    "date": "2024-10-25T17:05:18.337Z",
+    "img": "https://www.washingtonpost.com/resizer/DuUxVHeD7dStpmKrlO8Ct0COdXo=/300x0/arc-anglerfish-washpost-prod-washpost/public/XDVJ3C2JVNAIXNK3UUDUNF6YCQ.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/elections/"
+    }
+  },
+  {
     "id": "6VCPSPSX3ZA45ODHRTNQNO3OCI",
     "headline": "Where millions of Americans have cast ballots during early voting",
     "description": "Here are the latest numbers from early voting in person and vote by mail in each state, according to the Associated Press.",
