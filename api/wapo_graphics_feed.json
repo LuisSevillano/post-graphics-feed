@@ -1,5 +1,42 @@
 [
   {
+    "id": "ML6RJQW7HZEUFEX6M35H6QUNUA",
+    "headline": "What Helene took",
+    "description": "The storm killed in harrowing ways — and left a trail of heartbreak",
+    "url": "https://www.washingtonpost.com/weather/interactive/2024/hurricane-helene-death-toll-north-carolina/",
+    "credits": [
+      {
+        "name": "Sarah Kaplan",
+        "slug": "sarah-kaplan"
+      },
+      {
+        "name": "Matt McClain",
+        "slug": "matt-mcclain"
+      },
+      {
+        "name": "Brady Dennis",
+        "slug": "brady-dennis"
+      },
+      {
+        "name": "Scott Dance",
+        "slug": "scott-dance"
+      },
+      {
+        "name": "Naema Ahmed",
+        "slug": "naema-ahmed"
+      },
+      {
+        "name": "Dino Grandoni",
+        "slug": "dino-grandoni"
+      }
+    ],
+    "date": "2024-10-27T10:00:03.537Z",
+    "img": "https://www.washingtonpost.com/resizer/BW0KnPjZYeSY1BxKgEmNDZUxXqk=/300x0/arc-anglerfish-washpost-prod-washpost/public/2ICPF3FE2VH6VJGS56YNFIXLDE.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/weather/extreme-weather/"
+    }
+  },
+  {
     "id": "VG44VXECL5GYNETOOWYXHHNGLI",
     "headline": "See how people like you vote and how that’s changed over time",
     "description": "Tell us about yourself to reveal how voters like you have shifted since 1976.",
