@@ -1,5 +1,30 @@
 [
   {
+    "id": "WE32EDXIVZDTRLTBTJ63NTFHQM",
+    "headline": "The surprising winners — and losers — of America’s clean energy boom",
+    "description": "Most of the clean investment since Biden’s landmark climate law has flowed to Republican districts. ",
+    "url": "https://www.washingtonpost.com/climate-environment/interactive/2024/climate-bill-biden-clean-energy/",
+    "credits": [
+      {
+        "name": "Niko Kommenda",
+        "slug": "niko-kommenda"
+      },
+      {
+        "name": "Shannon Osaka",
+        "slug": "shannon-osaka"
+      },
+      {
+        "name": "John Muyskens",
+        "slug": "john-muyskens"
+      }
+    ],
+    "date": "2024-10-28T10:00:00.185Z",
+    "img": "https://www.washingtonpost.com/resizer/Y2AmTb1G5VDTi2XfPkTBKeH2KG8=/300x0/arc-anglerfish-washpost-prod-washpost/public/ZJGEWJMRC5EA5P3IKPPN4TBIBA.png",
+    "label": {
+      "url": "https://www.washingtonpost.com/climate-environment/climate-lab/"
+    }
+  },
+  {
     "id": "ML6RJQW7HZEUFEX6M35H6QUNUA",
     "headline": "What Helene took",
     "description": "The storm killed in harrowing ways — and left a trail of heartbreak",
