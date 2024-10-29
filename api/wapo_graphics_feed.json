@@ -1,5 +1,30 @@
 [
   {
+    "id": "5E57HUXOFNGV5PWIEY364F73TQ",
+    "headline": "When polls close in each state and how long it may take to count votes",
+    "description": "The key races in 2024 and what we know about election results timing in each state, according to the Associated Press.",
+    "url": "https://www.washingtonpost.com/elections/2024/10/29/poll-close-times/",
+    "credits": [
+      {
+        "name": "Nick Mourtoupalas",
+        "slug": "nick-mourtoupalas"
+      },
+      {
+        "name": "Kevin Uhrmacher",
+        "slug": "kevin-uhrmacher"
+      },
+      {
+        "name": "Associated Press",
+        "slug": ""
+      }
+    ],
+    "date": "2024-10-29T16:00:34.551Z",
+    "img": "https://www.washingtonpost.com/resizer/DDcsnfs9dn1_JRuCUZyo8GgaL6E=/300x0/arc-anglerfish-washpost-prod-washpost/public/IWXIPYL2HNC5DG3X25PLDSWFRE.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/elections/"
+    }
+  },
+  {
     "id": "WE32EDXIVZDTRLTBTJ63NTFHQM",
     "headline": "The surprising winners — and losers — of America’s clean energy boom",
     "description": "Most of the clean investment since Biden’s landmark climate law has flowed to Republican districts. ",
