@@ -13242,6 +13242,31 @@
     }
   },
   {
+    "id": "4VG4EXAMHZGLRAIFWZTNR25KKI",
+    "headline": "How the electoral college works",
+    "description": "The U.S. electoral system uses the electoral college to elect a president. The candidate with the most votes doesn’t necessarily win the election.",
+    "url": "https://www.washingtonpost.com/elections/2020/08/24/how-electoral-college-works/",
+    "credits": [
+      {
+        "name": "Cristina Rivero",
+        "slug": "cristina-rivero"
+      },
+      {
+        "name": "Chiqui Esteban",
+        "slug": "chiqui-esteban"
+      },
+      {
+        "name": "Artur Galocha",
+        "slug": "artur-galocha"
+      }
+    ],
+    "date": "2020-08-24T19:17:17.711Z",
+    "img": "https://www.washingtonpost.com/resizer/N7tMtkE0iMMW6c8dJLjDIGVbua8=/300x0/arc-anglerfish-washpost-prod-washpost/public/6IZBETPYWNEDXENQSSAWIMN2DQ.png",
+    "label": {
+      "url": "https://www.washingtonpost.com/politics/"
+    }
+  },
+  {
     "id": "GLEF4MCKYJA6BE3YHBNOMSZCK4",
     "headline": "Tracking coronavirus deaths, cases and vaccinations in D.C., Maryland and Virginia",
     "description": "The novel coronavirus made its first appearance in the region on March 5, 2020. How it has spread since then.",
