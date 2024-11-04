@@ -1,5 +1,26 @@
 [
   {
+    "id": "4KSEOVVXIVBMJCZHIHJ4JYP5UA",
+    "headline": "Mapping more than 300 events by Trump, Harris and their running mates  ",
+    "description": "Vice President Kamala Harris, former president Donald Trump and their running mates have blanketed swing states since the race was upended in mid-July.",
+    "url": "https://www.washingtonpost.com/elections/2024/11/04/campaign-events-trump-harris-walz-vance/",
+    "credits": [
+      {
+        "name": "Adrián Blanco Ramos",
+        "slug": "adrian-blanco"
+      },
+      {
+        "name": "Eric Lau",
+        "slug": "eric-lau"
+      }
+    ],
+    "date": "2024-11-04T18:04:14.267Z",
+    "img": "https://www.washingtonpost.com/resizer/RLy-xmGhZtM-Xs9T3m_ygYK2T60=/300x0/arc-anglerfish-washpost-prod-washpost/public/C2HJUZHEJZA6BFYPOOULQS2X2M.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/elections/"
+    }
+  },
+  {
     "id": "YWB2O5ZJWBBQVI4WHE24CDZ45U",
     "headline": "Your visual guide to the high-stakes drama in state legislatures",
     "description": "Where are the tightest races this year? In the 44 battles for statehouses.",
