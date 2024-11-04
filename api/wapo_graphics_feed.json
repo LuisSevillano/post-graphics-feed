@@ -1,5 +1,26 @@
 [
   {
+    "id": "AURGVYQH35CTNDQJXEDLCRPTRY",
+    "headline": "Can Harris win the election? Here are her possible paths to victory.",
+    "description": "Based on The Washington Post polling average, Harris has three paths to victory. Winning the Rust Belt is her most likely route.",
+    "url": "https://www.washingtonpost.com/elections/2024/11/04/can-harris-win-election/",
+    "credits": [
+      {
+        "name": "Lenny Bronner",
+        "slug": "lenny-bronner"
+      },
+      {
+        "name": "Nick Mourtoupalas",
+        "slug": "nick-mourtoupalas"
+      }
+    ],
+    "date": "2024-11-04T10:00:57.525Z",
+    "img": "https://www.washingtonpost.com/resizer/3SwBvnwlRoqZW13w-xYipwUc3FY=/300x0/arc-anglerfish-washpost-prod-washpost/public/PL5UTT7HZFCDRDVL5LNIJXMVXU.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/elections/"
+    }
+  },
+  {
     "id": "S4AESABGVNHZTDU2CWGVUYVANI",
     "headline": "Can Trump win the election? Here are his possible paths to victory.",
     "description": "Based on The Washington Post polling average, Trump has three paths to victory. Winning North Carolina, Georgia and Pennsylvania is his most likely route.",
