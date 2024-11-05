@@ -1,5 +1,42 @@
 [
   {
+    "id": "L3HJPCUONFCAJNOSIABZOFHJAQ",
+    "headline": "States where votes are still being counted in the 2024 election",
+    "description": "Our map shows how quickly different parts of the country tabulated elections results in 2024 U.S. Presidential race.",
+    "url": "https://www.washingtonpost.com/elections/interactive/2024/11/05/remaining-vote-count/",
+    "credits": [
+      {
+        "name": "Dylan Moriarty",
+        "slug": "dylan-moriarty"
+      }
+    ],
+    "date": "2024-11-05T16:30:31.382Z",
+    "label": {
+      "url": "https://www.washingtonpost.com/elections/"
+    }
+  },
+  {
+    "id": "CS6MQAO3WFDKPMEVG7XS56SRSM",
+    "headline": "How counties are shifting in the 2024 presidential election",
+    "description": "Whether Vice President Kamala Harris or former president Donald Trump wins could hinge on tiny margins in key states. Here’s how the country is voting this time.",
+    "url": "https://www.washingtonpost.com/elections/interactive/2024/11/05/compare-2020-2024-presidential-results/",
+    "credits": [
+      {
+        "name": "Kevin Schaul",
+        "slug": "kevin-schaul"
+      },
+      {
+        "name": "Kati Perry",
+        "slug": "kati-perry"
+      }
+    ],
+    "date": "2024-11-05T16:00:55.906Z",
+    "img": "https://www.washingtonpost.com/resizer/8yT4Jh3NZPZ4oxPiRArmh26MXYk=/300x0/arc-anglerfish-washpost-prod-washpost/public/CMR6G5RS45GAPL2ACJUAYNYQNI.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/elections/"
+    }
+  },
+  {
     "id": "FDXA5GADLFEPVDKKHUFAFXRKOI",
     "headline": "How Trump used the ‘red mirage’ in vote counting to deny his 2020 loss",
     "description": "As Trump saw early leads dwindle in some states, he called for officials to stop counting votes and claimed the remaining uncounted ballots were fraudulent.",
