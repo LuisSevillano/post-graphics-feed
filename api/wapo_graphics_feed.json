@@ -1,5 +1,30 @@
 [
   {
+    "id": "6A4IHJF4MFC4BJBDOHTD35NB5I",
+    "headline": "2024 turnout is near the 2020 record. See how each state compares.",
+    "description": "Votes are still being counted in some states, but those tabulated so far and expected totals show a range of turnout across states.",
+    "url": "https://www.washingtonpost.com/politics/2024/11/06/voter-turnout-2024-by-state/",
+    "credits": [
+      {
+        "name": "Luis Melgar",
+        "slug": "luis-melgar"
+      },
+      {
+        "name": "Alyssa Fowers",
+        "slug": "alyssa-fowers"
+      },
+      {
+        "name": "Dan Keating",
+        "slug": "dan-keating"
+      }
+    ],
+    "date": "2024-11-06T15:35:44.700Z",
+    "img": "https://www.washingtonpost.com/resizer/B89_bubMkoJpXfnwJsPRMLXoXIw=/300x0/arc-anglerfish-washpost-prod-washpost/public/FXIR6IQAYNDHPIDVQR7P7NW35Q.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/elections/"
+    }
+  },
+  {
     "id": "H3GEDNRHCFDCHIBJX2GMZJIRG4",
     "headline": "Who is winning the election? Latest look at Trump, Harris paths to victory.",
     "description": "Our regularly updated election-night look at the best remaining paths to 270 for each candidate.",
