@@ -1,5 +1,51 @@
 [
   {
+    "id": "H3GEDNRHCFDCHIBJX2GMZJIRG4",
+    "headline": "Who is winning the election? Latest look at Trump, Harris paths to victory.",
+    "description": "Our regularly updated election-night look at the best remaining paths to 270 for each candidate.",
+    "url": "https://www.washingtonpost.com/politics/2024/11/05/trump-harris-projected-win-election/",
+    "credits": [
+      {
+        "name": "Aaron Blake",
+        "slug": "aaron-blake"
+      },
+      {
+        "name": "Shelly Tan",
+        "slug": "shelly-tan"
+      }
+    ],
+    "date": "2024-11-06T03:35:09.012Z",
+    "img": "https://www.washingtonpost.com/resizer/5s2mmLW_7I4cQBN3u7R56AJbAaY=/300x0/arc-anglerfish-washpost-prod-washpost/public/C4GVFZJWCBBX3IXCC7SHNOC3SQ.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/elections/"
+    }
+  },
+  {
+    "id": "RKTEEOMBKBDKNCKKP2INOBZZDI",
+    "headline": "Nevada presidential, senatorial and referendum exit polls",
+    "description": "Exit poll results for the 2024 presidential elections",
+    "url": "https://www.washingtonpost.com/elections/interactive/2024/nevada-exit-polls/",
+    "credits": [
+      {
+        "name": "Emily Guskin",
+        "slug": "emily-guskin"
+      },
+      {
+        "name": "Chris Alcantara",
+        "slug": "chris-alcantara"
+      },
+      {
+        "name": "Janice Kai Chen",
+        "slug": "janice-kai-chen"
+      }
+    ],
+    "date": "2024-11-06T03:17:03.460Z",
+    "img": "https://www.washingtonpost.com/resizer/xD5gu6RTUP47GspZH545SiqHujY=/300x0/arc-anglerfish-washpost-prod-washpost/public/24KAXWMFOZGSHL4VSNJFTKGTTY.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/elections/"
+    }
+  },
+  {
     "id": "FDV76AN4ZBAWBAFFEXL4KHFQSQ",
     "headline": "Michigan presidential and senatorial exit polls",
     "description": "Exit poll results for the 2024 presidential elections",
