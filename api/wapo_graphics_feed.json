@@ -1,5 +1,155 @@
 [
   {
+    "id": "FDV76AN4ZBAWBAFFEXL4KHFQSQ",
+    "headline": "Michigan presidential and senatorial exit polls",
+    "description": "Exit poll results for the 2024 presidential elections",
+    "url": "https://www.washingtonpost.com/elections/interactive/2024/michigan-exit-polls/",
+    "credits": [
+      {
+        "name": "Emily Guskin",
+        "slug": "emily-guskin"
+      },
+      {
+        "name": "Chris Alcantara",
+        "slug": "chris-alcantara"
+      },
+      {
+        "name": "Janice Kai Chen",
+        "slug": "janice-kai-chen"
+      }
+    ],
+    "date": "2024-11-06T02:15:25.175Z",
+    "img": "https://www.washingtonpost.com/resizer/-EKh04gxMIW8Kb_kONjBoBJylKI=/300x0/arc-anglerfish-washpost-prod-washpost/public/65Y47IEQFNDCVIE7MVG73TVXNE.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/elections/"
+    }
+  },
+  {
+    "id": "XYKE2IUDI5CUTMJWM5FA27GC2U",
+    "headline": "Texas presidential and senatorial exit polls",
+    "description": "Exit poll results for the 2024 presidential elections",
+    "url": "https://www.washingtonpost.com/elections/interactive/2024/texas-exit-polls/",
+    "credits": [
+      {
+        "name": "Emily Guskin",
+        "slug": "emily-guskin"
+      },
+      {
+        "name": "Chris Alcantara",
+        "slug": "chris-alcantara"
+      },
+      {
+        "name": "Janice Kai Chen",
+        "slug": "janice-kai-chen"
+      }
+    ],
+    "date": "2024-11-06T02:12:41.720Z",
+    "img": "https://www.washingtonpost.com/resizer/2ePXphQD5Mtki1WYQFw-_MYqP_o=/300x0/arc-anglerfish-washpost-prod-washpost/public/T4LQXADDPVCAFJAXB7Q4ZSBCFM.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/elections/"
+    }
+  },
+  {
+    "id": "DBKG3MA42ZA6XFGDIFZJKGRSNI",
+    "headline": "Wisconsin presidential and senatorial exit polls",
+    "description": "Exit poll results for the 2024 presidential elections",
+    "url": "https://www.washingtonpost.com/elections/interactive/2024/wisconsin-exit-polls/",
+    "credits": [
+      {
+        "name": "Emily Guskin",
+        "slug": "emily-guskin"
+      },
+      {
+        "name": "Chris Alcantara",
+        "slug": "chris-alcantara"
+      },
+      {
+        "name": "Janice Kai Chen",
+        "slug": "janice-kai-chen"
+      }
+    ],
+    "date": "2024-11-06T02:11:53.897Z",
+    "img": "https://www.washingtonpost.com/resizer/8PenR7Ivl0mSSTCsrqnWh1iuFCI=/300x0/arc-anglerfish-washpost-prod-washpost/public/3IHSNDL6HRERPNRS3UWEF6ZMRA.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/elections/"
+    }
+  },
+  {
+    "id": "3ONDAFKRYJENRHSNGOS4XOADFA",
+    "headline": "Arizona presidential, senatorial and referendum exit polls",
+    "description": "Exit poll results for the 2024 presidential elections",
+    "url": "https://www.washingtonpost.com/elections/interactive/2024/arizona-exit-polls/",
+    "credits": [
+      {
+        "name": "Emily Guskin",
+        "slug": "emily-guskin"
+      },
+      {
+        "name": "Chris Alcantara",
+        "slug": "chris-alcantara"
+      },
+      {
+        "name": "Janice Kai Chen",
+        "slug": "janice-kai-chen"
+      }
+    ],
+    "date": "2024-11-06T02:10:30.919Z",
+    "img": "https://www.washingtonpost.com/resizer/2dOIdEi4bph28GyQUSNZ4CydeEE=/300x0/arc-anglerfish-washpost-prod-washpost/public/YQD6XNKBD5BLPFAYIO6UX4CENU.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/elections/"
+    }
+  },
+  {
+    "id": "LOBTXPDD6NEJHL5EC3SIXAKKR4",
+    "headline": "Exit polls from the 2024 presidential election",
+    "description": "National exit poll results for the 2024 presidential elections",
+    "url": "https://www.washingtonpost.com/elections/interactive/2024/exit-polls-2024-election/",
+    "credits": [
+      {
+        "name": "Emily Guskin",
+        "slug": "emily-guskin"
+      },
+      {
+        "name": "Chris Alcantara",
+        "slug": "chris-alcantara"
+      },
+      {
+        "name": "Janice Kai Chen",
+        "slug": "janice-kai-chen"
+      }
+    ],
+    "date": "2024-11-06T01:55:26.674Z",
+    "img": "https://www.washingtonpost.com/resizer/B5nteeQO-i7M0a_EpGtGY-7c_Ds=/300x0/arc-anglerfish-washpost-prod-washpost/public/LDJJD22ESRDXBJ2HHJ7CN64PBA.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/elections/"
+    }
+  },
+  {
+    "id": "UTH5WCEDW5BVJG5LGUHJ4GN6DI",
+    "headline": "Pennsylvania presidential and senatorial exit polls",
+    "description": "Exit poll results for the 2024 presidential elections",
+    "url": "https://www.washingtonpost.com/elections/interactive/2024/pennsylvania-exit-polls/",
+    "credits": [
+      {
+        "name": "Emily Guskin",
+        "slug": "emily-guskin"
+      },
+      {
+        "name": "Chris Alcantara",
+        "slug": "chris-alcantara"
+      },
+      {
+        "name": "Janice Kai Chen",
+        "slug": "janice-kai-chen"
+      }
+    ],
+    "date": "2024-11-06T01:35:01.830Z",
+    "img": "https://www.washingtonpost.com/resizer/gkJZQoc6utqmo_xFwfdKC_auge0=/300x0/arc-anglerfish-washpost-prod-washpost/public/LZDMXFVHFZBIZBSOULEJNF4TVI.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/elections/"
+    }
+  },
+  {
     "id": "I47W7SPSBRA2LD7RXV477AUHSM",
     "headline": "Ohio presidential and senatorial exit polls",
     "description": "Exit poll results for the 2024 presidential elections",
