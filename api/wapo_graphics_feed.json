@@ -1,5 +1,130 @@
 [
   {
+    "id": "I47W7SPSBRA2LD7RXV477AUHSM",
+    "headline": "Ohio presidential and senatorial exit polls",
+    "description": "Exit poll results for the 2024 presidential elections",
+    "url": "https://www.washingtonpost.com/elections/interactive/2024/ohio-exit-polls/",
+    "credits": [
+      {
+        "name": "Emily Guskin",
+        "slug": "emily-guskin"
+      },
+      {
+        "name": "Chris Alcantara",
+        "slug": "chris-alcantara"
+      },
+      {
+        "name": "Janice Kai Chen",
+        "slug": "janice-kai-chen"
+      }
+    ],
+    "date": "2024-11-06T01:02:00.607Z",
+    "img": "https://www.washingtonpost.com/resizer/h3GNwpDoXG3-SWzk6eTJvEi45hc=/300x0/arc-anglerfish-washpost-prod-washpost/public/N4GVKYW2WBHSTD7ERMCWIFYWGU.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/elections/"
+    }
+  },
+  {
+    "id": "DOSPARBZC5HWPHPQK2N54JZYCY",
+    "headline": "Florida presidential, senatorial and referendum exit polls",
+    "description": "Exit poll results for the 2024 presidential elections",
+    "url": "https://www.washingtonpost.com/elections/interactive/2024/florida-exit-polls/",
+    "credits": [
+      {
+        "name": "Emily Guskin",
+        "slug": "emily-guskin"
+      },
+      {
+        "name": "Chris Alcantara",
+        "slug": "chris-alcantara"
+      },
+      {
+        "name": "Janice Kai Chen",
+        "slug": "janice-kai-chen"
+      }
+    ],
+    "date": "2024-11-06T00:58:49.461Z",
+    "img": "https://www.washingtonpost.com/resizer/ybnBQsWOV_xomURFX03Bts4_esc=/300x0/arc-anglerfish-washpost-prod-washpost/public/VLFO324RNJARBJQF7HUP67BRPY.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/elections/"
+    }
+  },
+  {
+    "id": "2XGPRDAOKBFXPG2W3QD27LRSR4",
+    "headline": "North Carolina presidential exit polls",
+    "description": "Exit poll results for the 2024 presidential elections",
+    "url": "https://www.washingtonpost.com/elections/interactive/2024/north-carolina-exit-polls/",
+    "credits": [
+      {
+        "name": "Emily Guskin",
+        "slug": "emily-guskin"
+      },
+      {
+        "name": "Chris Alcantara",
+        "slug": "chris-alcantara"
+      },
+      {
+        "name": "Janice Kai Chen",
+        "slug": "janice-kai-chen"
+      }
+    ],
+    "date": "2024-11-06T00:43:39.829Z",
+    "img": "https://www.washingtonpost.com/resizer/M3jzuA8M5M6WPqjp8CpMj_PSiH0=/300x0/arc-anglerfish-washpost-prod-washpost/public/HI6AQO6WONB4XK4ILU5J6MEHSM.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/elections/"
+    }
+  },
+  {
+    "id": "6OU5EFPMJNDF5HABUCRII46FYU",
+    "headline": "Hurricane Rafael tracker: Map and projected storm path",
+    "description": "Rafael is the 17th named storm of the Atlantic hurricane season.",
+    "url": "https://www.washingtonpost.com/weather/2024/11/05/hurricane-rafael-tracker-map/",
+    "credits": [
+      {
+        "name": "Dylan Moriarty",
+        "slug": "dylan-moriarty"
+      },
+      {
+        "name": "Szu Yu  Chen",
+        "slug": "szuyu-chen"
+      },
+      {
+        "name": "Nick Kirkpatrick",
+        "slug": "nick-kirkpatrick"
+      }
+    ],
+    "date": "2024-11-06T00:39:47.172Z",
+    "img": "https://www.washingtonpost.com/resizer/76QQiinGJu34PlZpvCNHlej-Gqg=/300x0/arc-anglerfish-washpost-prod-washpost/public/LEMW2ER3INDYNGOGGCE5E6YGXI.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/local/weather/"
+    }
+  },
+  {
+    "id": "44BEPJB6DBHKTGUMCJYRO6AKZE",
+    "headline": "Georgia presidential exit polls",
+    "description": "Exit poll results for the 2024 presidential elections",
+    "url": "https://www.washingtonpost.com/elections/interactive/2024/georgia-exit-polls/",
+    "credits": [
+      {
+        "name": "Emily Guskin",
+        "slug": "emily-guskin"
+      },
+      {
+        "name": "Chris Alcantara",
+        "slug": "chris-alcantara"
+      },
+      {
+        "name": "Janice Kai Chen",
+        "slug": "janice-kai-chen"
+      }
+    ],
+    "date": "2024-11-06T00:09:36.284Z",
+    "img": "https://www.washingtonpost.com/resizer/LeOalI9Jd54CEVImwHkrP2vZRPQ=/300x0/arc-anglerfish-washpost-prod-washpost/public/DSODMU5LWFEEFMXBF3ELFKJTVQ.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/elections/"
+    }
+  },
+  {
     "id": "L3HJPCUONFCAJNOSIABZOFHJAQ",
     "headline": "States where votes are still being counted in the 2024 election",
     "description": "Our map shows how quickly different parts of the country tabulated elections results in 2024 U.S. Presidential race.",
