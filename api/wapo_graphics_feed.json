@@ -1,5 +1,38 @@
 [
   {
+    "id": "CGDUTT5SG5FCVFB4MGEONOJZXA",
+    "headline": "How Trump built his victory, vote by vote",
+    "description": "Using sand to represent individual votes, The Post explains where key votes gave Trump a second term in the White House.",
+    "url": "https://www.washingtonpost.com/elections/interactive/2024/2024-election-vote-map/",
+    "credits": [
+      {
+        "name": "Tim Meko",
+        "slug": "tim-meko"
+      },
+      {
+        "name": "Aaron Steckelberg",
+        "slug": "aaron-steckelberg"
+      },
+      {
+        "name": "Leslie Shapiro",
+        "slug": "leslie-shapiro"
+      },
+      {
+        "name": "Adrián Blanco Ramos",
+        "slug": "adrian-blanco"
+      },
+      {
+        "name": "Sarah Frostenson",
+        "slug": "sarah-frostenson"
+      }
+    ],
+    "date": "2024-11-08T19:40:30.588Z",
+    "img": "https://www.washingtonpost.com/resizer/3mT0CYXU7kMi8BWOeYV3Wogtu5c=/300x0/arc-anglerfish-washpost-prod-washpost/public/XLUSUBLFWVAS7JPFKKZJE4HBYE.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/elections/"
+    }
+  },
+  {
     "id": "OO6P6622NRG6NG5P4WARFZZTPM",
     "headline": "In two straight elections, Hispanic counties in Texas swing hard right",
     "description": "14 of the 15 counties that have shifted the farthest over the past two presidential elections are majority Hispanic or Latino.",
