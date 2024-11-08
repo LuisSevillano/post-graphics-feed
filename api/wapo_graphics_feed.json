@@ -1,5 +1,55 @@
 [
   {
+    "id": "OO6P6622NRG6NG5P4WARFZZTPM",
+    "headline": "In two straight elections, Hispanic counties in Texas swing hard right",
+    "description": "14 of the 15 counties that have shifted the farthest over the past two presidential elections are majority Hispanic or Latino.",
+    "url": "https://www.washingtonpost.com/politics/2024/11/08/hispanic-latino-trump-shift/",
+    "credits": [
+      {
+        "name": "Alyssa Fowers",
+        "slug": "alyssa-fowers"
+      },
+      {
+        "name": "Bonnie Berkowitz",
+        "slug": "bonnie-berkowitz"
+      }
+    ],
+    "date": "2024-11-08T16:43:50.212Z",
+    "img": "https://www.washingtonpost.com/resizer/NA4TGFKI72omhMvJ4Z7xQEChk-M=/300x0/arc-anglerfish-washpost-prod-washpost/public/YM6PD4G3PVF4HNJA6MQR7XDGPY.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/elections/"
+    }
+  },
+  {
+    "id": "4YKCR7TMSVD4VCMQZ35UMBL3Q4",
+    "headline": "What the 2024 election tells us about Trump’s voters",
+    "description": "Voters that backed Trump on Tuesday are more diverse, younger and more working class than the ones who voted for him previously.",
+    "url": "https://www.washingtonpost.com/politics/2024/11/08/trump-voter-demographic-shifts-election/",
+    "credits": [
+      {
+        "name": "Scott Clement",
+        "slug": "scott-clement"
+      },
+      {
+        "name": "Emily Guskin",
+        "slug": "emily-guskin"
+      },
+      {
+        "name": "Dan Keating",
+        "slug": "dan-keating"
+      },
+      {
+        "name": "Júlia Ledur",
+        "slug": "julia-ledur"
+      }
+    ],
+    "date": "2024-11-08T16:06:17.937Z",
+    "img": "https://www.washingtonpost.com/resizer/X0TES_Q6_AwxY6EAxvivAazvalE=/300x0/arc-anglerfish-washpost-prod-washpost/public/ZI32PC45NJBMNOTOYKEZBD3HTY.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/elections/"
+    }
+  },
+  {
     "id": "NXXTCTG3DVATTD2XMO5GNYN5SY",
     "headline": "Trump is the oldest person to be elected president: U.S. presidents, by age",
     "description": "Age was an important issue the 2024 presidential election. Trump is now 78, and would be 82 by the end of his second nonconsecutive term.",
