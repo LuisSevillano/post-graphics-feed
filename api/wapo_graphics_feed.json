@@ -1,5 +1,26 @@
 [
   {
+    "id": "BIQQYM7EK5A6FFZWZQOQVGMOX4",
+    "headline": "The U.S. is getting less snowy. See this winter’s forecast in your area.",
+    "description": "Most of the U.S. is expected to see less snow this year, continuing a long-term trend of snowfall decline as global temperatures rise. Look up your county.",
+    "url": "https://www.washingtonpost.com/climate-environment/interactive/2024/snow-forecast-trends-climate-change/",
+    "credits": [
+      {
+        "name": "Harry Stevens",
+        "slug": "harry-stevens"
+      },
+      {
+        "name": "Ben Noll",
+        "slug": "ben-noll"
+      }
+    ],
+    "date": "2024-11-13T11:00:32.117Z",
+    "img": "https://www.washingtonpost.com/resizer/AA2Qwb4Vwk8vS3E_WCKPqNvXgJg=/300x0/arc-anglerfish-washpost-prod-washpost/public/DPVLCREZBJH5ZM662IJNIKSMYU.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/climate-environment/climate-lab/"
+    }
+  },
+  {
     "id": "IPZG3G24DFAKPJURL44UY6MDMA",
     "headline": "Fewer states than ever will have split-party Senate delegations",
     "description": "Around two dozen states regularly elected both a Republican and a Democrat to the U.S. Senate in the 1970s and 1980s. Only Maine, Pennsylvania and Wisconsin remain.",
