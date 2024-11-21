@@ -1,5 +1,30 @@
 [
   {
+    "id": "E42M3BPZKBFIXORPGYXV5X6TTI",
+    "headline": "Meet the Republican and Democratic senators of the 119th Congress",
+    "description": "The 119th Congress sees Republicans regaining control of the Senate with a 53-47 majority.",
+    "url": "https://www.washingtonpost.com/politics/interactive/2024/republicans-senate-control-119th-congress/",
+    "credits": [
+      {
+        "name": "Hannah Dormido",
+        "slug": "hannah-dormido"
+      },
+      {
+        "name": "Adrián Blanco Ramos",
+        "slug": "adrian-blanco"
+      },
+      {
+        "name": "Nick Mourtoupalas",
+        "slug": "nick-mourtoupalas"
+      }
+    ],
+    "date": "2024-11-21T18:00:57.144Z",
+    "img": "https://www.washingtonpost.com/resizer/qac4sKwY7qhEyP0BLQyZZhAidiM=/300x0/arc-anglerfish-washpost-prod-washpost/public/A5MG2QJN7M6Q7WDHAFMKCNW4YA.JPG",
+    "label": {
+      "url": "https://www.washingtonpost.com/politics/"
+    }
+  },
+  {
     "id": "MGRBI3GINFHSPHXWN4ENK2OFT4",
     "headline": "Not every city is prepared for climate change. Look up yours. ",
     "description": "Communities across the United States face extreme weather, but some are prepared to thrive.  Find out how your city ranks.",
