@@ -1,5 +1,34 @@
 [
   {
+    "id": "6NOVSJNGZRGE3EVYOQNJUVBKMI",
+    "headline": "Meet Lucy, the celebrity of fossils, who changed our view of evolution",
+    "description": "A collection of 3-million-year-old bones unearthed 50 years ago in Ethiopia changed our understanding of human origins.",
+    "url": "https://www.washingtonpost.com/science/interactive/2024/evolution-fossil-lucy-human-ancestor/",
+    "credits": [
+      {
+        "name": "Carolyn Y. Johnson",
+        "slug": "carolyn-johnson"
+      },
+      {
+        "name": "Manuel Canales",
+        "slug": "manuel-canales"
+      },
+      {
+        "name": "William Neff",
+        "slug": "william-neff"
+      },
+      {
+        "name": "Carson TerBush",
+        "slug": "carson-terbush"
+      }
+    ],
+    "date": "2024-11-22T11:00:00.127Z",
+    "img": "https://www.washingtonpost.com/resizer/jz5uiM79_LSYvg2vS0tJwTWz6OA=/300x0/arc-anglerfish-washpost-prod-washpost/public/WZPHCD6A5ZDITDOORTVBU6BOXE.png",
+    "label": {
+      "url": "https://www.washingtonpost.com/science/"
+    }
+  },
+  {
     "id": "E42M3BPZKBFIXORPGYXV5X6TTI",
     "headline": "Meet the Republican and Democratic senators of the 119th Congress",
     "description": "The 119th Congress sees Republicans regaining control of the Senate with a 53-47 majority.",
