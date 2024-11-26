@@ -1,5 +1,30 @@
 [
   {
+    "id": "3QEB2HSL4VFZRFUGOOMOAOO3RM",
+    "headline": "Monitoring the status of hostages still in Gaza after Hamas’s attack",
+    "description": "A total of 251 people were taken in the attack on Israel on Oct. 7, 2023. We’re tracking what happened to each of them.",
+    "url": "https://www.washingtonpost.com/world/interactive/hamas-hostages-israel-war-gaza/",
+    "credits": [
+      {
+        "name": "Victoria Bisset",
+        "slug": "victoria-bisset"
+      },
+      {
+        "name": "Júlia Ledur",
+        "slug": "julia-ledur"
+      },
+      {
+        "name": "Leslie Shapiro",
+        "slug": "leslie-shapiro"
+      }
+    ],
+    "date": "2024-11-26T13:00:52.028Z",
+    "img": "https://www.washingtonpost.com/resizer/Vfkwx-I9kMdGuzKEyJoUGPdKjpc=/300x0/arc-anglerfish-washpost-prod-washpost/public/MYGPKQ3O3RFEVJBIDWH6H3CCDI.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/world/middle-east/"
+    }
+  },
+  {
     "id": "5QQL7TJ7XJBVVJ7AFJL7KI65DY",
     "headline": "Inside an elaborate fantasy world just miles from L.A. ",
     "description": "The live-action role-playing (LARP) game Twin Mask stands out for its size and detail, with hundreds of players converging in character outside Los Angeles.",
