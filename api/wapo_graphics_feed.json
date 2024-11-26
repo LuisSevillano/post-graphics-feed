@@ -1,5 +1,25 @@
 [
   {
+    "id": "5QQL7TJ7XJBVVJ7AFJL7KI65DY",
+    "headline": "Inside an elaborate fantasy world just miles from L.A. ",
+    "description": "The live-action role-playing (LARP) game Twin Mask stands out for its size and detail, with hundreds of players converging in character outside Los Angeles.",
+    "url": "https://www.washingtonpost.com/style/2024/11/26/twin-mask-larp-fantasy/",
+    "credits": [
+      {
+        "name": "Maggie Shannon"
+      },
+      {
+        "name": "Nick Kirkpatrick",
+        "slug": "nick-kirkpatrick"
+      }
+    ],
+    "date": "2024-11-26T11:00:21.195Z",
+    "img": "https://www.washingtonpost.com/resizer/blq7cKt4pWvm67BDhWjSvbxAIOE=/300x0/arc-anglerfish-washpost-prod-washpost/public/HMF4MJHKVD5YRPLKB53UNPO43Q.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/style/"
+    }
+  },
+  {
     "id": "6NOVSJNGZRGE3EVYOQNJUVBKMI",
     "headline": "Meet Lucy, the celebrity of fossils, who changed our view of evolution",
     "description": "A collection of 3-million-year-old bones unearthed 50 years ago in Ethiopia changed our understanding of human origins.",
