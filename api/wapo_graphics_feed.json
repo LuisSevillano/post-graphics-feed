@@ -1,5 +1,30 @@
 [
   {
+    "id": "MK4MAKWMLFEIDMIZRDT46XPCQM",
+    "headline": "Potential conflicts of interest may haunt Dr. Oz’s confirmation to run Medicare, Medicaid",
+    "description": "Dr. Oz has extolled Ozempic’s promise for weight-loss. Now Medicare, which Trump wants Oz to oversee, may cover it.",
+    "url": "https://www.washingtonpost.com/health/2024/12/02/dr-oz-medicare-medicaid-ozempic-conflicts/",
+    "credits": [
+      {
+        "name": "Desmond Butler",
+        "slug": "desmond-butler"
+      },
+      {
+        "name": "Lauren Weber",
+        "slug": "lauren-weber"
+      },
+      {
+        "name": "Caitlin Gilbert",
+        "slug": "caitlin-gilbert"
+      }
+    ],
+    "date": "2024-12-02T11:00:00.116Z",
+    "img": "https://www.washingtonpost.com/resizer/Sdejqmwjs1F0aX80GXZR2FZOX08=/300x0/arc-anglerfish-washpost-prod-washpost/public/YKYKQLACBIUGY6L6JRRCMPFMAU.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/health/"
+    }
+  },
+  {
     "id": "3QEB2HSL4VFZRFUGOOMOAOO3RM",
     "headline": "Monitoring the status of hostages still in Gaza after Hamas’s attack",
     "description": "A total of 251 people were taken in the attack on Israel on Oct. 7, 2023. We’re tracking what happened to each of them.",
