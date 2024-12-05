@@ -1,5 +1,30 @@
 [
   {
+    "id": "BBGH6IXBHJBMNCUJAV6TQR4AHE",
+    "headline": "Online sleuths are racing to catch the UnitedHealthcare CEO’s killer",
+    "description": "The shooting of UnitedHealthcare CEO in New York City, home to a vast network of surveillance cameras, has fueled a crowdsourced manhunt — even as some seek to lionize the killer.",
+    "url": "https://www.washingtonpost.com/technology/2024/12/05/social-media-united-heathcare-ceo-shooter/",
+    "credits": [
+      {
+        "name": "Drew Harwell",
+        "slug": "drew-harwell"
+      },
+      {
+        "name": "Caitlin Gilbert",
+        "slug": "caitlin-gilbert"
+      },
+      {
+        "name": "Douglas MacMillan",
+        "slug": "douglas-macmillan"
+      }
+    ],
+    "date": "2024-12-05T20:45:08.383Z",
+    "img": "https://www.washingtonpost.com/resizer/ZG2TKs__kdyNLzi7_X212c-6t70=/300x0/arc-anglerfish-washpost-prod-washpost/public/5UWG67TGAVUAOTNV6LK5GQ7VAA.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/business/technology/"
+    }
+  },
+  {
     "id": "IFM7KISF6JASZFABWXFTCCUALE",
     "headline": "See which products Trump’s tariffs could make more expensive",
     "description": "Tomatoes, T-shirts and cars are among the vast array of goods that could become pricier if tariffs pledged by President-elect Donald Trump go into effect.",
