@@ -1,5 +1,26 @@
 [
   {
+    "id": "IFM7KISF6JASZFABWXFTCCUALE",
+    "headline": "See which products Trump’s tariffs could make more expensive",
+    "description": "Tomatoes, T-shirts and cars are among the vast array of goods that could become pricier if tariffs pledged by President-elect Donald Trump go into effect.",
+    "url": "https://www.washingtonpost.com/business/2024/12/05/trump-china-mexico-canada-tariffs-prices/",
+    "credits": [
+      {
+        "name": "Luis Melgar",
+        "slug": "luis-melgar"
+      },
+      {
+        "name": "Rachel Lerman",
+        "slug": "rachel-lerman"
+      }
+    ],
+    "date": "2024-12-05T11:05:16.039Z",
+    "img": "https://www.washingtonpost.com/resizer/2CYRinHtZXBdth6nGJfnWCMtKuY=/300x0/arc-anglerfish-washpost-prod-washpost/public/P5MP2B6SVRC6ROWCKC4OU4GYJQ.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/economy/"
+    }
+  },
+  {
     "id": "R646GLGTKFD2PNMUAOTVXNSKDU",
     "headline": "Watchdog group asks FTC to investigate Dr. Oz’s influencer marketing",
     "description": "Consumer watchdog group Public Citizen accuses Oz of failing to properly disclose his financial ties to an herbal supplement company he markets on social media.",
