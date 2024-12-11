@@ -1,5 +1,30 @@
 [
   {
+    "id": "FKXDIQR3RJFJRLJAT7YRZTFQ34",
+    "headline": "How the House voted on the National Defense Authorization Act ",
+    "description": "The House voted to approve the $895.2 billion defense spending bill. See how your lawmaker voted.",
+    "url": "https://www.washingtonpost.com/politics/interactive/2024/12/11/ndaa-house-vote-funding-bill/",
+    "credits": [
+      {
+        "name": "Hannah Dormido",
+        "slug": "hannah-dormido"
+      },
+      {
+        "name": "Nick Mourtoupalas",
+        "slug": "nick-mourtoupalas"
+      },
+      {
+        "name": "Kati Perry",
+        "slug": "kati-perry"
+      }
+    ],
+    "date": "2024-12-11T23:00:58.924Z",
+    "img": "https://www.washingtonpost.com/resizer/ITkg0EutUbVXNvpHuaytOkJyuKg=/300x0/arc-anglerfish-washpost-prod-washpost/public/YRB4O32BENEOHBOKBPRX2E2BN4.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/politics/"
+    }
+  },
+  {
     "id": "CA4FRJULQZA4DNUVIYMMH6F2AQ",
     "headline": "No daylight saving time? See how early or late you would be in the dark. ",
     "description": "Would you be okay if the sun rose before 4 a.m., or after 10? Not changing clocks is a popular idea, but we’d have to live with the extremes.",
