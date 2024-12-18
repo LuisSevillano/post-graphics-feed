@@ -1,5 +1,38 @@
 [
   {
+    "id": "CROLZRREQ5EDFAU7DICHGZPYTU",
+    "headline": "Revenge attacks in post-Assad Syria fuel fear and mistrust ",
+    "description": "Across Syria, the country’s rebel leaders are struggling to contain revenge attacks, as vigilantes seize on the chaos of the moment to settle personal scores.",
+    "url": "https://www.washingtonpost.com/world/2024/12/18/syria-revenge-killings-hts-damascus-assad/",
+    "credits": [
+      {
+        "name": "Loveday Morris",
+        "slug": "loveday-morris"
+      },
+      {
+        "name": "Suzan Haidamous",
+        "slug": "suzan-haidamous"
+      },
+      {
+        "name": "Louisa Loveluck",
+        "slug": "louisa-loveluck"
+      },
+      {
+        "name": "Nilo Tabrizy",
+        "slug": "nilo-tabrizy"
+      },
+      {
+        "name": "Imogen Piper",
+        "slug": "imogen-piper"
+      }
+    ],
+    "date": "2024-12-18T23:00:36.362Z",
+    "img": "https://www.washingtonpost.com/resizer/F8A1wT4TkDJp4I1hIoiHuPRIUo4=/300x0/arc-anglerfish-washpost-prod-washpost/public/YQM3KJ2CL774FYO2TFGL5NYX7E.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/israel-hamas-war/"
+    }
+  },
+  {
     "id": "T7ZO5UJMUZAU7CETMFWEQEL2YM",
     "headline": "How antisemitism, Israeli nationalism and anger over Gaza clashed in Amsterdam",
     "description": "To reconstruct the events, The Post reviewed more than 100 videos, interviewed more than 30 witnesses and examined WhatsApp and Telegram messages.",
