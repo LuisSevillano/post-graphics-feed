@@ -1,5 +1,22 @@
 [
   {
+    "id": "EYQOKO7DGNA45L6KMPVRKKZQWQ",
+    "headline": "Discover how much snow your hometown gets during holiday seasons!",
+    "description": "Look up how snowy your hometown has been for winter holidays going back to 1940",
+    "url": "https://www.washingtonpost.com/weather/interactive/2024/holiday-snow-chances-us-cities/",
+    "credits": [
+      {
+        "name": "Dylan Moriarty",
+        "slug": "dylan-moriarty"
+      }
+    ],
+    "date": "2024-12-19T18:30:57.637Z",
+    "img": "https://www.washingtonpost.com/resizer/701TAGBcUZmdOUZDrLm1HExleQo=/300x0/arc-anglerfish-washpost-prod-washpost/public/IZXVD7HX4FAQRLDXCDK2D3RE2M.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/weather/"
+    }
+  },
+  {
     "id": "CROLZRREQ5EDFAU7DICHGZPYTU",
     "headline": "Revenge attacks in post-Assad Syria fuel fear and mistrust ",
     "description": "Across Syria, the country’s rebel leaders are struggling to contain revenge attacks, as vigilantes seize on the chaos of the moment to settle personal scores.",
