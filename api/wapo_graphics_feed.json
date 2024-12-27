@@ -1,5 +1,30 @@
 [
   {
+    "id": "GTY4Y5UBWZCDHHK2N2VJHEOCT4",
+    "headline": "These people used Narcan to save lives. Here’s how they did it.",
+    "description": "Learn how to respond to an overdose with Narcan and save a life.",
+    "url": "https://www.washingtonpost.com/wellness/interactive/2024/narcan-naloxone-overdose-opioid/",
+    "credits": [
+      {
+        "name": "Elana Gordon",
+        "slug": "elana-gordon"
+      },
+      {
+        "name": "Aaron Steckelberg",
+        "slug": "aaron-steckelberg"
+      },
+      {
+        "name": "Leslie Shapiro",
+        "slug": "leslie-shapiro"
+      }
+    ],
+    "date": "2024-12-27T10:00:00.135Z",
+    "img": "https://www.washingtonpost.com/resizer/XCCNO6eaPOVqKL0WR0zmiZ6Zf7I=/300x0/arc-anglerfish-washpost-prod-washpost/public/3JPHD5WWWNHT3IDDO356BB5OQI.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/wellbeing/"
+    }
+  },
+  {
     "id": "O7EVOUFOM5DQLE7FDBB3R7HWVA",
     "headline": "Israel is demolishing northern Gaza and fortifying military positions, imagery shows",
     "description": "Visual analysis and interviews show how Palestinians have been forced from their homes in the north as the Israeli military cuts a new corridor through Gaza.\n",
