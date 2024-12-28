@@ -1,5 +1,33 @@
 [
   {
+    "id": "AROZ6QLUP5DERFJA5DR3PCAKGM",
+    "headline": "A South American waterway becomes a cocaine superhighway — to Europe",
+    "description": "The Paraguay-Paraná waterway was designed as a major artery for commercial goods It’s now a primary route for  trafficking record amounts of cocaine to Europe.",
+    "url": "https://www.washingtonpost.com/world/interactive/2024/south-america-cocaine-route-europe/",
+    "credits": [
+      {
+        "name": "Samantha Schmidt",
+        "slug": "samantha-schmidt"
+      },
+      {
+        "name": "Jon Gerberg",
+        "slug": "jon-gerberg"
+      },
+      {
+        "name": "Júlia Ledur",
+        "slug": "julia-ledur"
+      },
+      {
+        "name": "Sebastián López Brach"
+      }
+    ],
+    "date": "2024-12-28T10:00:16.844Z",
+    "img": "https://www.washingtonpost.com/resizer/6cKRmSUe5-b5pc7sW6gkN8fGAlM=/300x0/arc-anglerfish-washpost-prod-washpost/public/562WNKM7IQAT74HV5K237KSGQA.JPG",
+    "label": {
+      "url": "https://www.washingtonpost.com/world/americas/"
+    }
+  },
+  {
     "id": "GTY4Y5UBWZCDHHK2N2VJHEOCT4",
     "headline": "These people used Narcan to save lives. Here’s how they did it.",
     "description": "Learn how to respond to an overdose with Narcan and save a life.",
