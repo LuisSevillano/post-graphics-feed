@@ -1,5 +1,30 @@
 [
   {
+    "id": "DBEFE4ON4FA2RN4TRMFEC46J4U",
+    "headline": "Tracking how each House member is voting for Mike Johnson as speaker",
+    "description": "House Speaker Mike Johnson needs to secure the votes of nearly every Republican to remain in the job he has held since Kevin McCarthy was ousted in 2023.",
+    "url": "https://www.washingtonpost.com/politics/interactive/2025/house-speaker-vote-count/",
+    "credits": [
+      {
+        "name": "Kati Perry",
+        "slug": "kati-perry"
+      },
+      {
+        "name": "Nick Mourtoupalas",
+        "slug": "nick-mourtoupalas"
+      },
+      {
+        "name": "Hannah Dormido",
+        "slug": "hannah-dormido"
+      }
+    ],
+    "date": "2025-01-03T17:00:57.035Z",
+    "img": "https://www.washingtonpost.com/resizer/Ip4azFSPN8397ZAIpVqjoDEYclo=/300x0/arc-anglerfish-washpost-prod-washpost/public/DCOK3IYKV4URTSCXNHMXPRCCTQ.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/politics/"
+    }
+  },
+  {
     "id": "MLUNA4F6ZFB3RD7PRQJXDR6I5I",
     "headline": "Jimmy Carter’s journey home: Mapping the funeral plans for the coming days",
     "description": "Locations where official events will take place before President Carter is laid to rest in his hometown.",
