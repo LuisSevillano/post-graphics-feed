@@ -1,5 +1,42 @@
 [
   {
+    "id": "3MMLLI24QFEGBFTULWD6DBUGUI",
+    "headline": "The fate of nearly 1,600 Jan. 6 defendants depends on Donald Trump",
+    "description": "President-elect Donald Trump has pledged to pardon many defendants accused or convicted of crimes related to the Jan. 6, 2021, attack on the U.S. Capitol.",
+    "url": "https://www.washingtonpost.com/national-security/interactive/2025/jan-6-trump-pardons/",
+    "credits": [
+      {
+        "name": "Robert Klemko",
+        "slug": "robert-klemko"
+      },
+      {
+        "name": "Spencer Hsu",
+        "slug": "spencer-s-hsu"
+      },
+      {
+        "name": "Tom Jackman",
+        "slug": "tom-jackman"
+      },
+      {
+        "name": "Sarah Cahlan",
+        "slug": "sarah-cahlan"
+      },
+      {
+        "name": "Clara Ence Morse",
+        "slug": "clara-ence-morse"
+      },
+      {
+        "name": "Hannah Dormido",
+        "slug": "hannah-dormido"
+      }
+    ],
+    "date": "2025-01-06T11:00:31.239Z",
+    "img": "https://www.washingtonpost.com/resizer/rLdl5-8dFZD5SnA70rJjZPW1WyQ=/300x0/arc-anglerfish-washpost-prod-washpost/public/7VCYAY7LONGJFRDD6QPC3TMDUI.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/justice/"
+    }
+  },
+  {
     "id": "W5RNVETQJ5DFBMBXNRFPUFUJ5I",
     "headline": "The complete list of Golden Globes winners in 2025",
     "description": "The movies and TV shows that took home Golden Globes at the 2025 ceremony.",
