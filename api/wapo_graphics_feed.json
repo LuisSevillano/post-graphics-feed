@@ -1,5 +1,30 @@
 [
   {
+    "id": "SHI64PJL3ZHG7HXMYR3EHDFGQ4",
+    "headline": "How every House member voted on the Laken Riley Act",
+    "description": "The House passed the immigration-related Laken Riley Act. See how your lawmaker voted.",
+    "url": "https://www.washingtonpost.com/politics/interactive/2025/01/07/laken-riley-vote-immigration-house/",
+    "credits": [
+      {
+        "name": "Nick Mourtoupalas",
+        "slug": "nick-mourtoupalas"
+      },
+      {
+        "name": "Hannah Dormido",
+        "slug": "hannah-dormido"
+      },
+      {
+        "name": "Kati Perry",
+        "slug": "kati-perry"
+      }
+    ],
+    "date": "2025-01-07T19:31:15.929Z",
+    "img": "https://www.washingtonpost.com/resizer/EVRr65LF_fGaZ128yryOvA5-ueQ=/300x0/arc-anglerfish-washpost-prod-washpost/public/UQWFQ6CGUJBSRB5XXPJS6QXDBU.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/politics/"
+    }
+  },
+  {
     "id": "3MMLLI24QFEGBFTULWD6DBUGUI",
     "headline": "The fate of nearly 1,600 Jan. 6 defendants depends on Donald Trump",
     "description": "President-elect Donald Trump has pledged to pardon many defendants accused or convicted of crimes related to the Jan. 6, 2021, attack on the U.S. Capitol.",
