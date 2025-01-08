@@ -1,5 +1,34 @@
 [
   {
+    "id": "UHJ3FNUDFVCYLHSMSAT2DFWWA4",
+    "headline": "Landlords have been accused of price fixing. See where it could be happening.",
+    "description": "Millions of rents across the country may now be set using one company’s algorithmic software, according to a federal lawsuit and a Washington Post analysis.",
+    "url": "https://www.washingtonpost.com/business/interactive/2025/realpage-lawsuit-rent-map/",
+    "credits": [
+      {
+        "name": "Alyssa Fowers",
+        "slug": "alyssa-fowers"
+      },
+      {
+        "name": "Szu Yu  Chen",
+        "slug": "szuyu-chen"
+      },
+      {
+        "name": "Steven Rich",
+        "slug": "steven-rich"
+      },
+      {
+        "name": "Rachel Lerman",
+        "slug": "rachel-lerman"
+      }
+    ],
+    "date": "2025-01-08T10:00:37.629Z",
+    "img": "https://www.washingtonpost.com/resizer/nyYsx5C5edFXJP2tajX5UI8tJFM=/300x0/arc-anglerfish-washpost-prod-washpost/public/QDV7AD4HTVFSFNACV6FS5CWBNM.png",
+    "label": {
+      "url": ""
+    }
+  },
+  {
     "id": "SHI64PJL3ZHG7HXMYR3EHDFGQ4",
     "headline": "How every House member voted on the Laken Riley Act",
     "description": "The House passed the immigration-related Laken Riley Act. See how your lawmaker voted.",
