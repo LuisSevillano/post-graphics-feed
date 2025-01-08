@@ -1,5 +1,26 @@
 [
   {
+    "id": "NZHNVWD2EBGBNGM3I2CJHAUUZ4",
+    "headline": "See the Pacific Palisades Fire map tracking the California wildfire as it grows",
+    "description": "We’re tracking the fires in Los Angeles, California. See maps of recently burned areas and key locations in the vicinity of the fire.",
+    "url": "https://www.washingtonpost.com/weather/2025/01/08/pacific-palisades-fire-map-california-los-angeles/",
+    "credits": [
+      {
+        "name": "Amaya Verde",
+        "slug": "amaya-verde"
+      },
+      {
+        "name": "Adrián Blanco Ramos",
+        "slug": "adrian-blanco"
+      }
+    ],
+    "date": "2025-01-08T13:22:00.570Z",
+    "img": "https://www.washingtonpost.com/resizer/qBgUaFQbQEBiZFcZS124fRh4t-g=/300x0/arc-anglerfish-washpost-prod-washpost/public/5MJP35N7YXL2O7N4S5MVVOTDEI.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/weather/"
+    }
+  },
+  {
     "id": "TU3F2DLD7REJZLJN6SD2J6NWVU",
     "headline": "Tracking who Trump is appointing to fill key administration roles",
     "description": "Follow President Trump’s progress filling over 800 positions, among about 1,300 that require Senate confirmation, in this tracker from The Washington Post and the Partnership for Public Service.",
@@ -452,6 +473,26 @@
     "img": "https://www.washingtonpost.com/resizer/sbJkcOeWpiVCpFgOWTHk2vvHUH4=/300x0/arc-anglerfish-washpost-prod-washpost/public/Q3VXQXWDG7TROHA6UATXHWGWFE.jpeg",
     "label": {
       "url": "https://www.washingtonpost.com/visual-forensics/"
+    }
+  },
+  {
+    "id": "ITS26DWVZFEKNPLTXPBNTNXCSU",
+    "headline": "31,000 children affected across 21 states: 2024 school shootings in numbers",
+    "description": "Monday’s deadly shooting in Madison, Wisconsin, brought the number of people killed in U.S. school shootings this year to 13. ",
+    "url": "https://www.washingtonpost.com/nation/2024/12/17/madison-wisconsin-school-shooting-statistics-2024/",
+    "credits": [
+      {
+        "name": "Victoria Bisset",
+        "slug": "victoria-bisset"
+      },
+      {
+        "name": "Steven Rich",
+        "slug": "steven-rich"
+      }
+    ],
+    "date": "2024-12-17T15:34:44.101Z",
+    "label": {
+      "url": "https://www.washingtonpost.com/national/"
     }
   },
   {
@@ -914,6 +955,27 @@
     "img": "https://www.washingtonpost.com/resizer/qac4sKwY7qhEyP0BLQyZZhAidiM=/300x0/arc-anglerfish-washpost-prod-washpost/public/A5MG2QJN7M6Q7WDHAFMKCNW4YA.JPG",
     "label": {
       "url": "https://www.washingtonpost.com/politics/"
+    }
+  },
+  {
+    "id": "RAVCZS2ISVACDG7AM7TYFU5JVM",
+    "headline": "Philadelphia welcomed them. But not everyone is ready for ‘Africatown.’",
+    "description": "African migration to the U.S. has soared and many are putting down roots in Pennsylvania. The new arrivals are undeterred by Trump’s win.",
+    "url": "https://www.washingtonpost.com/nation/2024/11/20/immigration-africa-trump-philadelphia/",
+    "credits": [
+      {
+        "name": "Tim Craig",
+        "slug": "tim-craig"
+      },
+      {
+        "name": "Steven Rich",
+        "slug": "steven-rich"
+      }
+    ],
+    "date": "2024-11-20T11:00:02.997Z",
+    "img": "https://www.washingtonpost.com/resizer/duf8xcGjg-39CDzzWoqm01GpUUE=/300x0/arc-anglerfish-washpost-prod-washpost/public/O7QT4BKLFOWVLAGQIFPYNJB764.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/national/"
     }
   },
   {
@@ -3682,6 +3744,73 @@
     }
   },
   {
+    "id": "4VU2A7OHSZCH5CYHOEWCZNWTDQ",
+    "headline": "Swift charges against Georgia father mark a cultural shift on school shootings",
+    "description": "Colin Gray’s arrest after four were killed at Apalachee High echoes the Michigan cases against James and Jennifer Crumbley, the first parents of a school shooter ever convicted of homicide.",
+    "url": "https://www.washingtonpost.com/investigations/2024/09/07/apalachee-georgia-oxford-shooting/",
+    "credits": [
+      {
+        "name": "John Woodrow Cox",
+        "slug": "john-woodrow-cox"
+      },
+      {
+        "name": "Steven Rich",
+        "slug": "steven-rich"
+      }
+    ],
+    "date": "2024-09-07T16:53:19.339Z",
+    "img": "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QF7OLCIHLSN2ORVH4AGLQUJ4BE.JPG",
+    "label": {
+      "url": "https://www.washingtonpost.com/national/investigations/"
+    }
+  },
+  {
+    "id": "YNLNA6LBX5FMVCA7A7HPK2C67A",
+    "headline": "In historic case, father of 14-year-old school shooting suspect charged with murder",
+    "description": "Colin Gray, the father of the suspected Apalachee High School shooter, was charged with involuntary manslaughter, second-degree murder and cruelty to children. ",
+    "url": "https://www.washingtonpost.com/investigations/2024/09/05/colin-gray-arrested-father-georgia-school-shooting-suspect/",
+    "credits": [
+      {
+        "name": "John Woodrow Cox",
+        "slug": "john-woodrow-cox"
+      },
+      {
+        "name": "Steven Rich",
+        "slug": "steven-rich"
+      },
+      {
+        "name": "Sarah Blaskey",
+        "slug": "sarah-blaskey"
+      }
+    ],
+    "date": "2024-09-06T02:55:32.405Z",
+    "img": "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BS7Z7ZGY3OLZQFU7WYADBKG3OE.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/national/investigations/"
+    }
+  },
+  {
+    "id": "4WDR4TIAEBGGRIKYZCDCUILHX4",
+    "headline": "Accused Georgia 14-year-old would be youngest mass school shooter since 1998",
+    "description": "The alleged Apalachee High shooter’s youth, and his apparent ability to obtain an AR-15-style weapon, will likely amplify national debate over gun violence. ",
+    "url": "https://www.washingtonpost.com/investigations/2024/09/05/georgia-shooting-suspect-youngest-mass-school-shooter/",
+    "credits": [
+      {
+        "name": "John Woodrow Cox",
+        "slug": "john-woodrow-cox"
+      },
+      {
+        "name": "Steven Rich",
+        "slug": "steven-rich"
+      }
+    ],
+    "date": "2024-09-05T16:46:25.688Z",
+    "img": "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L73DFKNIFM7V6UBYJ46HNQW4OE.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/national/investigations/"
+    }
+  },
+  {
     "id": "JHIQ4N2QOREDXNP6R7MXGYNCZE",
     "headline": "Inflation has been higher in metros with greater 2020 Trump support",
     "description": "Metros that had more votes for Trump in 2020 have experienced higher inflation since then. Here’s why and what that means for this election. ",
@@ -4504,6 +4633,35 @@
     "label": {}
   },
   {
+    "id": "RR3EYVQ6I5GITOFQMSTOSHCTYI",
+    "headline": "Videos, bodycam footage and 911 calls released from 2022 Uvalde shooting",
+    "description": "In one 911 call, a fourth-grader can be heard pleading for help and hushing a classmate.  ",
+    "url": "https://www.washingtonpost.com/nation/2024/08/10/uvalde-shooting-records/",
+    "credits": [
+      {
+        "name": "Arelis R. Hernández",
+        "slug": "arelis-r-hernandez"
+      },
+      {
+        "name": "Steven Rich",
+        "slug": "steven-rich"
+      },
+      {
+        "name": "Joyce Lee",
+        "slug": "joyce-lee"
+      },
+      {
+        "name": "Sarah Cahlan",
+        "slug": "sarah-cahlan"
+      }
+    ],
+    "date": "2024-08-10T19:33:25.512Z",
+    "img": "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HE4YKQ22WFSZZMGFUTV43F6VG4.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/national/"
+    }
+  },
+  {
     "id": "UBSUORJSMBAFJDOHE4IHM4CJOU",
     "headline": "The view from Paris: A marathon route steeped in history and hills",
     "description": "A daily visual guide through the eyes of an Olympics newbie sent to Paris by The Washington Post. Today’s topic: the marathon course.",
@@ -4661,6 +4819,35 @@
     "label": {}
   },
   {
+    "id": "R67Y7OJXOFHONPSIP4QWV4DS5Y",
+    "headline": "Maduro perdió las elecciones según actas recopiladas por la oposición ",
+    "description": "Edmundo González habría vencido al presidente Nicolás Maduro el 28 de julio por millones de votos, según muestra un análisis de datos de las actas electorales.",
+    "url": "https://www.washingtonpost.com/world/2024/08/04/maduro-gonzalez-election-actas-analysis-2/",
+    "credits": [
+      {
+        "name": "Samantha Schmidt",
+        "slug": "samantha-schmidt"
+      },
+      {
+        "name": "Steven Rich",
+        "slug": "steven-rich"
+      },
+      {
+        "name": "Ana Herrero",
+        "slug": ""
+      },
+      {
+        "name": "María Luisa Paúl",
+        "slug": "maria-luisa-paul"
+      }
+    ],
+    "date": "2024-08-05T19:20:41.266Z",
+    "img": "https://www.washingtonpost.com/resizer/YedPWzlrbiD3d_oEuA7sMflOSJA=/300x0/arc-anglerfish-washpost-prod-washpost/public/LJGYLKH3XXBXKCMYFTL2P4IPR4.JPG",
+    "label": {
+      "url": "https://www.washingtonpost.com/world/americas/"
+    }
+  },
+  {
     "id": "JDTDSPRJ5ZFWDJHWNUWQZM7UFE",
     "headline": "Where are Harris and her running mate traveling this week?",
     "description": "Vice President Kamala Harris and her running mate will campaign in seven battleground states over five days.",
@@ -4699,6 +4886,35 @@
     "date": "2024-08-05T12:25:03.526Z",
     "img": "https://www.washingtonpost.com/resizer/OABEj4ayUwwh5ODVGwHHXxtNc9M=/300x0/arc-anglerfish-washpost-prod-washpost/public/S3UOFZ5CC5CBZKUC6AI2WWZSJI.jpg",
     "label": {}
+  },
+  {
+    "id": "UHKARJGAGJERLM34CR7UXS47YA",
+    "headline": "Maduro lost election, tallies collected by Venezuela’s opposition show",
+    "description": "Edmundo González likely beat President Nicolás Maduro in the July 28 election by millions of votes, a review of data from election receipts shows.",
+    "url": "https://www.washingtonpost.com/world/2024/08/04/maduro-gonzalez-election-actas-analysis/",
+    "credits": [
+      {
+        "name": "Samantha Schmidt",
+        "slug": "samantha-schmidt"
+      },
+      {
+        "name": "Steven Rich",
+        "slug": "steven-rich"
+      },
+      {
+        "name": "Ana Herrero",
+        "slug": ""
+      },
+      {
+        "name": "María Luisa Paúl",
+        "slug": "maria-luisa-paul"
+      }
+    ],
+    "date": "2024-08-04T23:31:27.196Z",
+    "img": "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LJGYLKH3XXBXKCMYFTL2P4IPR4.JPG",
+    "label": {
+      "url": "https://www.washingtonpost.com/world/americas/"
+    }
   },
   {
     "id": "PG4MJGLVKJHVJKSBWBRLQNIRGA",
