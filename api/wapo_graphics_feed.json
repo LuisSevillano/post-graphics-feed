@@ -1,5 +1,30 @@
 [
   {
+    "id": "TU3F2DLD7REJZLJN6SD2J6NWVU",
+    "headline": "Tracking who Trump is appointing to fill key administration roles",
+    "description": "Follow President Trump’s progress filling over 800 positions, among about 1,300 that require Senate confirmation, in this tracker from The Washington Post and the Partnership for Public Service.",
+    "url": "https://www.washingtonpost.com/politics/interactive/2025/trump-appointee-tracker/",
+    "credits": [
+      {
+        "name": "Chris Alcantara",
+        "slug": "chris-alcantara"
+      },
+      {
+        "name": "Eric Lau",
+        "slug": "eric-lau"
+      },
+      {
+        "name": "Nick Mourtoupalas",
+        "slug": "nick-mourtoupalas"
+      }
+    ],
+    "date": "2025-01-08T13:00:57.798Z",
+    "img": "https://www.washingtonpost.com/resizer/wO_YbPGD7BhqQO4XeLoFbpcb01g=/300x0/arc-anglerfish-washpost-prod-washpost/public/2UFC6Q53ZVD2TA6J5ODQPPYGVU.png",
+    "label": {
+      "url": "https://www.washingtonpost.com/politics/"
+    }
+  },
+  {
     "id": "UHJ3FNUDFVCYLHSMSAT2DFWWA4",
     "headline": "Landlords have been accused of price fixing. See where it could be happening.",
     "description": "Millions of rents across the country may now be set using one company’s algorithmic software, according to a federal lawsuit and a Washington Post analysis.",
