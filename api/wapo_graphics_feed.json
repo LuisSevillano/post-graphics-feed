@@ -1,5 +1,30 @@
 [
   {
+    "id": "TWLHWLJJ5VDRBIFBBIRNK7VMPM",
+    "headline": "‘This is a time of grief’: L.A. wildfires rage for third day, killing 5",
+    "description": "The ongoing catastrophe in Southern California has claimed at least five lives, though officials said they expect that toll to rise. ",
+    "url": "https://www.washingtonpost.com/weather/2025/01/09/california-fires-la-palisades-eaton-deaths/",
+    "credits": [
+      {
+        "name": "Josh Partlow",
+        "slug": "joshua-partlow"
+      },
+      {
+        "name": "Nick Kirkpatrick",
+        "slug": "nick-kirkpatrick"
+      },
+      {
+        "name": "Brady Dennis",
+        "slug": "brady-dennis"
+      }
+    ],
+    "date": "2025-01-10T01:13:34.915Z",
+    "img": "https://www.washingtonpost.com/resizer/_jF_jxlu5y7gwZwMcf8VWtYAEOM=/300x0/arc-anglerfish-washpost-prod-washpost/public/NC34UHYLBD2DHZKHDCDC7VLYR4.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/weather/extreme-weather/"
+    }
+  },
+  {
     "id": "7VGERCL7RBGEXLQNQ4PFBZLLAU",
     "headline": "How Santa Ana winds spread the L.A. wildfires",
     "description": "See how Santa Ana winds made the L.A. wildfires worse",
