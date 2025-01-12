@@ -1,5 +1,34 @@
 [
   {
+    "id": "KNE7ECM73BA7FF2L4C3IVTDAUM",
+    "headline": "What caused the Palisades blaze? Visual evidence points to a recent fire nearby",
+    "description": "The Post’s analysis offers evidence that the Palisades Fire started in the area where firefighters had spent hours using helicopters to knock down a blaze six days earlier.",
+    "url": "https://www.washingtonpost.com/weather/2025/01/12/palisades-fire-origin-new-years-eve-fire/",
+    "credits": [
+      {
+        "name": "Brianna Sacks",
+        "slug": "brianna-sacks"
+      },
+      {
+        "name": "Joyce Lee",
+        "slug": "joyce-lee"
+      },
+      {
+        "name": "Imogen Piper",
+        "slug": "imogen-piper"
+      },
+      {
+        "name": "Aaron Davis",
+        "slug": "aaron-c-davis"
+      }
+    ],
+    "date": "2025-01-12T17:31:13.039Z",
+    "img": "https://www.washingtonpost.com/resizer/TaubWlf3cwniW-CZ1nCaEtH3Dp4=/300x0/arc-anglerfish-washpost-prod-washpost/public/E6DF7D3NG6KJU532KGQL4KAHUI.JPG",
+    "label": {
+      "url": "https://www.washingtonpost.com/weather/extreme-weather/"
+    }
+  },
+  {
     "id": "5F6KA55LD5BIBEWKGP5WALZUGE",
     "headline": "What makes Terry McLaurin great? See for yourself. ",
     "description": "The Washington Commanders’ star wide receiver is elite at ball-tracking, a skill that is difficult — but not impossible — to measure.",
