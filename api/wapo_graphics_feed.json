@@ -1,5 +1,26 @@
 [
   {
+    "id": "CXFYL54BSZCQFM6ZJKWNTUL7EU",
+    "headline": "L.A. fires may have brought cancer-causing chemicals into drinking water",
+    "description": "Why are there “do not boil” and “do not drink” notices issued? A visual look at how toxic compounds can get into the tap and how utilities will determine if it is safe.",
+    "url": "https://www.washingtonpost.com/climate-environment/interactive/2025/la-water-safe-no-boil-vocs/",
+    "credits": [
+      {
+        "name": "Daniel Wolfe",
+        "slug": "daniel-wolfe"
+      },
+      {
+        "name": "Aaron Steckelberg",
+        "slug": "aaron-steckelberg"
+      }
+    ],
+    "date": "2025-01-16T18:22:56.259Z",
+    "img": "https://www.washingtonpost.com/resizer/fgSI1thmLzH-bG2aesDAyZzBQ1g=/300x0/arc-anglerfish-washpost-prod-washpost/public/GJUJK6RJSVCT3O36MORINMHMVQ.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/climate-environment/"
+    }
+  },
+  {
     "id": "PFT3EFHRWRCRXIC7ABL6OZSZFI",
     "headline": "A new kind of urban firestorm",
     "description": "How climate change, strong winds, and unprepared neighborhoods combine to create the perfect recipe for California’s urban firestorms",
