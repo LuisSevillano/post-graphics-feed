@@ -1,5 +1,38 @@
 [
   {
+    "id": "PFT3EFHRWRCRXIC7ABL6OZSZFI",
+    "headline": "A new kind of urban firestorm",
+    "description": "How climate change, strong winds, and unprepared neighborhoods combine to create the perfect recipe for California’s urban firestorms",
+    "url": "https://www.washingtonpost.com/climate-environment/interactive/2025/la-fires-altadena-destruction-homes-weather/",
+    "credits": [
+      {
+        "name": "Sarah Kaplan",
+        "slug": "sarah-kaplan"
+      },
+      {
+        "name": "John Muyskens",
+        "slug": "john-muyskens"
+      },
+      {
+        "name": "Naema Ahmed",
+        "slug": "naema-ahmed"
+      },
+      {
+        "name": "Niko Kommenda",
+        "slug": "niko-kommenda"
+      },
+      {
+        "name": "Simon Ducroquet",
+        "slug": "simon-ducroquet"
+      }
+    ],
+    "date": "2025-01-16T11:00:10.591Z",
+    "img": "https://www.washingtonpost.com/resizer/yGz4-NrsEptj3Zzl2lQ7a9ww4YY=/300x0/arc-anglerfish-washpost-prod-washpost/public/CIXJHSXXCVAPVNYRAEZ5GEA4HA.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/climate-environment/climate-lab/"
+    }
+  },
+  {
     "id": "VZGETAXDS5HNDDKATFCJBJTC2Y",
     "headline": "Deportation at ‘light speed’: How Trump’s crackdown could unfold",
     "description": "Trump has said he would like to deport everyone living illegally in the United States, though he has not set a specific numerical target. Who is most at risk?",
