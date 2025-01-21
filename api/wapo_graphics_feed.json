@@ -1,5 +1,38 @@
 [
   {
+    "id": "2M52M4ERBFEZXA3X42DQHA66UY",
+    "headline": "Vote count: Senate passes Laken Riley immigration bill on Trump’s first day",
+    "description": "The Senate voted on the immigration-related Laken Riley Act. See how your senators voted.",
+    "url": "https://www.washingtonpost.com/politics/interactive/2025/01/20/laken-riley-act-vote-immigration-senate/",
+    "credits": [
+      {
+        "name": "Hannah Dormido",
+        "slug": "hannah-dormido"
+      },
+      {
+        "name": "Mariana Alfaro",
+        "slug": "mariana-alfaro"
+      },
+      {
+        "name": "Marianne LeVine",
+        "slug": "marianne-levine"
+      },
+      {
+        "name": "Nick Mourtoupalas",
+        "slug": "nick-mourtoupalas"
+      },
+      {
+        "name": "Luis Melgar",
+        "slug": "luis-melgar"
+      }
+    ],
+    "date": "2025-01-21T00:05:55.123Z",
+    "img": "https://www.washingtonpost.com/resizer/wPfySJniKmknX6xJUSvGDfiv5Zc=/300x0/arc-anglerfish-washpost-prod-washpost/public/BGIHNVTY3CPLODAC2BJAQGKJGU.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/politics/"
+    }
+  },
+  {
     "id": "YXXPAPVZ7FHZ3KVJNCHVIMPSWY",
     "headline": "We’re asking Americans what they think about Trump’s inaugural address",
     "description": "28 Americans share their thoughts on Trump’s second presidential inauguration  with The Post.",
