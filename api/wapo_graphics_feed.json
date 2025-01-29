@@ -1,5 +1,30 @@
 [
   {
+    "id": "NTKVFIJSUFHKFGIWVHGUASD4YM",
+    "headline": "How many federal workers will be affected by Trump’s return-to-office policy?",
+    "description": "See agency by agency, the more than one million federal workers who could be affected.",
+    "url": "https://www.washingtonpost.com/politics/2025/01/29/federal-workers-return-to-office-employees/",
+    "credits": [
+      {
+        "name": "Azi Paybarah",
+        "slug": "azi-paybarah"
+      },
+      {
+        "name": "Andrew Tran",
+        "slug": "andrew-ba-tran"
+      },
+      {
+        "name": "Chris Alcantara",
+        "slug": "chris-alcantara"
+      }
+    ],
+    "date": "2025-01-29T11:00:42.476Z",
+    "img": "https://www.washingtonpost.com/resizer/kHd4YH8OlaRtehe1KaPSs2wOnmQ=/300x0/arc-anglerfish-washpost-prod-washpost/public/QPMCTTG62JE5HBPYSTO7JSB43E.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/politics/"
+    }
+  },
+  {
     "id": "5HAPRASDAVDZ7ALYOF4NX4D5GA",
     "headline": "Measles, polio, HPV: Uncovering RFK Jr.'s false vaccine claims",
     "description": "Robert F. Kennedy Jr. is in the hot seat this week, with two Senate hearings on his nomination to run the nation’s top health agency. We dig into an exclusive Washington Post examination of his statements on vaccines and where lawmakers stand on his nomination.",
