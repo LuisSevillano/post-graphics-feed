@@ -1,5 +1,46 @@
 [
   {
+    "id": "BCNR7A77GZC2JOWN24XULBWF6Y",
+    "headline": "These homes survived the L.A. fires. Can they teach us how to rebuild?",
+    "description": "The few structures still standing in Altadena and Pacific Palisades may offer clues on making homes more resistant to wildfire.",
+    "url": "https://www.washingtonpost.com/weather/interactive/2025/la-fires-homes-survive-building-materials/",
+    "credits": [
+      {
+        "name": "Anna Phillips",
+        "slug": "anna-phillips"
+      },
+      {
+        "name": "Niko Kommenda",
+        "slug": "niko-kommenda"
+      },
+      {
+        "name": "Alice Li",
+        "slug": "alice-li"
+      },
+      {
+        "name": "Naema Ahmed",
+        "slug": "naema-ahmed"
+      },
+      {
+        "name": "John Muyskens",
+        "slug": "john-muyskens"
+      },
+      {
+        "name": "Josh Partlow",
+        "slug": "joshua-partlow"
+      },
+      {
+        "name": "Emily Wright",
+        "slug": "emily-wright"
+      }
+    ],
+    "date": "2025-02-07T11:00:08.977Z",
+    "img": "https://www.washingtonpost.com/resizer/pEAypM19y7YvxKaOVSkZM4V1qQY=/300x0/arc-anglerfish-washpost-prod-washpost/public/3FMYU456MFHIDCS6HECEZ2DIC4.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/weather/extreme-weather/"
+    }
+  },
+  {
     "id": "S7WEU22XKBHN5M6PASU5V6W4QY",
     "headline": "What is making Gaza ‘uninhabitable?’ Unexploded bombs and more.",
     "description": "Trump says the destruction in Gaza means “no one can live there.” But experts say  the enclave can be rebuilt without the mass displacement of all Palestinians.",
