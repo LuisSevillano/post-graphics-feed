@@ -1,5 +1,29 @@
 [
   {
+    "id": "J7ZBV7Z4FBA2ZEBI6DVFUHPS3Y",
+    "headline": "Visualizing the international reach of U.S. funding cut by Trump",
+    "description": "Using graphics to illustrate the scope of U.S. foreign aid spending and analyzing how the Trump administration’s sweeping cuts could play out across the world.",
+    "url": "https://www.washingtonpost.com/world/2025/02/09/trump-usaid-foreign-funding-cuts-rubio/",
+    "credits": [
+      {
+        "name": "Cate Brown",
+        "slug": "cate-brown"
+      },
+      {
+        "name": "Dan Keating",
+        "slug": "dan-keating"
+      },
+      {
+        "name": "Dylan Moriarty",
+        "slug": "dylan-moriarty"
+      }
+    ],
+    "date": "2025-02-09T07:00:19.256Z",
+    "label": {
+      "url": "https://www.washingtonpost.com/world/"
+    }
+  },
+  {
     "id": "RHTLDZNLENFM3JHSP24N6WJ76Y",
     "headline": "You cannot say that in the $%@! Super Bowl halftime show!",
     "description": "If Kendrick Lamar plays his Drake diss track “Not Like Us” at Sunday’s Super Bowl halftime show, he’ll have to tone it down to avoid violating FCC standards.",
