@@ -1,5 +1,26 @@
 [
   {
+    "id": "XYPOPLPWLNAIHA4VMDI3VEEDSQ",
+    "headline": "RFK Jr. says vaccines aren’t tested enough. Experts say that’s baseless.",
+    "description": "RFK Jr.’s views on vaccine safety have sparked debate, with some experts saying that his comments are misleading.",
+    "url": "https://www.washingtonpost.com/health/2025/02/11/rfk-jr-vaccine-testing-concerns/",
+    "credits": [
+      {
+        "name": "Lauren Weber",
+        "slug": "lauren-weber"
+      },
+      {
+        "name": "Caitlin Gilbert",
+        "slug": "caitlin-gilbert"
+      }
+    ],
+    "date": "2025-02-11T11:00:00.083Z",
+    "img": "https://www.washingtonpost.com/resizer/N2AoV31mB0Ewmby3xQxC_-yOLqo=/300x0/arc-anglerfish-washpost-prod-washpost/public/MFKZFUDZMAI6ZHOOOMJVPHPEGQ.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/health/"
+    }
+  },
+  {
     "id": "J7ZBV7Z4FBA2ZEBI6DVFUHPS3Y",
     "headline": "Visualizing the international reach of U.S. funding cut by Trump",
     "description": "Using graphics to illustrate the scope of U.S. foreign aid spending and analyzing how the Trump administration’s sweeping cuts could play out across the world.",
