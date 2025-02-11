@@ -1428,6 +1428,31 @@
     }
   },
   {
+    "id": "QYZL5JOTEZB7FLO5XDWKPGTOEQ",
+    "headline": "Stocks surged in 2024 even as Americans fretted over the economy",
+    "description": "The S&P 500 gained more than 24 percent, highlighting a disconnect between the day-to-day experience of households and the performance of their investments.",
+    "url": "https://www.washingtonpost.com/business/2024/12/31/stocks-indexes-sp500/",
+    "credits": [
+      {
+        "name": "Shannon Najmabadi",
+        "slug": "shannon-najmabadi"
+      },
+      {
+        "name": "Julian  Mark",
+        "slug": "julian-mark"
+      },
+      {
+        "name": "Amaya Verde",
+        "slug": "amaya-verde"
+      }
+    ],
+    "date": "2024-12-31T15:47:22.920Z",
+    "img": "https://www.washingtonpost.com/resizer/lie8fVvPjzcs3WTBnbWXzwAmixI=/300x0/arc-anglerfish-washpost-prod-washpost/public/2XCWTJ7F75HWPCBOFTSNICALBI.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/business/"
+    }
+  },
+  {
     "id": "TW3Q35IHNVDFZO7EWGEXXKRKCM",
     "headline": "A nudge word can help you set a vision for 2025. Here’s how to choose one.",
     "description": "Unlike a traditional New Year’s resolution, a nudge word isn’t focused on a single goal. It captures the mind-set you want to adopt in 2025.",
