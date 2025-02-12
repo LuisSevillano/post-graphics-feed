@@ -1,5 +1,34 @@
 [
   {
+    "id": "QTNMKUYHCZC2FEFRNOP6MT5OI4",
+    "headline": "Trump wants to substantially cut the federal workforce. Here’s what it looks like. ",
+    "description": "While federal hiring has increased in recent years, federal workers, as a share of all Americans workers, remains at a historic low.",
+    "url": "https://www.washingtonpost.com/business/2025/02/12/federal-workers-trump-doge-cuts/",
+    "credits": [
+      {
+        "name": "Hannah Dormido",
+        "slug": "hannah-dormido"
+      },
+      {
+        "name": "Nick Kirkpatrick",
+        "slug": "nick-kirkpatrick"
+      },
+      {
+        "name": "Kate Rabinowitz",
+        "slug": "kate-rabinowitz"
+      },
+      {
+        "name": "Andrew Tran",
+        "slug": "andrew-ba-tran"
+      }
+    ],
+    "date": "2025-02-12T21:01:01.470Z",
+    "img": "https://www.washingtonpost.com/resizer/DwsB3I_O2_V1HypDfGsFIRSNQcc=/300x0/arc-anglerfish-washpost-prod-washpost/public/2M6FEQB3GBFZNPFKWORA6UNFNQ.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/economy/"
+    }
+  },
+  {
     "id": "7K7XUINWNZARBD6TDR3IGP3CFU",
     "headline": "How every senator voted on Tulsi Gabbard for director of national intelligence",
     "description": "The Senate confirmed Tulsi Gabbard, a veteran and former Democratic congresswoman, as director of national intelligence in a 52-48 vote.",
