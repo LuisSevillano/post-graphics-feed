@@ -1,5 +1,38 @@
 [
   {
+    "id": "3737ZL5LCRCJDE7AOM2OZD2YOM",
+    "headline": "Live count: How every senator is voting on RFK Jr. for health secretary",
+    "description": "The Senate is voting on Robert F. Kennedy, Jr., former environmental lawyer and anti-vaccine activist, as secretary of health and human services.",
+    "url": "https://www.washingtonpost.com/politics/interactive/2025/02/13/rfk-jr-senate-confirmation-vote-count-health-secretary/",
+    "credits": [
+      {
+        "name": "Hannah Dormido",
+        "slug": "hannah-dormido"
+      },
+      {
+        "name": "Eric Lau",
+        "slug": "eric-lau"
+      },
+      {
+        "name": "Kati Perry",
+        "slug": "kati-perry"
+      },
+      {
+        "name": "Szu Yu  Chen",
+        "slug": "szuyu-chen"
+      },
+      {
+        "name": "Nick Mourtoupalas",
+        "slug": "nick-mourtoupalas"
+      }
+    ],
+    "date": "2025-02-13T15:30:12.671Z",
+    "img": "https://www.washingtonpost.com/resizer/zDnNeRN6r6Ra7TRt-EivJNFXA5w=/300x0/arc-anglerfish-washpost-prod-washpost/public/PCYEZT6YXSGFPXLIFLPMLPGANA.JPG",
+    "label": {
+      "url": "https://www.washingtonpost.com/politics/"
+    }
+  },
+  {
     "id": "QTNMKUYHCZC2FEFRNOP6MT5OI4",
     "headline": "Trump wants to substantially cut the federal workforce. Here’s what it looks like. ",
     "description": "While federal hiring has increased in recent years, federal workers, as a share of all Americans workers, remains at a historic low.",
