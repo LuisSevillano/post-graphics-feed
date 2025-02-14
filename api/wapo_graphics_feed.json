@@ -1,5 +1,50 @@
 [
   {
+    "id": "2NCM5JSHOFDEXNOT5VCQPBT4FQ",
+    "headline": "3D analysis shows how helicopter pilots could have mixed up jets in DCA crash",
+    "description": "From the perspective of the helicopter cockpit, the lights of the incoming American Airlines jet could have also been obscured by the glow of the city skyline, pilots said. ",
+    "url": "https://www.washingtonpost.com/investigations/interactive/2025/dc-plane-crash-black-hawk-helicopter-collision-timeline/",
+    "credits": [
+      {
+        "name": "Imogen Piper",
+        "slug": "imogen-piper"
+      },
+      {
+        "name": "Evan Hill",
+        "slug": "evan-hill"
+      },
+      {
+        "name": "Alex Horton",
+        "slug": "alex-horton"
+      },
+      {
+        "name": "Meg Kelly",
+        "slug": "meg-kelly"
+      },
+      {
+        "name": "Frank Hulley-Jones",
+        "slug": "frank-hulley-jones"
+      },
+      {
+        "name": "Irfan Uraizee",
+        "slug": "irfan-uraizee"
+      },
+      {
+        "name": "Andrew Tran",
+        "slug": "andrew-ba-tran"
+      },
+      {
+        "name": "Samuel Oakford",
+        "slug": "samuel-oakford"
+      }
+    ],
+    "date": "2025-02-14T11:00:04.132Z",
+    "img": "https://www.washingtonpost.com/resizer/7capknTbBacoZgU8xFNi_XczvHw=/300x0/arc-anglerfish-washpost-prod-washpost/public/MD5ABYXRRBEQXCMSYVE52JGGDQ.png",
+    "label": {
+      "url": "https://www.washingtonpost.com/visual-forensics/"
+    }
+  },
+  {
     "id": "3737ZL5LCRCJDE7AOM2OZD2YOM",
     "headline": "Live count: How every senator is voting on RFK Jr. for health secretary",
     "description": "The Senate is voting on Robert F. Kennedy, Jr., former environmental lawyer and anti-vaccine activist, as secretary of health and human services.",
