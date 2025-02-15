@@ -1,5 +1,34 @@
 [
   {
+    "id": "CJRJTIGRINHVLHFD7JL4N3WSPU",
+    "headline": "See inside DOGE’s playbook for eliminating DEI",
+    "description": "Documents detail step-by-step plans by the U.S. DOGE Service to purge federal agencies of diversity, equity, and inclusion workers and offices. Here’s what comes next.",
+    "url": "https://www.washingtonpost.com/politics/interactive/2025/doge-playbook-dei-trump/",
+    "credits": [
+      {
+        "name": "Leslie Shapiro",
+        "slug": "leslie-shapiro"
+      },
+      {
+        "name": "Daniel Wolfe",
+        "slug": "daniel-wolfe"
+      },
+      {
+        "name": "Hannah Natanson",
+        "slug": "hannah-natanson"
+      },
+      {
+        "name": "Chris Dehghanpoor",
+        "slug": "chris-dehghanpoor"
+      }
+    ],
+    "date": "2025-02-15T14:00:32.768Z",
+    "img": "https://www.washingtonpost.com/resizer/SJgXP1S1YJpG0DSCggKUJNRN5to=/300x0/arc-anglerfish-washpost-prod-washpost/public/CHRVBS22JBBN5I7FCL2THQLINQ.jpg",
+    "label": {
+      "url": ""
+    }
+  },
+  {
     "id": "PGZX2IJHYNHDHMYZ6JW4RGGJZU",
     "headline": "Mapped: Russia and Ukraine’s competing visions for peace",
     "description": "As Washington seeks to resolve the war in Ukraine with peace negotiations, these maps show what each side in the conflict are pushing for.",
