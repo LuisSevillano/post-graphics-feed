@@ -1,5 +1,46 @@
 [
   {
+    "id": "32OJTXK5UJHLBNBT2F4MRYZZUE",
+    "headline": "Elon Musk’s business empire is built on $38 billion in government funding",
+    "description": "Government infusions at key moments helped Tesla and SpaceX flourish, boosting Musk’s wealth.",
+    "url": "https://www.washingtonpost.com/technology/interactive/2025/elon-musk-business-government-contracts-funding/",
+    "credits": [
+      {
+        "name": "Desmond Butler",
+        "slug": "desmond-butler"
+      },
+      {
+        "name": "Trisha Thadani",
+        "slug": "trisha-thadani"
+      },
+      {
+        "name": "Emmanuel  Martinez",
+        "slug": "emmanuel-martinez"
+      },
+      {
+        "name": "Aaron Gregg",
+        "slug": "aaron-gregg"
+      },
+      {
+        "name": "Luis Melgar",
+        "slug": "luis-melgar"
+      },
+      {
+        "name": "Jonathan O'Connell",
+        "slug": "jonathan-oconnell"
+      },
+      {
+        "name": "Dan Keating",
+        "slug": "dan-keating"
+      }
+    ],
+    "date": "2025-02-26T11:10:21.645Z",
+    "img": "https://www.washingtonpost.com/resizer/BWu1P4OotiSg6Qulq_JVvOqrAIM=/300x0/arc-anglerfish-washpost-prod-washpost/public/DO35NAPLU5A5RFKJO6XVDBHHDU.jpg",
+    "label": {
+      "url": ""
+    }
+  },
+  {
     "id": "UXZZEWJ24BFZRJOL35V2ZHC2AY",
     "headline": "How every House member voted on the ‘big, beautiful’ budget bill",
     "description": "The House passed a budget resolution in advance of a March 14 deadline to avert a government shutdown. See how your lawmaker voted.",
