@@ -1,5 +1,30 @@
 [
   {
+    "id": "UGSR7AXXEJB7DIL2OJPQBZT6EQ",
+    "headline": "See how tariffs could make your next car cost thousands more",
+    "description": "From raw metal to engines, components travel all over North America before they’re put into cars. What happens if they’re taxed at every stop? ",
+    "url": "https://www.washingtonpost.com/business/2025/03/02/tarrifs-auto-industry-car-parts-cost/",
+    "credits": [
+      {
+        "name": "Bonnie Berkowitz",
+        "slug": "bonnie-berkowitz"
+      },
+      {
+        "name": "Dylan Moriarty",
+        "slug": "dylan-moriarty"
+      },
+      {
+        "name": "Luis Melgar",
+        "slug": "luis-melgar"
+      }
+    ],
+    "date": "2025-03-02T14:15:53.427Z",
+    "img": "https://www.washingtonpost.com/resizer/H3d4Lm7WXW-N8GvcuUb_IFwrbXg=/300x0/arc-anglerfish-washpost-prod-washpost/public/BHYATCUYGRCHBPCJKYOWMXULQQ.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/economy/"
+    }
+  },
+  {
     "id": "APXRZZ7P3FDARF5GARC6SRQMAE",
     "headline": "Judge says Trump cannot fire head of independent watchdog agency",
     "description": "The federal judge’s decision blocks Trump from removing Hampton Dellinger as head of the Office of Special Counsel and sets up a likely Supreme Court battle over the president’s powers.",
