@@ -1,5 +1,38 @@
 [
   {
+    "id": "W3OMC47VNFCWJAZFGMFT2YAA6Q",
+    "headline": "How every House member voted on the bill to avert a government shutdown",
+    "description": "The House passed a measure to extend federal funding through September. See how your lawmaker voted.",
+    "url": "https://www.washingtonpost.com/politics/interactive/2025/03/11/house-vote-count-government-shutdown-continuing-resolution/",
+    "credits": [
+      {
+        "name": "Nick Mourtoupalas",
+        "slug": "nick-mourtoupalas"
+      },
+      {
+        "name": "Chris Alcantara",
+        "slug": "chris-alcantara"
+      },
+      {
+        "name": "Janice Kai Chen",
+        "slug": "janice-kai-chen"
+      },
+      {
+        "name": "Kati Perry",
+        "slug": "kati-perry"
+      },
+      {
+        "name": "Hannah Dormido",
+        "slug": "hannah-dormido"
+      }
+    ],
+    "date": "2025-03-11T22:39:15.421Z",
+    "img": "https://www.washingtonpost.com/resizer/YUpuK27_rs1VKP3rqsCk9voMfYE=/300x0/arc-anglerfish-washpost-prod-washpost/public/KTPAWFVUZVH5PBUM2G34CID6VU.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/politics/"
+    }
+  },
+  {
     "id": "4IL2B2EEX5AO3AFH4JISVPKP5Q",
     "headline": "How Trump is reshaping reality by hiding data",
     "description": "Sweeping statistical purges are part of a broader attempt to reinvent “truth.”",
