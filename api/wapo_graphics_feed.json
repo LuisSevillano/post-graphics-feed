@@ -1,5 +1,30 @@
 [
   {
+    "id": "D2TROPRBLZBBDH67NCRMVBTNDY",
+    "headline": "Visualizing Ukraine’s military aid after the U.S. freeze ",
+    "description": "Since 2022, the United States has allocated more than $100 billion in aid to Ukraine. European nations have collectively allocated over $140 billion.",
+    "url": "https://www.washingtonpost.com/world/2025/03/11/ukraine-trump-aid-europe/",
+    "credits": [
+      {
+        "name": "Maham Javaid",
+        "slug": "maham-javaid"
+      },
+      {
+        "name": "Amaya Verde",
+        "slug": "amaya-verde"
+      },
+      {
+        "name": "Adam Taylor",
+        "slug": "adam-taylor"
+      }
+    ],
+    "date": "2025-03-11T09:00:34.677Z",
+    "img": "https://www.washingtonpost.com/resizer/Sq5VLe9dZsjmzxLr2NB6Vrpb9hs=/300x0/arc-anglerfish-washpost-prod-washpost/public/A7Y3UILOUVDJ7MJS54E4WEY5EY.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/world/europe/"
+    }
+  },
+  {
     "id": "FCMJ7NYGMVC55DKJCT3ZQFTJCI",
     "headline": "Man shot outside White House had BB gun and ‘cell phone handgun,’ police say",
     "description": "D.C. police identified Andrew Dawson, of North Manchester, Indiana, as the man shot and critically wounded by Secret Service personnel early Sunday.",
