@@ -1,5 +1,46 @@
 [
   {
+    "id": "DBQRO3N3KJEWREOEITRTIAVAE4",
+    "headline": "Dr. Oz goes to Washington ",
+    "description": "Mehmet Oz has made a successful career on TV and online, promoting often unproven weight loss treatments and supplements. Now the physician is poised to run two of America’s largest health care programs. ",
+    "url": "https://www.washingtonpost.com/podcasts/post-reports/dr-oz-goes-to-washington-/",
+    "credits": [
+      {
+        "name": "Elana Gordon",
+        "slug": "elana-gordon"
+      },
+      {
+        "name": "Peter Bresnan",
+        "slug": "peter-bresnan"
+      },
+      {
+        "name": "Maggie Penman",
+        "slug": "maggie-penman"
+      },
+      {
+        "name": "Lynh Bui",
+        "slug": "lynh-bui"
+      },
+      {
+        "name": "Drea Cornejo",
+        "slug": "drea-cornejo"
+      },
+      {
+        "name": "Caitlin Gilbert",
+        "slug": "caitlin-gilbert"
+      },
+      {
+        "name": "Sam Bair",
+        "slug": "sam-bair"
+      }
+    ],
+    "date": "2025-03-13T20:43:08.000Z",
+    "img": "https://podcast.posttv.com/series/20250313/t_1741898418988_name_oz_main_phto.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/podcasts/post-reports/"
+    }
+  },
+  {
     "id": "3KR43BEEWBGSDGESSU226YWDJQ",
     "headline": "Five years since the pandemic began, covid may now be endemic, experts say",
     "description": "The pandemic may be over, but the endemic disease is still a threat, especially for older adults and those with certain risk factors.",
