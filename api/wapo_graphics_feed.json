@@ -1,5 +1,38 @@
 [
   {
+    "id": "7KI7V6AW2FHABOAR3BUSIEAHGI",
+    "headline": "How senators are voting on a bill to avert a government shutdown",
+    "description": "The Senate is voting on a measure to extend federal funding through September. See how your lawmaker voted.",
+    "url": "https://www.washingtonpost.com/politics/interactive/2025/03/14/senate-vote-results-government-shutdown-cr/",
+    "credits": [
+      {
+        "name": "Chris Alcantara",
+        "slug": "chris-alcantara"
+      },
+      {
+        "name": "Janice Kai Chen",
+        "slug": "janice-kai-chen"
+      },
+      {
+        "name": "Hannah Dormido",
+        "slug": "hannah-dormido"
+      },
+      {
+        "name": "Nick Mourtoupalas",
+        "slug": "nick-mourtoupalas"
+      },
+      {
+        "name": "Kati Perry",
+        "slug": "kati-perry"
+      }
+    ],
+    "date": "2025-03-14T18:33:29.343Z",
+    "img": "https://www.washingtonpost.com/resizer/tOBWCniVviG7v137xThMQlRNFOk=/300x0/arc-anglerfish-washpost-prod-washpost/public/MSEWM3ZQU32ZKVV7OJIRXW7MZM.JPG",
+    "label": {
+      "url": "https://www.washingtonpost.com/politics/"
+    }
+  },
+  {
     "id": "CMU4ESZAPJGOJDCIXCIOOZJUQI",
     "headline": "Trump wants Guantánamo to hold 30,000 migrants. So far it has held about 300.",
     "description": "Trump’s plan to vastly expand migrant detentions at the Guantánamo Bay Naval Station in Cuba has proven costly and logistically complicated.",
