@@ -1,5 +1,30 @@
 [
   {
+    "id": "EMSUPORBWNBPREHXYDTBTWXFBQ",
+    "headline": "Trump visits Justice Department for speech that breaks all norms",
+    "description": "The president railed against the Justice Department prosecutions he once faced even as he denounced those who criticize judges.",
+    "url": "https://www.washingtonpost.com/national-security/2025/03/14/trump-justice-department-speech/",
+    "credits": [
+      {
+        "name": "Perry Stein",
+        "slug": "perry-stein"
+      },
+      {
+        "name": "Jeremy Roebuck",
+        "slug": "jeremy-roebuck"
+      },
+      {
+        "name": "Derek Hawkins",
+        "slug": "derek-hawkins"
+      }
+    ],
+    "date": "2025-03-14T23:33:30.675Z",
+    "img": "https://www.washingtonpost.com/resizer/4Jp1dEasr4OfzXkSktICCIE5rrg=/300x0/arc-anglerfish-washpost-prod-washpost/public/D7N3CHNDE2FVR66D3SNOZXFEKA.JPG",
+    "label": {
+      "url": "https://www.washingtonpost.com/justice/"
+    }
+  },
+  {
     "id": "7KI7V6AW2FHABOAR3BUSIEAHGI",
     "headline": "How senators are voting on a bill to avert a government shutdown",
     "description": "The Senate is voting on a measure to extend federal funding through September. See how your lawmaker voted.",
