@@ -1,5 +1,34 @@
 [
   {
+    "id": "BQXNDL2WBZFXJEGCSNXB2IQPEU",
+    "headline": "1 in 8 Californians now face extreme fire danger, Post analysis shows",
+    "description": "One in 8 Californians now live in places at risk for the kinds of devastating wildfires that tore through Los Angeles this winter, according to a Washington Post analysis of new state fire maps.",
+    "url": "https://www.washingtonpost.com/weather/interactive/2025/california-wildfire-risk-maps/",
+    "credits": [
+      {
+        "name": "Anna Phillips",
+        "slug": "anna-phillips"
+      },
+      {
+        "name": "John Muyskens",
+        "slug": "john-muyskens"
+      },
+      {
+        "name": "Naema Ahmed",
+        "slug": "naema-ahmed"
+      },
+      {
+        "name": "Brady Dennis",
+        "slug": "brady-dennis"
+      }
+    ],
+    "date": "2025-03-25T11:00:15.084Z",
+    "img": "https://www.washingtonpost.com/resizer/AOlnjw_CbPgsnhR_LAtgzAKr5JQ=/300x0/arc-anglerfish-washpost-prod-washpost/public/LM3WOUMH5JDDTE46ARNIP2FV3M.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/climate-environment/climate-lab/"
+    }
+  },
+  {
     "id": "2SM34RCSKBABTAZFF2OKPKL7J4",
     "headline": "Sneeze smarter, not louder: The science of a quieter sneeze",
     "description": "At a certain point, there’s no stopping a sneeze. But doctors say there are ways to turn down the volume of an “achoo.”",
