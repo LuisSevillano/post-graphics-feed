@@ -1,5 +1,30 @@
 [
   {
+    "id": "L4VUH4YVPRE47L6QN6O5STCHVY",
+    "headline": "See which cocktails and wines could get pricier if Trump adds tariffs",
+    "description": "Americans who like to drink alcohol from Europe will have to spend lot more to indulge if the Trump administration makes good on its tariff threats.  ",
+    "url": "https://www.washingtonpost.com/business/2025/03/29/tariffs-alcohol-cocktails-wines/",
+    "credits": [
+      {
+        "name": "Rachel Lerman",
+        "slug": "rachel-lerman"
+      },
+      {
+        "name": "Shelly Tan",
+        "slug": "shelly-tan"
+      },
+      {
+        "name": "Federica  Cocco",
+        "slug": "federica-cocco"
+      }
+    ],
+    "date": "2025-03-30T13:10:00.087Z",
+    "img": "https://www.washingtonpost.com/resizer/CMGNS4emusXWIEcjUC4DSJiHpDg=/300x0/arc-anglerfish-washpost-prod-washpost/public/VGXCINXFQ5GXJLGIAJNZPKWO3I.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/business/"
+    }
+  },
+  {
     "id": "KA27GQLESVCMBEJ463KGUEUB6Y",
     "headline": "DOGE fires nearly all staff at U.S. Institute of Peace headquarters",
     "description": "D.C. employees of the institute, founded and funded by Congress, received late-night termination notices, though most of its overseas staff were left in place.",
