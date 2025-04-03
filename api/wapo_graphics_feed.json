@@ -1,5 +1,30 @@
 [
   {
+    "id": "EWLM7ZEY4FGK7LTDE4PCTBDKFE",
+    "headline": "How have food prices changed? Our tracker can give you a sense.",
+    "description": "In partnership with Numerator, we’re tracking inflation over more than 30 essential ingredients for your daily food consumption.",
+    "url": "https://www.washingtonpost.com/opinions/interactive/2025/trump-food-prices-tracker/",
+    "credits": [
+      {
+        "name": "Youyou Zhou",
+        "slug": "youyou-zhou"
+      },
+      {
+        "name": "Philip Bump",
+        "slug": "philip-bump"
+      },
+      {
+        "name": "Catherine Rampell",
+        "slug": "catherine-rampell"
+      }
+    ],
+    "date": "2025-04-03T11:30:18.628Z",
+    "img": "https://www.washingtonpost.com/resizer/OQyCGWtzRxfPD34dpuimBZbyErc=/300x0/arc-anglerfish-washpost-prod-washpost/public/SDF632AFPVFA3HB5R2LQIVHLOM.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/opinions/"
+    }
+  },
+  {
     "id": "HEHNRYMJRFH2LMDGR722XPV2DA",
     "headline": "Trump touted these ICE arrests. Half were already in prison.",
     "description": "Trump praised ICE for arresting ‘dangerous’ immigrants — but a Post review found many were already behind bars.",
