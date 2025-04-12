@@ -1,5 +1,26 @@
 [
   {
+    "id": "ZGA5HYNAYFGIHDOAC7FIZKGPMU",
+    "headline": "Paris said au revoir to cars. Air pollution maps reveal a dramatic change.",
+    "description": "Air pollution fell substantially as the city restricted car traffic and made way for parks and bike lanes.",
+    "url": "https://www.washingtonpost.com/climate-solutions/2025/04/12/air-pollution-paris-health-cars/",
+    "credits": [
+      {
+        "name": "Naema Ahmed",
+        "slug": "naema-ahmed"
+      },
+      {
+        "name": "Chico Harlan",
+        "slug": "chico-harlan"
+      }
+    ],
+    "date": "2025-04-12T10:00:07.237Z",
+    "img": "https://www.washingtonpost.com/resizer/S2Gq9RePJNP9UMVL8yuQsm7YAZc=/300x0/arc-anglerfish-washpost-prod-washpost/public/LS4ZP7FGUJEULFAEWR7FI7XINM.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/climate-solutions/"
+    }
+  },
+  {
     "id": "OR3ZWJ2DYFH5JB5JDXPBMOQCNA",
     "headline": "See why Trump’s reversal actually increased tariff rates",
     "description": "The average effective tariff rate has increased in spite of Trump’s reversal, with China’s rate rising to 145 percent.",
