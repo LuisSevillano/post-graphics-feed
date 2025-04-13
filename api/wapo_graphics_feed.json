@@ -1,5 +1,34 @@
 [
   {
+    "id": "DU3B4X2AAVBQ3OWLXSEBNAMBVE",
+    "headline": "Photos point to Israeli tank fire in deadly strike on U.N. guest house",
+    "description": "Experts say images obtained by The Post show blast patterns and shell fragments that are consistent with two Israeli tank shells. The IDF has denied responsibility for the strike, which killed a European aid worker. ",
+    "url": "https://www.washingtonpost.com/investigations/2025/04/13/united-nations-staffer-killed-gaza/",
+    "credits": [
+      {
+        "name": "Louisa Loveluck",
+        "slug": "louisa-loveluck"
+      },
+      {
+        "name": "Meg Kelly",
+        "slug": "meg-kelly"
+      },
+      {
+        "name": "Imogen Piper",
+        "slug": "imogen-piper"
+      },
+      {
+        "name": "Abbie Cheeseman",
+        "slug": "abbie-cheeseman"
+      }
+    ],
+    "date": "2025-04-13T09:00:00.087Z",
+    "img": "https://www.washingtonpost.com/resizer/h1W9R08U1AcnhGzLZlA-G3DAdOI=/300x0/arc-anglerfish-washpost-prod-washpost/public/MQXU3CP7TNESBJ2LJQJLSPOCLI.png",
+    "label": {
+      "url": "https://www.washingtonpost.com/visual-forensics/"
+    }
+  },
+  {
     "id": "ZGA5HYNAYFGIHDOAC7FIZKGPMU",
     "headline": "Paris said au revoir to cars. Air pollution maps reveal a dramatic change.",
     "description": "Air pollution fell substantially as the city restricted car traffic and made way for parks and bike lanes.",
