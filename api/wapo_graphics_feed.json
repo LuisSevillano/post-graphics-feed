@@ -1,5 +1,26 @@
 [
   {
+    "id": "VUXSYTSIBVGWXCD4XWVOKSVYWA",
+    "headline": "Home prices are dropping in some cities. See what it’s like in your neighborhood.",
+    "description": "Search by Zip code to see how home prices are changing in your area.",
+    "url": "https://www.washingtonpost.com/business/interactive/2025/housing-market-home-prices-zip-code/",
+    "credits": [
+      {
+        "name": "Janice Kai Chen",
+        "slug": "janice-kai-chen"
+      },
+      {
+        "name": "Rachel Lerman",
+        "slug": "rachel-lerman"
+      }
+    ],
+    "date": "2025-04-14T10:10:33.243Z",
+    "img": "https://www.washingtonpost.com/resizer/qL3OX0toURe5kq_n2V0IVOvlz7M=/300x0/arc-anglerfish-washpost-prod-washpost/public/GJQ266ONDFCK5AUNDQS2CWAIT4.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/business/"
+    }
+  },
+  {
     "id": "4ODYNBUGJRH5RCH2A4RVRQDSAA",
     "headline": "Why it’s hard to save money making your house more energy efficient",
     "description": "Going green at home can reduce emissions — but also raise your utility bills. The Post asked experts to do the math on a real-life scenario.",
