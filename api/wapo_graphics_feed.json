@@ -1,5 +1,30 @@
 [
   {
+    "id": "YMBZZGATEFFZJDSY22LE5QO3UE",
+    "headline": "Here’s what the U.S. imports from China and what could get pricier with tariffs",
+    "description": "Clothes, shoes, toys and yes, smartphones: See the Chinese imports Americans depend on",
+    "url": "https://www.washingtonpost.com/business/interactive/2025/china-exports-us-products-tariffs/",
+    "credits": [
+      {
+        "name": "Luis Melgar",
+        "slug": "luis-melgar"
+      },
+      {
+        "name": "Rachel Lerman",
+        "slug": "rachel-lerman"
+      },
+      {
+        "name": "Kevin Schaul",
+        "slug": "kevin-schaul"
+      }
+    ],
+    "date": "2025-04-16T10:00:00.105Z",
+    "img": "https://www.washingtonpost.com/resizer/dX-Yc9JmTxUoySUjdiyyRqlgr7o=/300x0/arc-anglerfish-washpost-prod-washpost/public/BVDSDRKIANFQTB4YXA6ASY7EHI.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/business/"
+    }
+  },
+  {
     "id": "VUXSYTSIBVGWXCD4XWVOKSVYWA",
     "headline": "Home prices are dropping in some cities. See what it’s like in your neighborhood.",
     "description": "Search by Zip code to see how home prices are changing in your area.",
