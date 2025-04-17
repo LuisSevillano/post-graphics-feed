@@ -1,5 +1,33 @@
 [
   {
+    "id": "N7UYK6CTAFEFJC34XLIIUWTK7E",
+    "headline": "Where does hurricane waste go? We tracked it with Air Tags to find out. ",
+    "description": "The small 1.54-square-mile Treasure Island would produce over 128,000 cubic yards of debris after the storms — roughly 2 million standard kitchen trash bags worth of waste.",
+    "url": "https://www.washingtonpost.com/climate-environment/2025/04/17/hurricane-milton-helene-trash-removal/",
+    "credits": [
+      {
+        "name": "John Farrell",
+        "slug": "john-farrell"
+      },
+      {
+        "name": "Whitney Leaming",
+        "slug": "whitney-leaming"
+      },
+      {
+        "name": "Drea Cornejo",
+        "slug": "drea-cornejo"
+      },
+      {
+        "name": "Naema Ahmed",
+        "slug": "naema-ahmed"
+      }
+    ],
+    "date": "2025-04-17T10:00:38.057Z",
+    "label": {
+      "url": "https://www.washingtonpost.com/climate-environment/environment/"
+    }
+  },
+  {
     "id": "YMBZZGATEFFZJDSY22LE5QO3UE",
     "headline": "Here’s what the U.S. imports from China and what could get pricier with tariffs",
     "description": "Clothes, shoes, toys and yes, smartphones: See the Chinese imports Americans depend on",
