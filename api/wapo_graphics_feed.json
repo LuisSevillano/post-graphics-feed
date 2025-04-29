@@ -1,5 +1,30 @@
 [
   {
+    "id": "4XPDGXNXBRBOJHUEU3T42TU5RA",
+    "headline": "Cause of Spain power outage still unclear after mass blackout, travel chaos",
+    "description": "Red Eléctrica, Spain’s electricity grid operator, ruled out a cyberattack, human error or unusual weather. Experts say it could take weeks to determine the cause.",
+    "url": "https://www.washingtonpost.com/world/2025/04/29/spain-power-outage-cause-blackouts-travel-chaos/",
+    "credits": [
+      {
+        "name": "Adrián Blanco Ramos",
+        "slug": "adrian-blanco"
+      },
+      {
+        "name": "Anumita Kaur",
+        "slug": "anumita-kaur"
+      },
+      {
+        "name": "Chico Harlan",
+        "slug": "chico-harlan"
+      }
+    ],
+    "date": "2025-04-29T16:44:00.929Z",
+    "img": "https://www.washingtonpost.com/resizer/pkIcPAE7sVye0SSxI4T99NuUJl0=/300x0/arc-anglerfish-washpost-prod-washpost/public/QN5RVBRIJVV4JKA4ME5J4HI55E.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/world/europe/"
+    }
+  },
+  {
     "id": "IGLQFHJ5IFELRPWHAAYJX4PMIY",
     "headline": "Trump’s first 100 days, in 10 charts",
     "description": "Trump’s second term has seen a significant increase in executive orders, with more than 140 signed in his first 100 days, and a decline in his approval rating.",
