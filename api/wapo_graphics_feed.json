@@ -1,5 +1,26 @@
 [
   {
+    "id": "XL7U4GCW3BAMTIETHKEJSJ4BXM",
+    "headline": "Israel redraws Gaza map, limiting Palestinians to a third of the enclave",
+    "description": "Since breaking the ceasefire, Israeli forces have declared about 70 percent of Gaza either as a military “red zone” or under evacuation.",
+    "url": "https://www.washingtonpost.com/world/2025/05/01/israel-gaza-buffers-evacuation-orders/",
+    "credits": [
+      {
+        "name": "Miriam Berger",
+        "slug": "miriam-berger"
+      },
+      {
+        "name": "Júlia Ledur",
+        "slug": "julia-ledur"
+      }
+    ],
+    "date": "2025-05-01T06:00:49.488Z",
+    "img": "https://www.washingtonpost.com/resizer/0QTrJnWZ6FMFb8MI171Zfw8-Kjs=/300x0/arc-anglerfish-washpost-prod-washpost/public/3MFDFWLAFVHQFDZPKNQW4LB2ZM.gif",
+    "label": {
+      "url": "https://www.washingtonpost.com/world/middle-east/"
+    }
+  },
+  {
     "id": "4Q27AD55INEGXADHNJBMDIEMG4",
     "headline": "Here’s how GDP shows tariffs are starting to take a toll",
     "description": "Few pieces of the first quarter GDP report remained untouched by the Trump Administration’s tariff policy.",
