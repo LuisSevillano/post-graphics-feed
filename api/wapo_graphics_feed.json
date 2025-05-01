@@ -1,5 +1,34 @@
 [
   {
+    "id": "OJ3FXU6GSVFQXO4EJF3MPZ6IGY",
+    "headline": "Sean ‘Diddy’ Combs’s tangled network of allegations, lawsuits",
+    "description": "Explore The Washington Post’s interactive database of the dozens of sexual assault lawsuits filed against Sean “Diddy” Combs.",
+    "url": "https://www.washingtonpost.com/entertainment/music/interactive/2025/sean-diddy-combs-lawsuits-named-allegations/",
+    "credits": [
+      {
+        "name": "Janay Kingsberry",
+        "slug": "janay-kingsberry"
+      },
+      {
+        "name": "Shelly Tan",
+        "slug": "shelly-tan"
+      },
+      {
+        "name": "Samantha Chery",
+        "slug": "samantha-chery"
+      },
+      {
+        "name": "Kati Perry",
+        "slug": "kati-perry"
+      }
+    ],
+    "date": "2025-05-01T10:00:13.504Z",
+    "img": "https://www.washingtonpost.com/resizer/5eiyh2ggT6QgRZzdPIOtqnphz64=/300x0/arc-anglerfish-washpost-prod-washpost/public/DBP26PURCJDTTGCLWKSFIMUTZE.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/entertainment/music/"
+    }
+  },
+  {
     "id": "XL7U4GCW3BAMTIETHKEJSJ4BXM",
     "headline": "Israel redraws Gaza map, limiting Palestinians to a third of the enclave",
     "description": "Since breaking the ceasefire, Israeli forces have declared about 70 percent of Gaza either as a military “red zone” or under evacuation.",
