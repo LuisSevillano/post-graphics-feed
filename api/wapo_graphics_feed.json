@@ -1,5 +1,34 @@
 [
   {
+    "id": "KUWH4IXEUVH4DKSNMRZLF6JWFA",
+    "headline": "Dozens killed in U.S. strike on purported detention center in Yemen, visuals show",
+    "description": "The compound includes a migrant detention center and has at times served military functions, according to U.N. and human rights researchers.",
+    "url": "https://www.washingtonpost.com/investigations/2025/05/04/us-yemen-strike-migrant-detention/",
+    "credits": [
+      {
+        "name": "Alex Horton",
+        "slug": "alex-horton"
+      },
+      {
+        "name": "Imogen Piper",
+        "slug": "imogen-piper"
+      },
+      {
+        "name": "Cate Brown",
+        "slug": "cate-brown"
+      },
+      {
+        "name": "Evan Hill",
+        "slug": "evan-hill"
+      }
+    ],
+    "date": "2025-05-04T09:00:38.441Z",
+    "img": "https://www.washingtonpost.com/resizer/C1iB-gvzr4KNO91Fy3vzah4GubU=/300x0/arc-anglerfish-washpost-prod-washpost/public/IHLNWYWT6NXA7UGTXESIXVC3GY.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/visual-forensics/"
+    }
+  },
+  {
     "id": "O6VPWK23EJDKFHLCWI2CMYHSZY",
     "headline": "How Trump has reshaped U.S. foreign policy in his first 100 days",
     "description": "Trump’s first 100 days have been marked by a reevaluation of traditional alliances and a reshaping of the global economic order.",
