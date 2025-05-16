@@ -25,6 +25,47 @@
     }
   },
   {
+    "id": "ZMXHXIAI4BBULKUK46YBEZGNJU",
+    "headline": "Let’s chat about RFK Jr. and vaccines. Send us your questions.",
+    "description": "Post health reporters will answer your questions on Robert F. Kennedy Jr.’s plans for public health during a live chat at 10 a.m. ET on Friday.",
+    "url": "https://www.washingtonpost.com/health/2025/05/16/rfk-health-vaccines-questions-answers/",
+    "credits": [
+      {
+        "name": "Fenit Nirappil",
+        "slug": "fenit-nirappil"
+      },
+      {
+        "name": "Lauren Weber",
+        "slug": "lauren-weber"
+      },
+      {
+        "name": "Caitlin Gilbert",
+        "slug": "caitlin-gilbert"
+      },
+      {
+        "name": "Rachel Roubein",
+        "slug": "rachel-roubein"
+      },
+      {
+        "name": "Lena H. Sun",
+        "slug": "lena-h-sun"
+      },
+      {
+        "name": "Carolyn Y. Johnson",
+        "slug": "carolyn-johnson"
+      },
+      {
+        "name": "Alexandra Pannoni",
+        "slug": "alexandra-pannoni"
+      }
+    ],
+    "date": "2025-05-14T19:54:13.580Z",
+    "img": "https://www.washingtonpost.com/resizer/G5DOQRbYmmQZOahUksVlxXyfM2Q=/300x0/arc-anglerfish-washpost-prod-washpost/public/RVI4FJCWNOFROYRMOX7XL3BTDM.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/community/"
+    }
+  },
+  {
     "id": "T7RX4LG6TRC6LN7KN3YAXOG3BY",
     "headline": "Indian strikes on Pakistan damaged six airfields, Post analysis finds",
     "description": "A review of satellite images and aftermath videos found that the strikes damaged three hangars, two runways and a pair of mobile buildings used by the air force.",
