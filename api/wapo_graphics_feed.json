@@ -1,5 +1,26 @@
 [
   {
+    "id": "QZ47LYYWOFAEJAEWWYO3TBWQHY",
+    "headline": "You asked: Are vaccines approved without safety studies?",
+    "description": "No, this is not true. Vaccines undergo rigorous safety testing and are continuously monitored for adverse events. ",
+    "url": "https://www.washingtonpost.com/health/2025/05/20/vaccine-safety-studies/",
+    "credits": [
+      {
+        "name": "Caitlin Gilbert",
+        "slug": "caitlin-gilbert"
+      },
+      {
+        "name": "Lauren Weber",
+        "slug": "lauren-weber"
+      }
+    ],
+    "date": "2025-05-20T20:10:27.961Z",
+    "img": "https://www.washingtonpost.com/resizer/MdUr_zEd4LsQH03wKWpwiL3kSjE=/300x0/arc-anglerfish-washpost-prod-washpost/public/SPCVV34XTXPAYAAV6LFIIPXAHY.JPG",
+    "label": {
+      "url": "https://www.washingtonpost.com/health/"
+    }
+  },
+  {
     "id": "SDFFEGSKIVBP5OW4UQNWRC5UNE",
     "headline": "The fate of Trump’s agenda rests with the House GOP’s ‘five families’",
     "description": "They call themselves the ‘Five Families.’ This week will test whether the House GOP’s factions can come together to advance Trump’s big bill. ",
