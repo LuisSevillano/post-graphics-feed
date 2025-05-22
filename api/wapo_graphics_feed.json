@@ -1,5 +1,38 @@
 [
   {
+    "id": "SRIW57CNLFBIBE3HBKWISDA5OY",
+    "headline": "How every House member voted on Trump’s big budget bill",
+    "description": "The One Big Beautiful Bill contains many parts of President Donald Trump’s tax and immigration agenda. See how your lawmaker voted.",
+    "url": "https://www.washingtonpost.com/politics/interactive/2025/05/22/tax-bill-house-vote-count-big-beautiful-bill/",
+    "credits": [
+      {
+        "name": "Nick Mourtoupalas",
+        "slug": "nick-mourtoupalas"
+      },
+      {
+        "name": "Kati Perry",
+        "slug": "kati-perry"
+      },
+      {
+        "name": "Hannah Dormido",
+        "slug": "hannah-dormido"
+      },
+      {
+        "name": "Szu Yu  Chen",
+        "slug": "szuyu-chen"
+      },
+      {
+        "name": "Adrián Blanco Ramos",
+        "slug": "adrian-blanco"
+      }
+    ],
+    "date": "2025-05-22T11:22:18.734Z",
+    "img": "https://www.washingtonpost.com/resizer/ITQGElFYrHmG9QDwWl22mtvvG1g=/300x0/arc-anglerfish-washpost-prod-washpost/public/TEGFCVVMKRGATONWHD53Q7G7ZY.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/politics/"
+    }
+  },
+  {
     "id": "QZ47LYYWOFAEJAEWWYO3TBWQHY",
     "headline": "You asked: Are vaccines approved without safety studies?",
     "description": "No, this is not true. Vaccines undergo rigorous safety testing and are continuously monitored for adverse events. ",
