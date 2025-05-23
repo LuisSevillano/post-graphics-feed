@@ -1,5 +1,33 @@
 [
   {
+    "id": "UOZAC7KLBRARLPF4HHRY66NZZ4",
+    "headline": "What Republicans’ new tax bill would mean for state and local tax deductions",
+    "description": "The fate of the state and local tax deduction, or SALT, is dividing lawmakers by geography as well as politics.",
+    "url": "https://www.washingtonpost.com/business/2025/05/23/salt-deduction-tax-bill/",
+    "credits": [
+      {
+        "name": "Hannah Ziegler",
+        "slug": "hannah-ziegler"
+      },
+      {
+        "name": "Julie Weil",
+        "slug": "julie-z-weil"
+      },
+      {
+        "name": "Alyssa Fowers",
+        "slug": "alyssa-fowers"
+      },
+      {
+        "name": "Nick Mourtoupalas",
+        "slug": "nick-mourtoupalas"
+      }
+    ],
+    "date": "2025-05-23T12:10:00.107Z",
+    "label": {
+      "url": "https://www.washingtonpost.com/business/"
+    }
+  },
+  {
     "id": "BR2LSFH5VVBIBLDCWLAQ6S63MA",
     "headline": "White House says food, toxins among reasons for poor U.S. health",
     "description": "Parts of the “MAHA report” contradict scientific consensus.",
