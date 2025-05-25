@@ -1,5 +1,25 @@
 [
   {
+    "id": "N566UI4VUBBO7HCCTGSCR5PRVM",
+    "headline": "The U.S. has more than 1 million foreign students. Here’s who they are.",
+    "description": "International students are at the center of Trump’s latest escalation against Harvard. Experts say they make key contributions to the nation’s economy and research.",
+    "url": "https://www.washingtonpost.com/education/2025/05/25/international-students-harvard-trump/",
+    "credits": [
+      {
+        "name": "Anumita Kaur",
+        "slug": "anumita-kaur"
+      },
+      {
+        "name": "Júlia Ledur",
+        "slug": "julia-ledur"
+      }
+    ],
+    "date": "2025-05-25T10:00:13.588Z",
+    "label": {
+      "url": "https://www.washingtonpost.com/education/"
+    }
+  },
+  {
     "id": "UOZAC7KLBRARLPF4HHRY66NZZ4",
     "headline": "What Republicans’ new tax bill would mean for state and local tax deductions",
     "description": "The fate of the state and local tax deduction, or SALT, is dividing lawmakers by geography as well as politics.",
