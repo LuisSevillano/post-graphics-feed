@@ -1,5 +1,34 @@
 [
   {
+    "id": "2OC6T74VF5HG3FS7VG2L7PG2YM",
+    "headline": "What we lose when weather balloons don’t fly",
+    "description": "Meteorologists are launching fewer weather balloons across the United States as the National Weather Service loses staff. Some worry forecasts will suffer.",
+    "url": "https://www.washingtonpost.com/climate-environment/interactive/2025/weather-balloon-launches-staff-cuts/",
+    "credits": [
+      {
+        "name": "Scott Dance",
+        "slug": "scott-dance"
+      },
+      {
+        "name": "John Muyskens",
+        "slug": "john-muyskens"
+      },
+      {
+        "name": "Frank Hulley-Jones",
+        "slug": "frank-hulley-jones"
+      },
+      {
+        "name": "Marvin Joseph",
+        "slug": "marvin-joseph"
+      }
+    ],
+    "date": "2025-05-26T10:00:53.661Z",
+    "img": "https://www.washingtonpost.com/resizer/XgZJzuroeDvDH6MRqd8vtAj6yJ4=/300x0/arc-anglerfish-washpost-prod-washpost/public/IZ4TODVGHWH6L3NVR6XLLMTGUU.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/climate-environment/environment/"
+    }
+  },
+  {
     "id": "N566UI4VUBBO7HCCTGSCR5PRVM",
     "headline": "The U.S. has more than 1 million foreign students. Here’s who they are.",
     "description": "International students are at the center of Trump’s latest escalation against Harvard. Experts say they make key contributions to the nation’s economy and research.",
