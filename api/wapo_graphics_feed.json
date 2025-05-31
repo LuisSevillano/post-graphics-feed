@@ -1,5 +1,34 @@
 [
   {
+    "id": "H37RDUGJA5DX3OHEO3HX2DRVYQ",
+    "headline": "The MAHA Report’s AI fingerprints, annotated",
+    "description": "The Post reviewed the more than 500 citations in the MAHA Report. Here are the patterns of AI use we found.",
+    "url": "https://www.washingtonpost.com/health/2025/05/30/maha-report-ai-white-house/",
+    "credits": [
+      {
+        "name": "Caitlin Gilbert",
+        "slug": "caitlin-gilbert"
+      },
+      {
+        "name": "Emily Wright",
+        "slug": "emily-wright"
+      },
+      {
+        "name": "Fenit Nirappil",
+        "slug": "fenit-nirappil"
+      },
+      {
+        "name": "Lauren Weber",
+        "slug": "lauren-weber"
+      }
+    ],
+    "date": "2025-05-31T00:30:33.523Z",
+    "img": "https://www.washingtonpost.com/resizer/qw6mblAP3KgxEUxlPJZXsRDsVjw=/300x0/arc-anglerfish-washpost-prod-washpost/public/LOINR5J5GRB2NO7DEMLYC6RF3I.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/health/"
+    }
+  },
+  {
     "id": "ILWOLSD2JNCPFCXEUC5OEEYNSE",
     "headline": "White House MAHA Report may have garbled science by using AI, experts say",
     "description": "The report, led by Health and Human Services Secretary Robert F. Kennedy Jr., was intended to address the reasons for the decline in Americans’ life expectancy.",
