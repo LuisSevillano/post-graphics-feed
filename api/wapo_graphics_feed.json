@@ -1,5 +1,26 @@
 [
   {
+    "id": "2U36TI45KVFIVGMLQOHA6B6PWY",
+    "headline": "These regions have poor air quality from Canadian wildfire smoke",
+    "description": "See where the flow of Canadian wildfire smoke has worsened the air quality in the U.S.",
+    "url": "https://www.washingtonpost.com/weather/2025/06/03/air-quality-canadian-wildfire-smoke-maps/",
+    "credits": [
+      {
+        "name": "Matthew Cappucci",
+        "slug": "matthew-cappucci"
+      },
+      {
+        "name": "Naema Ahmed",
+        "slug": "naema-ahmed"
+      }
+    ],
+    "date": "2025-06-03T20:33:20.932Z",
+    "img": "https://www.washingtonpost.com/resizer/yT8CANLlmHRDVVyWZy_pFP_-ftw=/300x0/arc-anglerfish-washpost-prod-washpost/public/TRH3GEGCXABHALCK7R7V6OL5GE.JPG",
+    "label": {
+      "url": "https://www.washingtonpost.com/weather/"
+    }
+  },
+  {
     "id": "H37RDUGJA5DX3OHEO3HX2DRVYQ",
     "headline": "The MAHA Report’s AI fingerprints, annotated",
     "description": "The Post reviewed the more than 500 citations in the MAHA Report. Here are the patterns of AI use we found.",
