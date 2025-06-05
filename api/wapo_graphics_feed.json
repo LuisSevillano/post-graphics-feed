@@ -1,5 +1,26 @@
 [
   {
+    "id": "SBTJTRDBSFEXVP3PSCFC7STMBU",
+    "headline": "See the 19 countries Trump’s travel ban affects",
+    "description": "Mapping all the countries from which President Donald Trump’s executive order would restrict travel to the United States.",
+    "url": "https://www.washingtonpost.com/immigration/2025/06/05/trump-travel-ban-countries-map/",
+    "credits": [
+      {
+        "name": "N. Kirkpatrick",
+        "slug": "nick-kirkpatrick"
+      },
+      {
+        "name": "Adrián Blanco Ramos",
+        "slug": "adrian-blanco"
+      }
+    ],
+    "date": "2025-06-05T09:00:41.723Z",
+    "img": "https://www.washingtonpost.com/resizer/0W0AeldcUExijCMrhDrE3Fbwkrg=/300x0/arc-anglerfish-washpost-prod-washpost/public/G2NHJCOC7RFTTKI6UYNRSGBRGE.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/local/immigration/"
+    }
+  },
+  {
     "id": "2U36TI45KVFIVGMLQOHA6B6PWY",
     "headline": "These regions have poor air quality from Canadian wildfire smoke",
     "description": "See where the flow of Canadian wildfire smoke has worsened the air quality in the U.S.",
