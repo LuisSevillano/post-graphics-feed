@@ -1,5 +1,42 @@
 [
   {
+    "id": "H7XQJ55P3ZDCRHUIGEP3XFM4MQ",
+    "headline": "Trump travel ban rattles immigrant communities across U.S.",
+    "description": "Haitian, Afghan and Iranian immigrants say the policy has dashed their dreams of reuniting with family. Many worry about their place in America.",
+    "url": "https://www.washingtonpost.com/nation/2025/06/06/population-trump-travel-ban/",
+    "credits": [
+      {
+        "name": "Gaya Gupta",
+        "slug": "gaya-gupta"
+      },
+      {
+        "name": "Danielle Paquette",
+        "slug": "danielle-paquette"
+      },
+      {
+        "name": "Molly Hennessy-Fiske",
+        "slug": "molly-hennessy-fiske"
+      },
+      {
+        "name": "Reis Thebault",
+        "slug": "reis-thebault"
+      },
+      {
+        "name": "Teo Armus",
+        "slug": "teo-armus"
+      },
+      {
+        "name": "Júlia Ledur",
+        "slug": "julia-ledur"
+      }
+    ],
+    "date": "2025-06-06T10:00:00.136Z",
+    "img": "https://www.washingtonpost.com/resizer/dEUe-gpi9xcWZFw5Xei76pFH19E=/300x0/arc-anglerfish-washpost-prod-washpost/public/QZNRCM7RHLFITZJJKZ6S7ZZZAI.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/national/"
+    }
+  },
+  {
     "id": "SBTJTRDBSFEXVP3PSCFC7STMBU",
     "headline": "See the 19 countries Trump’s travel ban affects",
     "description": "Mapping all the countries from which President Donald Trump’s executive order would restrict travel to the United States.",
