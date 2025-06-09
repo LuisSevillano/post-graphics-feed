@@ -1,5 +1,42 @@
 [
   {
+    "id": "C2J3KGREXZFUZJIOBEIQFDODN4",
+    "headline": "Do kids feel safe in D.C.? We asked them.",
+    "description": "Youth crime in the District surged in 2023. The Post spoke to nearly two dozen middle school students about violence and safety.",
+    "url": "https://www.washingtonpost.com/investigations/interactive/2025/dc-youth-violence-safety-concerns-video/",
+    "credits": [
+      {
+        "name": "Joy Sung",
+        "slug": "joy-sung"
+      },
+      {
+        "name": "Lauren Lumpkin",
+        "slug": "lauren-lumpkin"
+      },
+      {
+        "name": "Jenny Gathright",
+        "slug": "jenny-gathright"
+      },
+      {
+        "name": "John Harden",
+        "slug": "john-harden"
+      },
+      {
+        "name": "Carson TerBush",
+        "slug": "carson-terbush"
+      },
+      {
+        "name": "Stephanie Hays",
+        "slug": "stephanie-hays"
+      }
+    ],
+    "date": "2025-06-09T09:00:00.112Z",
+    "img": "https://www.washingtonpost.com/resizer/sJycrHsSpsbycbu3mt_KwSMaX1g=/300x0/arc-anglerfish-washpost-prod-washpost/public/6ZPGJ7SEMBDGJMBXQGJE7UVDCY.png",
+    "label": {
+      "url": "https://www.washingtonpost.com/national/investigations/"
+    }
+  },
+  {
     "id": "POG4DH726VAJFGF4TD34226PDA",
     "headline": "A powerful, opaque al-Qaeda affiliate is rampaging across West Africa ",
     "description": "With up to 6,000 fighters, JNIM is now the most well-armed militant force in the Sahel — and among the most powerful in the world, officials and experts say.",
