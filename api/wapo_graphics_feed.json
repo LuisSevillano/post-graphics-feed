@@ -1,5 +1,26 @@
 [
   {
+    "id": "ZGPB7CYJTVCBLNEPCJ5NQJF664",
+    "headline": "See how the national debt grew to more than $36 trillion",
+    "description": "Washington spent and cut taxes while the debt was rising.",
+    "url": "https://www.washingtonpost.com/business/interactive/2025/national-debt-36-trillion/",
+    "credits": [
+      {
+        "name": "Jeff Stein",
+        "slug": "jeff-stein"
+      },
+      {
+        "name": "Alyssa Fowers",
+        "slug": "alyssa-fowers"
+      }
+    ],
+    "date": "2025-06-11T09:00:44.938Z",
+    "img": "https://www.washingtonpost.com/resizer/bVxtBpZ6jSCXDAuTr-P3bz7JFC4=/300x0/arc-anglerfish-washpost-prod-washpost/public/PA24IYCR3NFLPLDATX6HPSQARI.gif",
+    "label": {
+      "url": "https://www.washingtonpost.com/economic-policy/"
+    }
+  },
+  {
     "id": "ZDIIVETXCJDTNKJZMUG7IQURDA",
     "headline": "How clashes at the L.A. protests escalated to tear gas, impact rounds",
     "description": "Videos and photos show how L.A.’s protests unfolded Sunday when the National Guard arrived. ",
