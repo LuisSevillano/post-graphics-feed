@@ -1,5 +1,30 @@
 [
   {
+    "id": "W6UXTIJNEBAEJNAOBP5TFN7Y7M",
+    "headline": "Mapping strikes in the Israel-Iran conflict",
+    "description": "See what sites Iran and Israel have hit in their escalating direct conflict",
+    "url": "https://www.washingtonpost.com/world/2025/06/18/israel-iran-maps-strikes/",
+    "credits": [
+      {
+        "name": "Amaya Verde",
+        "slug": "amaya-verde"
+      },
+      {
+        "name": "Álvaro Valiño",
+        "slug": "álvaro-valiño"
+      },
+      {
+        "name": "N. Kirkpatrick",
+        "slug": "nick-kirkpatrick"
+      }
+    ],
+    "date": "2025-06-18T13:55:42.247Z",
+    "img": "https://www.washingtonpost.com/resizer/TI_AQegBe_K_2RtYOiplbl8z6Fo=/300x0/arc-anglerfish-washpost-prod-washpost/public/P3GG6K67NBBWVFGP5IZL4T7CJY.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/world/middle-east/"
+    }
+  },
+  {
     "id": "GPOU76RG2VCKZPLZT6QIZKSSJA",
     "headline": "The entire D.C. bus network is changing June 29. Here’s what to know.",
     "description": "Hundreds of stops are disappearing, routes are being added and eliminated, and every route name will change.",
