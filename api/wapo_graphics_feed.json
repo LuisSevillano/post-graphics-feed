@@ -1,5 +1,38 @@
 [
   {
+    "id": "RE34Z6UBA5FVRB3EHISNDJZ7CQ",
+    "headline": "What visuals show of damage to Iran’s nuclear sites after U.S. strike",
+    "description": "Satellite imagery, expert analysis and information from U.S. officials about how the strike unfolded helps shed light on the damage sustained by the Fordow uranium enrichment facility. ",
+    "url": "https://www.washingtonpost.com/investigations/2025/06/22/iran-strikes-nuclear-site-damage-visuals/",
+    "credits": [
+      {
+        "name": "Meg Kelly",
+        "slug": "meg-kelly"
+      },
+      {
+        "name": "Joyce Lee",
+        "slug": "joyce-lee"
+      },
+      {
+        "name": "Nilo Tabrizy",
+        "slug": "nilo-tabrizy"
+      },
+      {
+        "name": "Evan Hill",
+        "slug": "evan-hill"
+      },
+      {
+        "name": "Dylan Moriarty",
+        "slug": "dylan-moriarty"
+      }
+    ],
+    "date": "2025-06-22T19:03:08.290Z",
+    "img": "https://www.washingtonpost.com/resizer/gDDO5wQu6kswARj_gLeR6LAW9dk=/300x0/arc-anglerfish-washpost-prod-washpost/public/MOG6RO3XIFTJPQ6ECEK726W5O4.JPG",
+    "label": {
+      "url": "https://www.washingtonpost.com/visual-forensics/"
+    }
+  },
+  {
     "id": "AN6KC4EFHVCJVOTFFDZKSAKQTI",
     "headline": "Israel’s air defense against Iran, explained",
     "description": "Israeli officials this week reported an interception success rate of more than 90 percent.",
