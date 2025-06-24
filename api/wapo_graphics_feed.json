@@ -1,5 +1,26 @@
 [
   {
+    "id": "VIV5ZW5YYNHJPM2UXD6PQVKX3M",
+    "headline": "Where extreme heat will pose the biggest threat: Look up your city",
+    "description": "See in maps how heat waves and dangerous temperatures will affect your city this summer. Track the temperatures and extreme heat wave risk in your area.",
+    "url": "https://www.washingtonpost.com/climate-environment/interactive/heat-waves-map-us-tracker/",
+    "credits": [
+      {
+        "name": "Naema Ahmed",
+        "slug": "naema-ahmed"
+      },
+      {
+        "name": "John Muyskens",
+        "slug": "john-muyskens"
+      }
+    ],
+    "date": "2025-06-24T14:31:22.725Z",
+    "img": "https://www.washingtonpost.com/resizer/yvqZCvb9TfjQ3wDYaYXvLlhnx8U=/300x0/arc-anglerfish-washpost-prod-washpost/public/XV57XEJ64RD5FM6LQWSMQAI62Q.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/weather/"
+    }
+  },
+  {
     "id": "RE34Z6UBA5FVRB3EHISNDJZ7CQ",
     "headline": "What visuals show of damage to Iran’s nuclear sites after U.S. strike",
     "description": "Satellite imagery, expert analysis and information from U.S. officials about how the strike unfolded helps shed light on the damage sustained by the Fordow uranium enrichment facility. ",
