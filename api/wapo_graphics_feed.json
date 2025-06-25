@@ -1,5 +1,34 @@
 [
   {
+    "id": "HYGVKJYTPNEJZAKBZTGQU3H7AQ",
+    "headline": "How much will you save or lose with Trump’s ‘big’ tax bill?",
+    "description": "How will Trump’s tax bill affect your finances? Check out its affects using this calculator.",
+    "url": "https://www.washingtonpost.com/business/interactive/2025/trump-big-beautiful-bill-your-taxes-cuts/",
+    "credits": [
+      {
+        "name": "Szu Yu  Chen",
+        "slug": "szuyu-chen"
+      },
+      {
+        "name": "Shelly Tan",
+        "slug": "shelly-tan"
+      },
+      {
+        "name": "Rachel Lerman",
+        "slug": "rachel-lerman"
+      },
+      {
+        "name": "Jacob Bogage",
+        "slug": "jacob-bogage"
+      }
+    ],
+    "date": "2025-06-25T10:00:49.947Z",
+    "img": "https://www.washingtonpost.com/resizer/QVY46kDdr5-j4xJo8G2C88b3Skw=/300x0/arc-anglerfish-washpost-prod-washpost/public/EUALB37W6JHU3KLCQZTY6XKBMU.png",
+    "label": {
+      "url": "https://www.washingtonpost.com/business/"
+    }
+  },
+  {
     "id": "5SFCE4DK5BHBPFYSK5L3MLA4M4",
     "headline": "Melatonin doses can vary from what’s on the label. Here’s how much.",
     "description": "An FDA study of 110 melatonin supplements marketed for children found doses ranged from 0 to 667 percent of the amount on the label.",
