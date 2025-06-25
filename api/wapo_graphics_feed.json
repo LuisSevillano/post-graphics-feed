@@ -1,5 +1,26 @@
 [
   {
+    "id": "32MLHSMAGVCNFDHN26AXATECQY",
+    "headline": "How New York City neighborhoods voted in the Democratic mayoral primary",
+    "description": "Ranked-choice voting results in New York City’s Democratic primary for mayor will be released next week. Zohran Mamdani led the first-round ballots.",
+    "url": "https://www.washingtonpost.com/politics/2025/06/25/new-york-city-results-neighborhood-map/",
+    "credits": [
+      {
+        "name": "Eric Lau",
+        "slug": "eric-lau"
+      },
+      {
+        "name": "Lenny Bronner",
+        "slug": "lenny-bronner"
+      }
+    ],
+    "date": "2025-06-25T13:12:08.211Z",
+    "img": "https://www.washingtonpost.com/resizer/7Guym14OoGFF8-5NnHXeLoiIuxI=/300x0/arc-anglerfish-washpost-prod-washpost/public/73VZKBSG7BD4XKQV5WRPM75NJA.png",
+    "label": {
+      "url": "https://www.washingtonpost.com/elections/"
+    }
+  },
+  {
     "id": "HYGVKJYTPNEJZAKBZTGQU3H7AQ",
     "headline": "How much will you save or lose with Trump’s ‘big’ tax bill?",
     "description": "How will Trump’s tax bill affect your finances? Check out its affects using this calculator.",
