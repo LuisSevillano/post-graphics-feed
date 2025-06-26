@@ -1,5 +1,59 @@
 [
   {
+    "id": "DNGP2N3BRZDKZPBBUGLYZ3P6NU",
+    "headline": "The trade war hit. These U.S. ports felt the crush of Trump’s tariffs.",
+    "description": "When President Donald Trump’s historically high tariffs on China hit, they disrupted the supply chain and the flow of shipments to U.S. West Coast ports.",
+    "url": "https://www.washingtonpost.com/business/2025/06/26/trump-tariffs-china-us-ports/",
+    "credits": [
+      {
+        "name": "Luis Melgar",
+        "slug": "luis-melgar"
+      },
+      {
+        "name": "Rachel Lerman",
+        "slug": "rachel-lerman"
+      },
+      {
+        "name": "Federica  Cocco",
+        "slug": "federica-cocco"
+      },
+      {
+        "name": "Dylan Moriarty",
+        "slug": "dylan-moriarty"
+      }
+    ],
+    "date": "2025-06-26T10:00:37.443Z",
+    "img": "https://www.washingtonpost.com/resizer/in6gbkAp6gwVjHzb5AlALvOS2ts=/300x0/arc-anglerfish-washpost-prod-washpost/public/RQACGTQLUBAOFGOUT5TQCQZUCE.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/business/"
+    }
+  },
+  {
+    "id": "J4N5DPIXPJDAFLMFLBKZHQXQXA",
+    "headline": "Where each D.C. Council member stands on the Commanders RFK stadium deal",
+    "description": "At least seven lawmakers are needed for Mayor Muriel E. Bowser’s RFK stadium deal with the team to proceed.",
+    "url": "https://www.washingtonpost.com/dc-md-va/2025/06/26/dc-council-rfk-stadium-commanders/",
+    "credits": [
+      {
+        "name": "Meagan Flynn",
+        "slug": "meagan-flynn"
+      },
+      {
+        "name": "Jenny Gathright",
+        "slug": "jenny-gathright"
+      },
+      {
+        "name": "Nick Mourtoupalas",
+        "slug": "nick-mourtoupalas"
+      }
+    ],
+    "date": "2025-06-26T10:00:17.009Z",
+    "img": "https://www.washingtonpost.com/resizer/IswBAUuLxf9baDa6mHjMXVxl1Ok=/300x0/arc-anglerfish-washpost-prod-washpost/public/RG365BAQUFGHZIL536BHZ5ATGM.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/local/dc/politics/"
+    }
+  },
+  {
     "id": "JRCTR6JBU5BJJLZTXAFZYIRLJ4",
     "headline": "Immigrants drive population growth in a graying America, census shows",
     "description": "Immigration is driving U.S. population growth, partially offsetting a broader demographic shift as baby boomers age, according to Census Bureau data.\n",
