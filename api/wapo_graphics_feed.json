@@ -1,5 +1,47 @@
 [
   {
+    "id": "IQFOXT7ZP5FQNPF7BVT6YMDHGM",
+    "headline": "What Democratic swings in special elections mean for 2026",
+    "description": "Special election results are providing insight into the 2026 election outlook, with Democrats making significant gains across the country",
+    "url": "https://www.washingtonpost.com/politics/2025/06/27/democratic-special-election-gains/",
+    "credits": [
+      {
+        "name": "Lenny Bronner",
+        "slug": "lenny-bronner"
+      },
+      {
+        "name": "Nick Mourtoupalas",
+        "slug": "nick-mourtoupalas"
+      }
+    ],
+    "date": "2025-06-27T10:00:30.339Z",
+    "img": "https://www.washingtonpost.com/resizer/P_Y_19Z2-RZgRDcbtLb9bpCs2Hs=/300x0/arc-anglerfish-washpost-prod-washpost/public/UV36BQHE35A3BAOSRKKBGEVN6E.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/politics/"
+    }
+  },
+  {
+    "id": "SAOVYSLSWFD7HDBDGYWC2B73SY",
+    "headline": "The real reason airports all feel the same",
+    "description": "Digging into restaurant reviews, the Department of Data found that differences between chains seem to disappear within airports. Why is that?",
+    "url": "https://www.washingtonpost.com/business/2025/06/27/department-of-data-airport-restaurants/",
+    "credits": [
+      {
+        "name": "Andrew Van Dam",
+        "slug": "andrew-van-dam"
+      },
+      {
+        "name": "Dylan Moriarty",
+        "slug": "dylan-moriarty"
+      }
+    ],
+    "date": "2025-06-27T10:00:10.935Z",
+    "img": "https://www.washingtonpost.com/resizer/4QXeyrCQ_lcOgUxTu79pd08r7Pc=/300x0/arc-anglerfish-washpost-prod-washpost/public/BEPG2EAYALDNFFTHMQ2EOFBG6M.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/business/2022/06/29/dept-of-data/"
+    }
+  },
+  {
     "id": "HF2Q7JARRBEGJMN7C76SIPJCVU",
     "headline": "See how your airport ranks among the best in the country",
     "description": "The Washington Post’s new rankings cover more than 450 U.S. airports.",
