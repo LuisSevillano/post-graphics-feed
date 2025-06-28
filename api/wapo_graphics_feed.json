@@ -1,5 +1,30 @@
 [
   {
+    "id": "NMBGFE6TMFHDFEHX222OAPNH6A",
+    "headline": "Eight charts that explain the Supreme Court’s term",
+    "description": "Numbers illustrate the term’s key themes and decisions. ",
+    "url": "https://www.washingtonpost.com/politics/2025/06/28/supreme-court-2024-term-takeaways/",
+    "credits": [
+      {
+        "name": "Justin Jouvenal",
+        "slug": "justin-jouvenal"
+      },
+      {
+        "name": "Derek Hawkins",
+        "slug": "derek-hawkins"
+      },
+      {
+        "name": "Hannah Dormido",
+        "slug": "hannah-dormido"
+      }
+    ],
+    "date": "2025-06-28T16:49:35.331Z",
+    "img": "https://www.washingtonpost.com/resizer/dr8maSr-uz8ejXdHDH4GH9eulr8=/300x0/arc-anglerfish-washpost-prod-washpost/public/WQOZYZT63VEE7LL2EAP3JDG254.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/politics/courts-law/"
+    }
+  },
+  {
     "id": "FXLKE2TUPZCI3OM6IGR7JO2LEY",
     "headline": "Senate excludes trillions in debt to make Trump’s tax bill seem cheaper",
     "description": "Traditional estimates say that Trump’s tax package will add about $4 trillion to the national debt. Senate Republicans have slashed that number by changing the way Congress does its accounting.",
