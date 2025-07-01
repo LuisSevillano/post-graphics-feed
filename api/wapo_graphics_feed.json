@@ -1,5 +1,30 @@
 [
   {
+    "id": "6MZ5ME2BPFGBFPDGC7WAXTYXGQ",
+    "headline": "How every senator voted on the reconciliation bill",
+    "description": "See how your lawmaker voted.",
+    "url": "https://www.washingtonpost.com/politics/interactive/2025/07/01/senate-big-beautiful-bill-vote-count/",
+    "credits": [
+      {
+        "name": "Kati Perry",
+        "slug": "kati-perry"
+      },
+      {
+        "name": "Hannah Dormido",
+        "slug": "hannah-dormido"
+      },
+      {
+        "name": "Nick Mourtoupalas",
+        "slug": "nick-mourtoupalas"
+      }
+    ],
+    "date": "2025-07-01T16:59:47.271Z",
+    "img": "https://www.washingtonpost.com/resizer/wQPreoQvdojlDLjAF3kbjNq7OzE=/300x0/arc-anglerfish-washpost-prod-washpost/public/M6AAJEBSWJCAPC26DEK6KRYAEU.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/politics/"
+    }
+  },
+  {
     "id": "NMBGFE6TMFHDFEHX222OAPNH6A",
     "headline": "Eight charts that explain the Supreme Court’s term",
     "description": "Numbers illustrate the term’s key themes and decisions. ",
