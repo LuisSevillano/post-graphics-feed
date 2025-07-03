@@ -1,5 +1,30 @@
 [
   {
+    "id": "6TGXF6FTKRELRMK3HSKJOGJOJU",
+    "headline": "How every House member voted on Trump’s big tax bill",
+    "description": "See how every lawmaker voted.",
+    "url": "https://www.washingtonpost.com/politics/interactive/2025/07/03/house-vote-trump-tax-bill/",
+    "credits": [
+      {
+        "name": "Hannah Dormido",
+        "slug": "hannah-dormido"
+      },
+      {
+        "name": "Szu Yu  Chen",
+        "slug": "szuyu-chen"
+      },
+      {
+        "name": "Nick Mourtoupalas",
+        "slug": "nick-mourtoupalas"
+      }
+    ],
+    "date": "2025-07-03T18:55:03.074Z",
+    "img": "https://www.washingtonpost.com/resizer/tOBWCniVviG7v137xThMQlRNFOk=/300x0/arc-anglerfish-washpost-prod-washpost/public/MSEWM3ZQU32ZKVV7OJIRXW7MZM.JPG",
+    "label": {
+      "url": "https://www.washingtonpost.com/politics/"
+    }
+  },
+  {
     "id": "CB7MQ2EMCBFWTJ3NDHHCS7JIDY",
     "headline": "ICE increasingly targets undocumented migrants with no criminal record ",
     "description": "ICE officers are ramping up arrests. But the share of detained migrants with a criminal conviction has been declining. ",
