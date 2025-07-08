@@ -1,5 +1,20 @@
 [
   {
+    "id": "d1715307-7c06-4121-90d6-49a8c6b9eec8",
+    "headline": "Water vapor July 3 to 4",
+    "description": "Source: Mid-level water vapor imagery from NOAA's GOES-19 satellite",
+    "url": "https://www.washingtonpost.com/video/climate-environment/water-vapor-july-3-to-4/2025/07/08/d1715307-7c06-4121-90d6-49a8c6b9eec8_video.html",
+    "credits": [
+      {
+        "name": "John Muyskens",
+        "slug": "john-muyskens"
+      }
+    ],
+    "date": "2025-07-08T17:33:54.000Z",
+    "img": "https://d1i4t8bqe7zgj6.cloudfront.net/07-08-2025/t_f6cc4fded28b4540b09e9031d579b847_name_geometry_goes16_2025_07_03__0_00_04_28_.jpg",
+    "label": {}
+  },
+  {
     "id": "BFCPMQALMFBC3NDR4ZPMWH2CSI",
     "headline": "See how FEMA maps reveal camps’ flood risks ",
     "description": "Many camps in the Guadalupe river region are adjacent or are partially inside high-risk flood zones, according to maps from the Federal Emergency Management Agency.",
