@@ -1,5 +1,30 @@
 [
   {
+    "id": "KZYRHU64YZGVXJJ6Q3SEIOW47U",
+    "headline": "Sean Duffy and six others with multiple jobs in Trump’s administration",
+    "description": "Trump’s vow to shrink the federal government appears to rely, at least in part, on top officials doing multiples jobs. These seven are doing double, triple or quadruple duty.",
+    "url": "https://www.washingtonpost.com/politics/2025/07/12/trump-rubio-duffy-multiple-titles/",
+    "credits": [
+      {
+        "name": "Azi Paybarah",
+        "slug": "azi-paybarah"
+      },
+      {
+        "name": "Álvaro Valiño",
+        "slug": "álvaro-valiño"
+      },
+      {
+        "name": "Kevin Schaul",
+        "slug": "kevin-schaul"
+      }
+    ],
+    "date": "2025-07-12T10:00:34.960Z",
+    "img": "https://www.washingtonpost.com/resizer/64wrvkvq5xn7uZIDrdtDVsHPKWI=/300x0/arc-anglerfish-washpost-prod-washpost/public/RQX5Y7G5FFCHHCMGYKWW7A7OBQ.png",
+    "label": {
+      "url": "https://www.washingtonpost.com/politics/"
+    }
+  },
+  {
     "id": "3NTUZ54MRRC5THVDQVIUFCW6O4",
     "headline": "Kerr County did not use its most far-reaching alert system in deadly Texas floods",
     "description": "Local officials used the system more than two days after the recorded height of the floods.",
