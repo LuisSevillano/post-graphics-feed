@@ -1,5 +1,22 @@
 [
   {
+    "id": "CGA4UEJXVRCMDBQ4ADCPSF53TQ",
+    "headline": "These are the most and least polluted national parks in the U.S.",
+    "description": "While haze levels have declined in most national parks, more intense wildfires threaten to reverse this trend. See where your favorite park stands.",
+    "url": "https://www.washingtonpost.com/climate-environment/interactive/2025/national-parks-pollution-air-haze/",
+    "credits": [
+      {
+        "name": "Niko Kommenda",
+        "slug": "niko-kommenda"
+      }
+    ],
+    "date": "2025-07-14T10:00:28.074Z",
+    "img": "https://www.washingtonpost.com/resizer/ZTUl-kXdWwnX_uPL1QPJOEbiTbM=/300x0/arc-anglerfish-washpost-prod-washpost/public/UKCW4NOHHJFP3OMTRKNENYTWIE.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/climate-environment/climate-lab/"
+    }
+  },
+  {
     "id": "KZYRHU64YZGVXJJ6Q3SEIOW47U",
     "headline": "Sean Duffy and six others with multiple jobs in Trump’s administration",
     "description": "Trump’s vow to shrink the federal government appears to rely, at least in part, on top officials doing multiples jobs. These seven are doing double, triple or quadruple duty.",
