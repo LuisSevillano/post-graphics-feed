@@ -1,5 +1,30 @@
 [
   {
+    "id": "56ZB5NB5SRFEVHHXO2TU4AHVJA",
+    "headline": "The White House’s plan to downsize the federal government, in charts",
+    "description": "An agency-by-agency look at how President Donald Trump and his advisors plan to dramatically shrink the federal government.",
+    "url": "https://www.washingtonpost.com/politics/interactive/2025/white-house-budget-federal-government/",
+    "credits": [
+      {
+        "name": "Jeremy B. Merrill",
+        "slug": "jeremy-b-merrill"
+      },
+      {
+        "name": "Kati Perry",
+        "slug": "kati-perry"
+      },
+      {
+        "name": "Jacob Bogage",
+        "slug": "jacob-bogage"
+      }
+    ],
+    "date": "2025-07-16T10:01:00.051Z",
+    "img": "https://www.washingtonpost.com/resizer/LHTiY_NWe7MGzuEpa18yieGJWw0=/300x0/arc-anglerfish-washpost-prod-washpost/public/HUHEPEDPKJFGPCDMM2723AWOMY.png",
+    "label": {
+      "url": "https://www.washingtonpost.com/politics/"
+    }
+  },
+  {
     "id": "PQHMUYODVBAPHH6WWOSVUW6SKM",
     "headline": "Emmy nominations 2025: See our updating list of the best in TV",
     "description": "See what surprises and snubs the 2025 Emmy nominations have in store this year.\n",
