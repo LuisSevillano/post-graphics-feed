@@ -1,5 +1,26 @@
 [
   {
+    "id": "BHNZXBANB5ABNAHSJEGXGXQYQM",
+    "headline": "How senators voted on the rescissions bill",
+    "description": "See how your lawmaker voted on the bill that would let the Trump administration pull back billions in foreign aid and other federal funding.",
+    "url": "https://www.washingtonpost.com/politics/interactive/2025/07/17/senate-vote-count-rescissions/",
+    "credits": [
+      {
+        "name": "Hannah Dormido",
+        "slug": "hannah-dormido"
+      },
+      {
+        "name": "Nick Mourtoupalas",
+        "slug": "nick-mourtoupalas"
+      }
+    ],
+    "date": "2025-07-17T08:00:21.300Z",
+    "img": "https://www.washingtonpost.com/resizer/CpNJrCAzIVyRjbq3hKBPsxY2ePY=/300x0/arc-anglerfish-washpost-prod-washpost/public/ELOT7PMIGVBXRDAS6WKQEDZ4ZI.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/politics/"
+    }
+  },
+  {
     "id": "56ZB5NB5SRFEVHHXO2TU4AHVJA",
     "headline": "The White House’s plan to downsize the federal government, in charts",
     "description": "An agency-by-agency look at how President Donald Trump and his advisors plan to dramatically shrink the federal government.",
