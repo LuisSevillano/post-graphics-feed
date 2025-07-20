@@ -1,5 +1,32 @@
 [
   {
+    "id": "HGDKMJ7WDFDRTG4LX3GGVJECPA",
+    "headline": "A new era of floods has arrived  ",
+    "description": "A Washington Post investigation reveals why so few people evacuated in the state hit hardest by last year’s deadliest disaster.",
+    "url": "https://www.washingtonpost.com/climate-environment/2025/07/07/hurricane-helene-evacuation-north-carolina-warnings/",
+    "credits": [
+      {
+        "name": "Sarah Kaplan",
+        "slug": "sarah-kaplan"
+      },
+      {
+        "name": "Kevin Crowe",
+        "slug": "kevin-crowe"
+      },
+      {
+        "name": "Naema Ahmed",
+        "slug": "naema-ahmed"
+      },
+      {
+        "name": "Ben Noll",
+        "slug": "ben-noll"
+      }
+    ],
+    "date": "2025-07-20T10:00:00.182Z",
+    "img": "https://www.washingtonpost.com/resizer/i70DL7P3RwGLUtTe2rGW2d37WAA=/300x0/arc-anglerfish-washpost-prod-washpost/public/E4NJKZBAQAH73Z7TIVPLYV2AZA.jpg",
+    "label": {}
+  },
+  {
     "id": "BHNZXBANB5ABNAHSJEGXGXQYQM",
     "headline": "How senators voted on the rescissions bill",
     "description": "See how your lawmaker voted on the bill that would let the Trump administration pull back billions in foreign aid and other federal funding.",
