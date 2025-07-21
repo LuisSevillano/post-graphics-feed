@@ -1,5 +1,66 @@
 [
   {
+    "id": "WQAK3IMEKVEV3KOZOFT63V7I5Q",
+    "headline": "Trump’s tariffs could upend U.S. trade with E.U., a global export power",
+    "description": "President Donald Trump’s threat to impose 30% tariffs on the European Union starting Aug. 1 disrupted negotiations and risks damaging a crucial trade relationship.",
+    "url": "https://www.washingtonpost.com/world/2025/07/21/trumps-tariffs-could-upend-us-trade-with-eu-global-export-power/",
+    "credits": [
+      {
+        "name": "Ellen Francis",
+        "slug": "ellen-francis"
+      },
+      {
+        "name": "Amaya Verde",
+        "slug": "amaya-verde"
+      }
+    ],
+    "date": "2025-07-21T10:00:20.484Z",
+    "img": "https://www.washingtonpost.com/resizer/63VhEmjsQnunqGreRHjy1v4BRnM=/300x0/arc-anglerfish-washpost-prod-washpost/public/PIAGZPXGJJEUJOCUX5WE252OVA.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/world/europe/"
+    }
+  },
+  {
+    "id": "UDDNWIWTIZBI5AYMH4NFW6FIOI",
+    "headline": "Saving Istanbul’s ancient structures from the next big earthquake",
+    "description": "Istanbul’s historic buildings, including the Hagia Sophia and Basilica Cistern, are at risk from a major earthquake on the Anatolian fault line.",
+    "url": "https://www.washingtonpost.com/world/interactive/2025/istanbul-earthquake-hagia-sophia-basilica-cistern/",
+    "credits": [
+      {
+        "name": "Maham Javaid",
+        "slug": "maham-javaid"
+      },
+      {
+        "name": "Salwan Georges",
+        "slug": "salwan-georges"
+      },
+      {
+        "name": "Erin O’Brien"
+      },
+      {
+        "name": "Leslie Shapiro",
+        "slug": "leslie-shapiro"
+      },
+      {
+        "name": "Laris Karklis",
+        "slug": "laris-karklis"
+      },
+      {
+        "name": "William Neff",
+        "slug": "william-neff"
+      },
+      {
+        "name": "Yutao Chen",
+        "slug": "yutao-chen"
+      }
+    ],
+    "date": "2025-07-21T10:00:01.701Z",
+    "img": "https://www.washingtonpost.com/resizer/8PkXiLY-GTKCbtWGwUh8ayyotjA=/300x0/arc-anglerfish-washpost-prod-washpost/public/C6BOFUHYXCWHEDCD5QT6PLXXUI.JPG",
+    "label": {
+      "url": "https://www.washingtonpost.com/world/"
+    }
+  },
+  {
     "id": "HGDKMJ7WDFDRTG4LX3GGVJECPA",
     "headline": "A new era of floods has arrived  ",
     "description": "A Washington Post investigation reveals why so few people evacuated in the state hit hardest by last year’s deadliest disaster.",
