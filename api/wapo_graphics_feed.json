@@ -1,5 +1,22 @@
 [
   {
+    "id": "ZME4U56ECJF5LGYQYRSUVC3VKU",
+    "headline": "Does your city have too much of one kind of tree? That can be a problem.",
+    "description": "Many urban canopies across U.S. cities are dominated by only a handful of tree types, putting them at risk of being wiped out by an insect or disease.",
+    "url": "https://www.washingtonpost.com/climate-solutions/interactive/2025/city-tree-diversity-vulnerability-maps/",
+    "credits": [
+      {
+        "name": "Janice Kai Chen",
+        "slug": "janice-kai-chen"
+      }
+    ],
+    "date": "2025-07-29T10:05:59.647Z",
+    "img": "https://www.washingtonpost.com/resizer/Zi8WCR9vR_f2dmvYGlSZXW8fDS0=/300x0/arc-anglerfish-washpost-prod-washpost/public/JIMTMGS3I5B5LJXLM7FQZOUV3I.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/climate-solutions/"
+    }
+  },
+  {
     "id": "UA4XZ56VQRCARALGDAONDAIECQ",
     "headline": "Will AI help you work or replace you? Check yourself.",
     "description": "Here’s how AI is impacting 700 professions — and might impact yours.",
