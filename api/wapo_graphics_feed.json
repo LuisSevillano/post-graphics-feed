@@ -1,5 +1,42 @@
 [
   {
+    "id": "D3KMIFJJMNBMVAOGN6YI2PDCRQ",
+    "headline": "Texas map would add five safe Republican seats. What it means for the midterms.",
+    "description": "The newly proposed Republican map, at President Donald Trump’s urging, would give the party a potential backstop for keeping control of the House even if it performs poorly elsewhere in the 2026 elections. ",
+    "url": "https://www.washingtonpost.com/politics/2025/07/30/texas-redistricting-map-republican-proposal/",
+    "credits": [
+      {
+        "name": "Yvonne Wingett Sanchez",
+        "slug": "yvonne-wingett-sanchez"
+      },
+      {
+        "name": "Patrick Marley",
+        "slug": "patrick-marley"
+      },
+      {
+        "name": "Maeve Reston",
+        "slug": "maeve-reston"
+      },
+      {
+        "name": "Lenny Bronner",
+        "slug": "lenny-bronner"
+      },
+      {
+        "name": "Marianna Sotomayor",
+        "slug": "marianna-sotomayor"
+      },
+      {
+        "name": "Nick Mourtoupalas",
+        "slug": "nick-mourtoupalas"
+      }
+    ],
+    "date": "2025-07-30T15:21:56.772Z",
+    "img": "https://www.washingtonpost.com/resizer/GwidH9zcdadU8WuZoNZhraaGuxg=/300x0/arc-anglerfish-washpost-prod-washpost/public/6NPRBULGMD7PNQXI5D3MJ24AD4.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/politics/"
+    }
+  },
+  {
     "id": "KGBOFYWSZNDBVKI2TLGUVEERLA",
     "headline": "Gaza airdrops deliver a fraction of what trucks could, aid groups warn",
     "description": "Israel’s decision to allow Gaza airdrops to resume comes with risks and high costs, and experts say it’s not enough to meet acute need amid a starvation crisis.",
