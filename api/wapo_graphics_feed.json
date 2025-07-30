@@ -1,5 +1,30 @@
 [
   {
+    "id": "IKGYKOXYCZHUHMR6V4U67UOUEA",
+    "headline": "Earthquake off Russia’s coast is among strongest ever recorded",
+    "description": "The 8.8-magnitude earthquake that struck Russia’s Kamchatka Peninsula could be among the six strongest on record, according to U.S. geological authorities.",
+    "url": "https://www.washingtonpost.com/world/2025/07/30/strongest-tsunami-earthquake-records-russia/",
+    "credits": [
+      {
+        "name": "Annabelle Timsit",
+        "slug": "annabelle-timsit"
+      },
+      {
+        "name": "Amaya Verde",
+        "slug": "amaya-verde"
+      },
+      {
+        "name": "Ben Noll",
+        "slug": "ben-noll"
+      }
+    ],
+    "date": "2025-07-30T10:22:24.887Z",
+    "img": "https://www.washingtonpost.com/resizer/HHEx2BQKGbjWDtJDyj-lZHsE66A=/300x0/arc-anglerfish-washpost-prod-washpost/public/QJRWR2VPD3GLLXSHCHXKQPFYCY.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/world/"
+    }
+  },
+  {
     "id": "ZKPZVFAOIJAQDDQLA3ZZONIW3Q",
     "headline": "60,000 Gazans have been killed. 18,500 were children. These are their names.",
     "description": "Palestinian children have been killed at a rate of more than one per hour since the war began.",
