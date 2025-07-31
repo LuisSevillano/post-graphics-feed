@@ -1,5 +1,47 @@
 [
   {
+    "id": "ATYHBLNHYJDRDJN2HXZWTM53XU",
+    "headline": "Satellites and drone swarms: The new high-tech quest to fight wildfires     ",
+    "description": "A company is sending satellites into space to detect wildfire with unprecedented precision.",
+    "url": "https://www.washingtonpost.com/climate-solutions/2025/07/31/wildfire-ai-satellite-technology/",
+    "credits": [
+      {
+        "name": "Ruby Mellen",
+        "slug": "ruby-mellen"
+      },
+      {
+        "name": "Dylan Moriarty",
+        "slug": "dylan-moriarty"
+      }
+    ],
+    "date": "2025-07-31T22:59:13.737Z",
+    "img": "https://www.washingtonpost.com/resizer/51L8J1X6_BDLJGa9PkTCzLl0px0=/300x0/arc-anglerfish-washpost-prod-washpost/public/VDCYZMFV7NES5OL5L477226ADA.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/climate-environment/environment/"
+    }
+  },
+  {
+    "id": "2VLHCYGU35HEHEKBS5437YIFZQ",
+    "headline": "Here are countries that recognize a Palestinian state — or may do so soon",
+    "description": "Anger over Israel’s conduct in Gaza has left it increasingly isolated as key allies move toward declarations of Palestinian statehood.",
+    "url": "https://www.washingtonpost.com/world/2025/07/31/palestinian-state-recognition-countries-list/",
+    "credits": [
+      {
+        "name": "Maham Javaid",
+        "slug": "maham-javaid"
+      },
+      {
+        "name": "Júlia Ledur",
+        "slug": "julia-ledur"
+      }
+    ],
+    "date": "2025-07-31T22:01:40.270Z",
+    "img": "https://www.washingtonpost.com/resizer/HeOJQTOolZPnr5khLsD_oBVhrYI=/300x0/arc-anglerfish-washpost-prod-washpost/public/FPI3AZLMVNCBNFE4AO5YSSJC7Q.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/world/americas/"
+    }
+  },
+  {
     "id": "JDZI4RQBCNC33C6VJMDHLMILV4",
     "headline": "‘Welcome to hell’: Inside the mega prison where the U.S. deported migrants",
     "description": "Interviews with 16 former detainees of El Salvador’s Terrorism Confinement Center offer the most complete view yet of conditions inside the notorious prison.",
