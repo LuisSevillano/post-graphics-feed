@@ -1,5 +1,30 @@
 [
   {
+    "id": "C64ZIDGEHJBSPN5C2NX3ARVENU",
+    "headline": "What humans can learn from some of history’s greatest zoo escapes",
+    "description": "When we looked for life lessons in some of the most successful zoo escapes, we found out why we’re so fascinated by these scaly, furry, feathery fugitives.",
+    "url": "https://www.washingtonpost.com/business/interactive/2025/what-zoo-escapes-can-teach-humans/",
+    "credits": [
+      {
+        "name": "Bonnie Berkowitz",
+        "slug": "bonnie-berkowitz"
+      },
+      {
+        "name": "Artur Galocha",
+        "slug": "artur-galocha"
+      },
+      {
+        "name": "Andrew Van Dam",
+        "slug": "andrew-van-dam"
+      }
+    ],
+    "date": "2025-08-01T10:00:05.157Z",
+    "img": "https://www.washingtonpost.com/resizer/4jbZo2JZl-cVCfinDaMCr4s77tU=/300x0/arc-anglerfish-washpost-prod-washpost/public/XCDXBXEFCZGJPBPZYBQC4RO2K4.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/business/2022/06/29/dept-of-data/"
+    }
+  },
+  {
     "id": "ATYHBLNHYJDRDJN2HXZWTM53XU",
     "headline": "Satellites and drone swarms: The new high-tech quest to fight wildfires     ",
     "description": "A company is sending satellites into space to detect wildfire with unprecedented precision.",
